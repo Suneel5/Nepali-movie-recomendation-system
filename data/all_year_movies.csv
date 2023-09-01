@@ -1,72 +1,38 @@
 ,Year,Film,Artist,Director,Producer,Music composer
 0,,,,,,
-1,1964,Aama (mother),"Shiva Shankar, Bhuvan Chand",Heera Singh Khatri,Information Dept. Govt of Nepal,"
-"
-2,1966,Maitighar (Birthplace[women's]),"Mala Sinha, C.P. Lohani",B.S. Thapa,Sumonanjali Films Pvt. Ltd.,"Jaidev
-"
-3,1967,"Hijo, Aaja, Bholi (Yesterday, Today, Tomarrow)","Mitra Lal Sharma, Bhuvan Chand",Heera Singh Khatri,Information Dept. Govt of Nepal,"
-"
-4,1971,"Parivartan (Change) 
-","Yagya mirth Ghimire
-",Heera Singh Khatri,Information Dept. Govt of Nepal,"
-"
-5,1973,Mann Ko Bandh (Heart's stoppage),"Salyan K.C., Sushma Shahi",Prakash Thapa,Royal Nepal Film Corporation,"Nati Kaji, Shiva Shankar
-"
-6,1977,Kumari (Living goddess),"Biswa Basnet, Chaitya Devi",Prem Bahadur Basnet,Royal Nepal Film Corporation,"
-"
-7,1978,Paral Ko Aago (Straw's Flame),"Tanka Sharma, Susmita Dhakal, Basundhara Bhusal (debut)",Pratap Subba,Cineroma,"Shanti Thatal
-"
+1,1964,Aama (mother),"Shiva Shankar, Bhuvan Chand",Heera Singh Khatri,Information Dept. Govt of Nepal,
+2,1966,Maitighar (Birthplace[women's]),"Mala Sinha, C.P. Lohani",B.S. Thapa,Sumonanjali Films Pvt. Ltd.,Jaidev
+3,1967,"Hijo, Aaja, Bholi (Yesterday, Today, Tomarrow)","Mitra Lal Sharma, Bhuvan Chand",Heera Singh Khatri,Information Dept. Govt of Nepal,
+4,1971,Parivartan (Change),Yagya mirth Ghimire,Heera Singh Khatri,Information Dept. Govt of Nepal,
+5,1973,Mann Ko Bandh (Heart's stoppage),"Salyan K.C., Sushma Shahi",Prakash Thapa,Royal Nepal Film Corporation,"Nati Kaji, Shiva Shankar"
+6,1977,Kumari (Living goddess),"Biswa Basnet, Chaitya Devi",Prem Bahadur Basnet,Royal Nepal Film Corporation,
+7,1978,Paral Ko Aago (Straw's Flame),"Tanka Sharma, Susmita Dhakal, Basundhara Bhusal (debut)",Pratap Subba,Cineroma,Shanti Thatal
 8,,,,,,
-9,1980,Sindoor (Marriage symbol),"Meenaxi Anand, Biswa Basnet, Neer Shah",Prakash Thapa,Royal Nepal Film Corporation,"
-"
-10,1980,Jeevan Rekha (Life Line),"Meenaxi Anand, Shiv Shrestha (debut)",,,"
-"
-11,1981,Bansuri (Flute),"Rakesh Pandey, Rajani Sharma, Tanka Sharma, Biswa Hingmang",Tulsi Ghimire,Mohan Kumar Bannerjee,"Ranjit Gazmer
-"
-12,1982,Juni (Incarnation),"Bhuwan K.C. (debut), Meenakshi Anand",Sarad Palekar,,"
-"
-13,1982,Bachana Chahane Haru (Those Who Want to Live),"Kiran Thakuri, Biswa Hingmang",Pratap Subba,,"Shanti Thatal
-"
-14,1982,Badalindo Aakash (The Changing Sky),"Shiv Shrestha, Sushma Shahi, Neer Shah",Laxminath Sharma,Royal Nepal Film Corporation,"Gopal Yonzon
-"
-15,1983,Samjhana (Memories),"Bhuwan K.C., Trupti Totlani Narodkar (debut), Muralidhar",Shambhu Pradhan,Ishwari Films,"Ranjit Gazmer
-"
-16,1984,Kanchhi (Little Sister),"Shiv Shrestha, Sharmila Malla (debut), Sushma Shahi, Mausami Malla (debut)",B.S. Thapa,Bhagawan Das Shrestha,"Gopal Yonzon
-"
-17,1984,Adarsha Nari (Exemplary Woman),"Bijaya Lama, Ujwal Ghimire, Amsumala Shahi, Punam Lama",Hem Lama,Hem Lama,"Madan Pariyar
-"
-18,1985,"Ke Ghar Ke Dera (What's Home, What's Tenancy)","Puran Joshi (debut), Sharmila Malla, Madan Krishna Shrestha, Hari Bansha Acharya, Kristi Mainali (debut)",Pradeep Rimal,,"
-"
-19,1985,Kusume Rumal (Scarlet Handkerchief),"Bhuwan K.C., Trupti Totlani Narodkar, Udit Narayan (debut)",Tulsi Ghimire,Sayapatri Films,"Ranjit Gazmer
-"
+9,1980,Sindoor (Marriage symbol),"Meenaxi Anand, Biswa Basnet, Neer Shah",Prakash Thapa,Royal Nepal Film Corporation,
+10,1980,Jeevan Rekha (Life Line),"Meenaxi Anand, Shiv Shrestha (debut)",,,
+11,1981,Bansuri (Flute),"Rakesh Pandey, Rajani Sharma, Tanka Sharma, Biswa Hingmang",Tulsi Ghimire,Mohan Kumar Bannerjee,Ranjit Gazmer
+12,1982,Juni (Incarnation),"Bhuwan K.C. (debut), Meenakshi Anand",Sarad Palekar,,
+13,1982,Bachana Chahane Haru (Those Who Want to Live),"Kiran Thakuri, Biswa Hingmang",Pratap Subba,,Shanti Thatal
+14,1982,Badalindo Aakash (The Changing Sky),"Shiv Shrestha, Sushma Shahi, Neer Shah",Laxminath Sharma,Royal Nepal Film Corporation,Gopal Yonzon
+15,1983,Samjhana (Memories),"Bhuwan K.C., Trupti Totlani Narodkar (debut), Muralidhar",Shambhu Pradhan,Ishwari Films,Ranjit Gazmer
+16,1984,Kanchhi (Little Sister),"Shiv Shrestha, Sharmila Malla (debut), Sushma Shahi, Mausami Malla (debut)",B.S. Thapa,Bhagawan Das Shrestha,Gopal Yonzon
+17,1984,Adarsha Nari (Exemplary Woman),"Bijaya Lama, Ujwal Ghimire, Amsumala Shahi, Punam Lama",Hem Lama,Hem Lama,Madan Pariyar
+18,1985,"Ke Ghar Ke Dera (What's Home, What's Tenancy)","Puran Joshi (debut), Sharmila Malla, Madan Krishna Shrestha, Hari Bansha Acharya, Kristi Mainali (debut)",Pradeep Rimal,,
+19,1985,Kusume Rumal (Scarlet Handkerchief),"Bhuwan K.C., Trupti Totlani Narodkar, Udit Narayan (debut)",Tulsi Ghimire,Sayapatri Films,Ranjit Gazmer
 20,1985,"Basudev [
-lord Vishnu]
-
-","Krishna Malla (debut), Sharmila Malla, Madan Krishna Shrestha, Hari Bansha Acharya, Neer Shah, Harihar Sharma",Neer Shah,,"Ranjit Gazmer
-"
-21,1986,Biswas (Faith),"Shiv Shrestha, Roshi Karki, Rajshri Chhetri",Chetan Karki,Royal Nepal Film Corporation,"Gopal Yonzon
-"
-22,1987,Saino (Relation),"Bhuwan K.C., Trupti Totlani Narodkar, Danny Denzongpa, Raksha Mark",Ugyen Chopel,Triple Jem Movies,"Ranjit Gazmer
-"
-23,1988,Anyay (Injustice),"Meera Madhuri (debut), Biswa Basnet, Prakash Adhikari (debut)",Tulsi Ghimire,Sagarmatha Movietone,"Ranjit Gazmer
-"
-24,1988,Jhodaa (Pair),"Banni Sharma, Tanka Sharma",Barun Kawasi,Kusulata Interprises,"Ranjit Gazmer
-"
-25,1988,Maya Preeti (Love and Affection),"Ravindra Khadka, Sharmila Malla, Krishna Malla",Chetan Karki,Shanti Films,"Gopal Yonzon
-"
-26,1988,Sahas (Courage),Shiv Shrestha,Giri Raj Lamichhane,Trishakti Films,"
-"
-27,1989,Behuli (The Bride),"Sunita Khadka, Prakash Adhikari",Shambhu Pradhan,Ishwari Films,"Ranjit Gazmer
-"
-28,1989,Bhagya Rekha (Line of Fate),"Rabindra Khadka, Mausami Malla",Deepak Rayamajhi,Surya Binayek Films,"Norbu Tshering
-"
-29,1989,Santaan (Offspring),"Bhuwan K.C., Arjun Jung Shahi (debut), Ujwal Ghimire, Karishma Manandhar (debut), Gauri Malla (debut), Shanti Maskey, Kristi Mainali",Prakash Thapa,"Om Productions, Royal Nepal Film Corporation","Manohari Singh
-"
-30,1989,Lahure (The Armyman),"Shrawan Ghimire, Trupti Totlanii Narodkar",Tulsi Ghimire,Kanchanjungha Films,"Ranjit Gazmer
-"
+lord Vishnu]","Krishna Malla (debut), Sharmila Malla, Madan Krishna Shrestha, Hari Bansha Acharya, Neer Shah, Harihar Sharma",Neer Shah,,Ranjit Gazmer
+21,1986,Biswas (Faith),"Shiv Shrestha, Roshi Karki, Rajshri Chhetri",Chetan Karki,Royal Nepal Film Corporation,Gopal Yonzon
+22,1987,Saino (Relation),"Bhuwan K.C., Trupti Totlani Narodkar, Danny Denzongpa, Raksha Mark",Ugyen Chopel,Triple Jem Movies,Ranjit Gazmer
+23,1988,Anyay (Injustice),"Meera Madhuri (debut), Biswa Basnet, Prakash Adhikari (debut)",Tulsi Ghimire,Sagarmatha Movietone,Ranjit Gazmer
+24,1988,Jhodaa (Pair),"Banni Sharma, Tanka Sharma",Barun Kawasi,Kusulata Interprises,Ranjit Gazmer
+25,1988,Maya Preeti (Love and Affection),"Ravindra Khadka, Sharmila Malla, Krishna Malla",Chetan Karki,Shanti Films,Gopal Yonzon
+26,1988,Sahas (Courage),Shiv Shrestha,Giri Raj Lamichhane,Trishakti Films,
+27,1989,Behuli (The Bride),"Sunita Khadka, Prakash Adhikari",Shambhu Pradhan,Ishwari Films,Ranjit Gazmer
+28,1989,Bhagya Rekha (Line of Fate),"Rabindra Khadka, Mausami Malla",Deepak Rayamajhi,Surya Binayek Films,Norbu Tshering
+29,1989,Santaan (Offspring),"Bhuwan K.C., Arjun Jung Shahi (debut), Ujwal Ghimire, Karishma Manandhar (debut), Gauri Malla (debut), Shanti Maskey, Kristi Mainali",Prakash Thapa,"Om Productions, Royal Nepal Film Corporation",Manohari Singh
+30,1989,Lahure (The Armyman),"Shrawan Ghimire, Trupti Totlanii Narodkar",Tulsi Ghimire,Kanchanjungha Films,Ranjit Gazmer
 31,,,,,,
-32,1990,Mayalu (Beloved),"Bhuwan K.C., Karishma Manandhar",Giri Raj Lamichhane,,"
-"
+32,1990,Mayalu (Beloved),"Bhuwan K.C., Karishma Manandhar",Giri Raj Lamichhane,,
 33,1990,Pariwar (Family),"Bhuwan K.C., Ashok Sharma, Kristi K.C. (Mainali), Mithila Sharma, Nir Shaha, Madan Das Shrestha, Sushila Rayamajhi",Raj Kumar Sharma,Mrs. Sumitra Poudyal,Jeevan Adhikari
 34,1990,Cheli Beti (Girls/Daughters),"Gauri Malla, Sharmila Malla, Arjun Jung Sahi, Mithila Sharma",Yadav Kharel,Udaya Films,Sambhujeet Baskota
 35,1990,Pheri Bhetaula (We Shall Meet Again),"Manisha Koirala, Prakash Adhikari",Phurpa Chiring Gurung,Himchuli Films,Ranjit Gazmer
@@ -207,8 +173,7 @@ lord Vishnu]
 170,1998,Saathi,Rajesh Hamal,,,
 171,1998,Sagun,"Shiv Shrestha, Bipana Thapa",,,
 172,1998,Kasto Samjhauta,,Deepak Rayamajhi,,
-173,1998,Shikhar,"Shree Krishna Shrestha, Shyaroon Sherpa",Gagan Birahi,,"
-"
+173,1998,Shikhar,"Shree Krishna Shrestha, Shyaroon Sherpa",Gagan Birahi,,
 174,1998,Sindur Pote,,Raju Dhowj Rana,,
 175,1998,Suraksha,"Dinesh Sharma, Niruta Singh, Sunil Thapa",Armit Sharma,,
 176,1998,The Commando,,JayBee Rai,Basanti Rai,Sachin Singh
@@ -240,283 +205,165 @@ lord Vishnu]
 202,1999,Timinai Basyau Mero Manma,"Dinesh Sharma, Jal Shah, Sunil Thapa",Banni Pradhan,,
 203,,,,,,
 204,2000,Aago,"Sushil Chhetri, Bipana Thapa, Niruta Singh",Narayan Puri,,Sachin Singh
-205,2000,Basanti,"Rajesh Hamal, Karishma Manandhar, Gauri Malla",Neer Shah,,"
-"
-206,2000,Dhuk Dhuki,"Rajesh Hamal, Karishma Manandhar",,,"
-"
+205,2000,Basanti,"Rajesh Hamal, Karishma Manandhar, Gauri Malla",Neer Shah,,
+206,2000,Dhuk Dhuki,"Rajesh Hamal, Karishma Manandhar",,,
 207,2000,Jindagani,"Rajesh Hamal, Karishma Manandhar",Ujwal Ghimire,Ujwal Ghimire,Sambhujeet Baskota
-208,2000,Mukundo,"Gauri Malla, Mithila Sharma",,,"
-"
-209,2000,Mann Mero Mandaina,"Dinesh Sharma, Bipana Thapa",Desh Bhakta Khanal,Chiranjiwi Baasnet,"
-"
+208,2000,Mukundo,"Gauri Malla, Mithila Sharma",,,
+209,2000,Mann Mero Mandaina,"Dinesh Sharma, Bipana Thapa",Desh Bhakta Khanal,Chiranjiwi Baasnet,
 210,2000,Tan Ta Sarai Bigris Ni Badri,"Bhuwan K.C., Sushmita K. C., Bipana Thapa, Hari Bansha Acharya",,,Sambhujeet Baskota
 211,2000,Upkaar,"Rajesh Hamal, Karishma Manandhar, Shree Krishna Shrestha, Niruta Singh, Mithila Sharma
-Sajjal Pant  (Child artist)
-
-",Kishore Rana,Om Productions,Sambhujeet Baskota
-212,2000,Shahar,"Dinesh Sharma, Puja Chand",Suman Sarkar,,"
-"
-213,2000,Anjanai maa Maya Basla hai,"Dinesh Sharma, Dilip Raymajhi",Chandra Prakash,Gopal Karmacharya,"
-"
-214,2001,Aafno Manchhe,"Bipana Thapa, Dilip Rayamajhi, Shree Krishna Shrestha, Niruta Singh Rejina Uprety",Shiva Regmi,,"
-"
-215,2001,Aashirbad,"Dinesh Sharma, Ram Krishna Dhakal, Rajesh Hamal, Jal Shah, Sanchita Luitel",Sambhu Pradhan,Gopal Karmacharya,"
-"
-216,2001,Afno Ghar Afno Manche,,Narayan Puri,,"
-"
+Sajjal Pant  (Child artist)",Kishore Rana,Om Productions,Sambhujeet Baskota
+212,2000,Shahar,"Dinesh Sharma, Puja Chand",Suman Sarkar,,
+213,2000,Anjanai maa Maya Basla hai,"Dinesh Sharma, Dilip Raymajhi",Chandra Prakash,Gopal Karmacharya,
+214,2001,Aafno Manchhe,"Bipana Thapa, Dilip Rayamajhi, Shree Krishna Shrestha, Niruta Singh Rejina Uprety",Shiva Regmi,,
+215,2001,Aashirbad,"Dinesh Sharma, Ram Krishna Dhakal, Rajesh Hamal, Jal Shah, Sanchita Luitel",Sambhu Pradhan,Gopal Karmacharya,
+216,2001,Afno Ghar Afno Manche,,Narayan Puri,,
 217,2001,Ladai,"Dinesh Sharma, Sushil Chhetri",Badri Adhikari,,
 218,2001,Army (2001 film),"Dinesh Sharma, Lokendra Karki, Jal Shah",Shovit Basnet,,
-219,2001,Badal Paree,"Bhuwan K.C., Jal Shah, Neer Shah",Ugyen Chopel,,"Sambhujeet Baskota
-"
-220,2001,Beimani,"Shiva Shrestha, Shrisha Karki, Shree Krishna Shrestha, Bipana Thapa",Bijay Chalise,,"
-"
-221,2001,Bihani,,,,"
-"
+219,2001,Badal Paree,"Bhuwan K.C., Jal Shah, Neer Shah",Ugyen Chopel,,Sambhujeet Baskota
+220,2001,Beimani,"Shiva Shrestha, Shrisha Karki, Shree Krishna Shrestha, Bipana Thapa",Bijay Chalise,,
+221,2001,Bihani,,,,
 222,2001,Buhari,"Shree krishna Shrestha, Sunil Thapa, Neer Shah",,,
-223,2001,Daag,"Dinesh Sharma, Dhiren Shakya, Jal Shah, Rajani Rana",,Akash Adhikari,"
-"
-224,2001,Daiva Sanjog,,Manju Kumar Shrestha,,"
-"
-225,2001,Darpan Chaya,"Niruta Singh, Uttam Pradhan, Tulsi Ghimire, Dilip Rayamajhi",Tulsi Ghimire,Ranjit Gazmer,"
-"
-226,2001,Gaajal,"Ramesh Uprety, Bipana Thapa, Sushil Chhetri",K P Pathak,,"
-"
-227,2001,Gaunthali,,Dr.Bhola Rijal,,"
-"
-228,2001,Haudey,"Dinesh Sharma, Ishwor Shrestha",Suraj Subba,,"
-"
-229,2001,Jeevan Saathi,,Deepak Shrestha,,"
-"
+223,2001,Daag,"Dinesh Sharma, Dhiren Shakya, Jal Shah, Rajani Rana",,Akash Adhikari,
+224,2001,Daiva Sanjog,,Manju Kumar Shrestha,,
+225,2001,Darpan Chaya,"Niruta Singh, Uttam Pradhan, Tulsi Ghimire, Dilip Rayamajhi",Tulsi Ghimire,Ranjit Gazmer,
+226,2001,Gaajal,"Ramesh Uprety, Bipana Thapa, Sushil Chhetri",K P Pathak,,
+227,2001,Gaunthali,,Dr.Bhola Rijal,,
+228,2001,Haudey,"Dinesh Sharma, Ishwor Shrestha",Suraj Subba,,
+229,2001,Jeevan Saathi,,Deepak Shrestha,,
 230,2001,Kaidi,"Dhiren Shakya, Kshitiza Shakya, Shrisha Karki",Manoj Khadka,,
-231,2001,Ke Bho Lau Na Ni,"Dinesh Sharma, Anupama Koirala, Sushil Chhetri, Shiva Shrestha",Anish Koirala,,"
-"
+231,2001,Ke Bho Lau Na Ni,"Dinesh Sharma, Anupama Koirala, Sushil Chhetri, Shiva Shrestha",Anish Koirala,,
 232,2001,Manai Ta Ho,,"Bipana Thapa, Nawal Khadka, Ramesh Upreti",Uday Subba,
-233,2001,Maya Baiguni,"Rajesh Hamal, Dhiren Shakya, Simanta Udash, Bina Basnet, Shrisha Karki",Subhash Gajurel,,"
-"
-234,2001,Maya Ko Saino,,Resh Raj Aacharya,,"
-"
-235,2001,Natedar,"Shiva Shrestha, Puja Chand, Dilip Raimajhi",Mukunda Bastakoti,,"Tika Bhandari
-"
-236,2001,Nepal Pyaro Chha,"Dinesh Sharma, Rajesh Hamal, Jal Shah, Ramesh Upreti",Sambhu Pradhan,,"Subash Gautam
-"
-237,2001,Numafung,Alok Nembang,Nabin Subba,,"
-"
-238,2001,Pirati Aafai Hudon Rahechha,,Raju Dhowj Rana,,"
-"
-239,2001,Siudo Ko Sindoor,"Rajesh Hamal, Niruta Singh, Jharana Bajracharya, Neer Shah, Ratan Subedi, Basundhara Bhushal",Manju Kumar Shrestha,,"
-"
+233,2001,Maya Baiguni,"Rajesh Hamal, Dhiren Shakya, Simanta Udash, Bina Basnet, Shrisha Karki",Subhash Gajurel,,
+234,2001,Maya Ko Saino,,Resh Raj Aacharya,,
+235,2001,Natedar,"Shiva Shrestha, Puja Chand, Dilip Raimajhi",Mukunda Bastakoti,,Tika Bhandari
+236,2001,Nepal Pyaro Chha,"Dinesh Sharma, Rajesh Hamal, Jal Shah, Ramesh Upreti",Sambhu Pradhan,,Subash Gautam
+237,2001,Numafung,Alok Nembang,Nabin Subba,,
+238,2001,Pirati Aafai Hudon Rahechha,,Raju Dhowj Rana,,
+239,2001,Siudo Ko Sindoor,"Rajesh Hamal, Niruta Singh, Jharana Bajracharya, Neer Shah, Ratan Subedi, Basundhara Bhushal",Manju Kumar Shrestha,,
 240,2001,SuperStar,"Bhuwan K.C., Sushmita K. C.",Anish Koirala,,
 241,2001,Timrai Lagi,,Uday Subba,,
-242,2001,Kasto Saino,Rajesh Hamal,Madan Ghimire,,"
-"
-243,2001,Yo Maya Ko Sagar,"Jal Shah, Ramesh Upreti",Ashok Sharma,,"
-"
-244,2002,Susmita Ko Life,"Niruta Singh, Uttam Pradhan",Deepak Shrestha,,"
-"
-245,2002,Maya Baiguni,"Dhiraj Shrestha, Bina Budhathoki, Shrisha Karki",Subash Gajurel,Kanchi Hamal,"Madan Dipbim
-"
-246,2002,Anjuli,,,,"
-"
-247,2002,Baacha Bandhan,"Dhiren Shakya, Shrisha Karki, Shanti Maskey, Basundhara Bhusal, Rajaram Paudel",,,"
-"
-248,2002,Babu Saheb,"Bhuwan K.C., Karishma Manandhar, Sushmita K.C.",Ramesh Budathoki,,"
-"
-249,2002,Bakshish,,,,"Tika Bhandari
-"
-250,2002,Bhagya Le Jurayo,"Rajesh Hamal, Rejina Uprety",Resh Raj Acharya,,"
-"
-251,2002,Bhai Tika,,Laxmi Nath Sharma,,"
-"
-252,2002,Bir Ganeshman,Manoj RC,"Sahajman Shrestha, Bijayratna Tuladhar",Nabindra Raj Joshi,"
-"
-253,2002,Dhan Sampati,"Dilip Rayamajhi, Rejina Uprety",,,"
-"
-254,2002,Hateri,"Rajesh Hamal, Rejina Uprety, Puja Chand",,,"
-"
-255,2002,Khandan,"Rajesh Hamal, Niruta Singh, Rejina Uprety, Sushil Chhetri",Yuva Raj Lama,,"
-"
+242,2001,Kasto Saino,Rajesh Hamal,Madan Ghimire,,
+243,2001,Yo Maya Ko Sagar,"Jal Shah, Ramesh Upreti",Ashok Sharma,,
+244,2002,Susmita Ko Life,"Niruta Singh, Uttam Pradhan",Deepak Shrestha,,
+245,2002,Maya Baiguni,"Dhiraj Shrestha, Bina Budhathoki, Shrisha Karki",Subash Gajurel,Kanchi Hamal,Madan Dipbim
+246,2002,Anjuli,,,,
+247,2002,Baacha Bandhan,"Dhiren Shakya, Shrisha Karki, Shanti Maskey, Basundhara Bhusal, Rajaram Paudel",,,
+248,2002,Babu Saheb,"Bhuwan K.C., Karishma Manandhar, Sushmita K.C.",Ramesh Budathoki,,
+249,2002,Bakshish,,,,Tika Bhandari
+250,2002,Bhagya Le Jurayo,"Rajesh Hamal, Rejina Uprety",Resh Raj Acharya,,
+251,2002,Bhai Tika,,Laxmi Nath Sharma,,
+252,2002,Bir Ganeshman,Manoj RC,"Sahajman Shrestha, Bijayratna Tuladhar",Nabindra Raj Joshi,
+253,2002,Dhan Sampati,"Dilip Rayamajhi, Rejina Uprety",,,
+254,2002,Hateri,"Rajesh Hamal, Rejina Uprety, Puja Chand",,,
+255,2002,Khandan,"Rajesh Hamal, Niruta Singh, Rejina Uprety, Sushil Chhetri",Yuva Raj Lama,,
 256,2002,Maan,"Dinesh Sharma, Rejina Uprety, Uttam Pradhan, Jay Kishan Basnet",Sovit Basnet,,
-257,2002,Malai Maaf Garidau,,Bijay Thapa,,"
-"
-258,2002,Malati,"Dinesh Sharma, Shiva Shrestha, Jal Shah, Shrisha Karki",Anil Sangraula,,"
-"
-259,2002,Mama Bhanja,,,,"
-"
-260,2002,Mamaghar,"Shiv Shrestha, Gauri Malla, Dilip Rayamajhi, Melina Manandhar",,,"
-"
+257,2002,Malai Maaf Garidau,,Bijay Thapa,,
+258,2002,Malati,"Dinesh Sharma, Shiva Shrestha, Jal Shah, Shrisha Karki",Anil Sangraula,,
+259,2002,Mama Bhanja,,,,
+260,2002,Mamaghar,"Shiv Shrestha, Gauri Malla, Dilip Rayamajhi, Melina Manandhar",,,
 261,2002,Man Mandir,,,,
-262,2002,Maya Namara,,,,"
-"
-263,2002,Melong,,,,"
-"
-264,2002,Mitini,"Bipana Thapa, Dilip Rayamajhi",Anish Koirala,,"
-"
-265,2002,Mohani Lagla Hai,,Kundan Khanal,,"
-"
+262,2002,Maya Namara,,,,
+263,2002,Melong,,,,
+264,2002,Mitini,"Bipana Thapa, Dilip Rayamajhi",Anish Koirala,,
+265,2002,Mohani Lagla Hai,,Kundan Khanal,,
 266,2002,Muskan,"Bipana Thapa, Sushil Chhetri, Dilip Rayamajhi Rejina Uprety",Yuvaraj Lama,,
-267,2002,Pheri Timro Yaad Aayo,,Ramesh Budathoki,,"
-"
-268,2002,Pijanda,"Nikhil Upreti (debut), Niruta Singh",,Desh Bhakta Khanal,"Tika Bhandari
-"
-269,2002,Pooja,,Deepak Rayamajhi,,"
-"
-270,2002,"Rickshaw Puller, The",,,,"
-"
+267,2002,Pheri Timro Yaad Aayo,,Ramesh Budathoki,,
+268,2002,Pijanda,"Nikhil Upreti (debut), Niruta Singh",,Desh Bhakta Khanal,Tika Bhandari
+269,2002,Pooja,,Deepak Rayamajhi,,
+270,2002,"Rickshaw Puller, The",,,,
 271,2002,Sahid Gate,,Raj Kumar Sharma,,
-272,2002,Santan Ko Maya,"Dinesh Sharma, Rajesh Hamal, Sarita Lamichhane, Puja Chand",Kishore Rana,,"Tika Bhandari
-"
-273,2002,Sanyas,"Rajesh Hamal, Gauri Malla, Jal Shah, Rejina Uprety",Shambhu Pradhan,,"
-"
-274,2002,Shadhyantra,,Suneel Pandey,,"
-"
-275,2002,Yestai Rahecha Jindagi,,Biswa Basnet,,"
-"
-276,2002,Andhi Tufan,"Dinesh Sharma, Richa Ghimire",,,"
-"
+272,2002,Santan Ko Maya,"Dinesh Sharma, Rajesh Hamal, Sarita Lamichhane, Puja Chand",Kishore Rana,,Tika Bhandari
+273,2002,Sanyas,"Rajesh Hamal, Gauri Malla, Jal Shah, Rejina Uprety",Shambhu Pradhan,,
+274,2002,Shadhyantra,,Suneel Pandey,,
+275,2002,Yestai Rahecha Jindagi,,Biswa Basnet,,
+276,2002,Andhi Tufan,"Dinesh Sharma, Richa Ghimire",,,
 277,2002,Santan Thari Thari Ka,"Dinesh Sharma, Dilip Ray Majhi",,,
-278,2002,Ye Mero Hajur,"Shree Krishna Shrestha, Jharna Thapa",Shiva Regmi,,"
-"
-279,2003,Je Bho Ramrai Bho,"Hari Bansha Acharya, Rajesh Hamal, Jal Shah, Madan Krishna Shrestha",Hari Bansha Acharya,Kiran K. C.,"Sambhujeet Baskota
-"
-280,2003,Jetho Kancha,"Shiv Shrestha Rajesh Hamal, Jal Shah",Dayaram Dahal,,"
-"
-281,2003,Muna Madan,"Deepak Tripathi, Usha Paudel",Gyanendra Bahadur Deuja,,"Laxman Bidari
-"
+278,2002,Ye Mero Hajur,"Shree Krishna Shrestha, Jharna Thapa",Shiva Regmi,,
+279,2003,Je Bho Ramrai Bho,"Hari Bansha Acharya, Rajesh Hamal, Jal Shah, Madan Krishna Shrestha",Hari Bansha Acharya,Kiran K. C.,Sambhujeet Baskota
+280,2003,Jetho Kancha,"Shiv Shrestha Rajesh Hamal, Jal Shah",Dayaram Dahal,,
+281,2003,Muna Madan,"Deepak Tripathi, Usha Paudel",Gyanendra Bahadur Deuja,,Laxman Bidari
 282,2003,Bhagya,"Dinesh Sharma, Nikhil Upreti",Prakash Bhattarai,Sunil Datta Pandey,
-283,2003,Shukha Dukha,"Madan Krishna Shrestha, Mithila Sharma, Shree Krishna Shrestha, Jharana Thapa",Shiva Regmi,Cine Kala Movies,"Sambhujeet Baskota
-"
+283,2003,Shukha Dukha,"Madan Krishna Shrestha, Mithila Sharma, Shree Krishna Shrestha, Jharana Thapa",Shiva Regmi,Cine Kala Movies,Sambhujeet Baskota
 284,2003,Upahar,"Niruta Singh, Uttam Pradhan, Sushil Chhetri",Shiva Regmi,Super Star Enterprises,Laxman Shesh
-285,2003,Sangram,"Dinesh Sharma, Melina Manandhar",Mahendra Budhathoki,Raj Kumar Rai,"
-"
+285,2003,Sangram,"Dinesh Sharma, Melina Manandhar",Mahendra Budhathoki,Raj Kumar Rai,
 286,2003,Dhadkan,"Dinesh Sharma, Nikhil Upreti, Rekha Thapa",Naresh Poudyal,Naresh Poudyal,
 287,2004,Haami Teen Bhai,"Rajesh Hamal, Shree Krishna Shrestha, Nikhil Upreti, Jharana Thapa, Rekha Thapa",Shiva Regmi,,Shambhujeet Baskota
-288,2004,Lakshya,"Manoj RC, Uttam Pradhan, Sushmita Karki, Noyo Singh",Manoj Pandit,Harendra Limbu,"
-"
-289,2004,Krishna Arjun,"Dinesh Sharma, Rajesh Hamal",Deepak Shrestha,Chiranjiwi Basnet,"
-"
-290,2004,Muglan,"Jharna Thapa, Dilip Rayamajhi, Bipana Thapa",,Kishore Khanal,"Suresh Adhikari
-"
-291,2004,Pareni Maya Jalaima,"Dilip Rayamajhi, Uttam Pradhan, Jharana Bajracharya, Mitthila Sharma, Sunil Thapa",Prithvi Rana and Ram Saran Ghimire,Prithvi Rana,"Sachin Singh
-"
-292,2004,Bhagya Bidhata,"Dinesh Sharma, Rajesh Hamal, Rupa Rana",Dayaram Dahal,Chiranjiwi Basnet,"
-"
-293,2004,Jwalamukhi,Mahendra Budhathoki,,"
-",
+288,2004,Lakshya,"Manoj RC, Uttam Pradhan, Sushmita Karki, Noyo Singh",Manoj Pandit,Harendra Limbu,
+289,2004,Krishna Arjun,"Dinesh Sharma, Rajesh Hamal",Deepak Shrestha,Chiranjiwi Basnet,
+290,2004,Muglan,"Jharna Thapa, Dilip Rayamajhi, Bipana Thapa",,Kishore Khanal,Suresh Adhikari
+291,2004,Pareni Maya Jalaima,"Dilip Rayamajhi, Uttam Pradhan, Jharana Bajracharya, Mitthila Sharma, Sunil Thapa",Prithvi Rana and Ram Saran Ghimire,Prithvi Rana,Sachin Singh
+292,2004,Bhagya Bidhata,"Dinesh Sharma, Rajesh Hamal, Rupa Rana",Dayaram Dahal,Chiranjiwi Basnet,
+293,2004,Jwalamukhi,Mahendra Budhathoki,,,
 294,2005,Basain,"Mukunda Bastakoti, Ranju Lamichhane, Uttam Pradhan, Mithila Sharma, Ganesh Upreti",Subash Gajurel,Lil Bahadur Chhetri,Shakti Ballav
 295,2005,Abhimanyu,"Dinesh Sharma, Nikhil Upreti",Naresh Poudyal,Mounta Shrestha,
 296,2006,Alpaviram,,,,
 297,2006,Duniya,"Dinesh Sharma, Nikhil Upreti",Shiva Regmi,,
-298,2006,Karma,,,,"
-"
+298,2006,Karma,,,,
 299,2006,Krodh,"Nikhil Upreti, Akash Adhikari, Jal Shah, Rekha Thapa, Usha Paudel, Dinesh Sharma",,Akash Adhikari,"Laxmzn Shah, Suresh Adhikari"
-300,2006,Maanis,"Bhuwan K.C, Nikhil Uprety, Bipana Thapa, Rejina Uprety",Shiva Regmi,,"
-"
-301,2006,Matina La Ana He Du,"Suraj Shakya, Ashishma Nakarmi",Subhash Ram Prajapati,,"
-"
-302,2006,Parai ko ghar,"Suraj Shakya, Ashishma Nakarmi",Subhash Ram Prajapati,,"Goruduba
-"
+300,2006,Maanis,"Bhuwan K.C, Nikhil Uprety, Bipana Thapa, Rejina Uprety",Shiva Regmi,,
+301,2006,Matina La Ana He Du,"Suraj Shakya, Ashishma Nakarmi",Subhash Ram Prajapati,,
+302,2006,Parai ko ghar,"Suraj Shakya, Ashishma Nakarmi",Subhash Ram Prajapati,,Goruduba
 303,2007,Ram Balram,Shree Krishna Shrestha,,,
-304,2007,Antya,"Dinesh Sharma, Usha Poudel",Basudev Pokharel,Dinesh Sharma,"
-"
-305,2007,Yuddha,,,,"
-"
+304,2007,Antya,"Dinesh Sharma, Usha Poudel",Basudev Pokharel,Dinesh Sharma,
+305,2007,Yuddha,,,,
 306,2007,Paapi Manchhe,"Dinesh Sharma, Nikhil Upreti",Deepak Shrestha,Raj Kumar Raai,
-307,2007,Ma Maya Garchhu,"Dinesh Sharma, Rajesh Hamal, Ayush Rijal",Raj Shakya,,"
-"
-308,2008,Himmat,"Dinesh Sharma, Rekha Thapa",,,"
-"
-309,2008,Sandesh,"Rejina Uprety, Biraj Bhatta, Sushil Chhetri, Rekha Thapa, Sovita Simkhada",Pramod Bhandari,Ram B. Nepali,"Mahesh Khadka
-"
-310,2008,Aafno Manche Aafnai Hunchha (Own are own),"Biraj Bhatta, Rekha tThapa, Arunima, Suman Singh
-",,,
-311,2008,Bastabikta (Reality),,,,"
-"
+307,2007,Ma Maya Garchhu,"Dinesh Sharma, Rajesh Hamal, Ayush Rijal",Raj Shakya,,
+308,2008,Himmat,"Dinesh Sharma, Rekha Thapa",,,
+309,2008,Sandesh,"Rejina Uprety, Biraj Bhatta, Sushil Chhetri, Rekha Thapa, Sovita Simkhada",Pramod Bhandari,Ram B. Nepali,Mahesh Khadka
+310,2008,Aafno Manche Aafnai Hunchha (Own are own),"Biraj Bhatta, Rekha tThapa, Arunima, Suman Singh",,,
+311,2008,Bastabikta (Reality),,,,
 312,2008,Batuli,"Rajesh Hamal, Rekha Thapa, Biraj Bhatt",,,
 313,2008,The Nirmala,Dinesh Sharma Pujana Pradhan,Raju Adhikari (film director),,
-314,2008,Daag (Scar),,,,"
-"
-315,2008,Iku - The Jungle Man,"Suleman Shankar, Usha Rajak",,,"
-"
-316,2008,Kagbeni,"Nima Rumba, Saugat Malla, Deeya Maskey",Bhusan Dahal,"Bhaskar Dhungana, Nakim Uddin, Rajesh Siddhi","
-"
-317,2008,Pahilo Pahilo Maya (First First Love),"Raj Ballav, Yuna Upreti",,,"
-"
-318,2008,Pratighat,"Dinesh Sharma, Prerana Sharma, Rakshanda Sharma",Basudev Pokharel,Dinesh Sharma,"
-"
-319,2008,Sano Sansar (Small World),"Mahesh Shakya, Jivan Luitel (debut), Namrata Shrestha (debut)",Alok Nembang,Quest Entertainment,"
-"
+314,2008,Daag (Scar),,,,
+315,2008,Iku - The Jungle Man,"Suleman Shankar, Usha Rajak",,,
+316,2008,Kagbeni,"Nima Rumba, Saugat Malla, Deeya Maskey",Bhusan Dahal,"Bhaskar Dhungana, Nakim Uddin, Rajesh Siddhi",
+317,2008,Pahilo Pahilo Maya (First First Love),"Raj Ballav, Yuna Upreti",,,
+318,2008,Pratighat,"Dinesh Sharma, Prerana Sharma, Rakshanda Sharma",Basudev Pokharel,Dinesh Sharma,
+319,2008,Sano Sansar (Small World),"Mahesh Shakya, Jivan Luitel (debut), Namrata Shrestha (debut)",Alok Nembang,Quest Entertainment,
 320,2008,Karnabir,"Rajesh Hamal, Rejina Uprety, Rekha Thapa, Jaikishan Basnet,",Shovit Basnet,Salon Films P. ltd.,
-321,2008,Kismat,"Biraj bhatta, Rekha Thapa, Aryan Sigdel (Debutant), Rajaram Paudel",Ujwal Ghimire,Rekha Films P. ltd.,"
-"
+321,2008,Kismat,"Biraj bhatta, Rekha Thapa, Aryan Sigdel (Debutant), Rajaram Paudel",Ujwal Ghimire,Rekha Films P. ltd.,
 322,2008,Ma Timi Bina Marihalchhu (I will die without you),"Bhuwan K.C., Jharana Thapa, Sushmita K.C.",Dayaram Dahal,Kajal Films,Sambhujeet Baskota
-323,2008,Kaslai diu yo Jowan (Whom to give this body),"Dilip Rayamajhi, Melina Manandhar, Jharna Thapa, Nikhil Upreti",,,"
-"
-324,2008,Mission Paisa (Misson Money),"Nikhil Upreti, Amir Gautam, Nisha Adhikari",Simos Sunwar,"Rajeeb Shrestha, Dipika Thapa Sunuwar","
-"
-325,2008,Salam chha Mayalai (Salute to Love),,,,"
-"
-326,2008,Takkar Dui Mutu Ko (Challenge of two heart),,,,"
-"
+323,2008,Kaslai diu yo Jowan (Whom to give this body),"Dilip Rayamajhi, Melina Manandhar, Jharna Thapa, Nikhil Upreti",,,
+324,2008,Mission Paisa (Misson Money),"Nikhil Upreti, Amir Gautam, Nisha Adhikari",Simos Sunwar,"Rajeeb Shrestha, Dipika Thapa Sunuwar",
+325,2008,Salam chha Mayalai (Salute to Love),,,,
+326,2008,Takkar Dui Mutu Ko (Challenge of two heart),,,,
 327,2009,Arjun Dev,"Biraj Bhatta, Rejina Uprety, Garima Pant",Shiva Regmi,Jay Prakash Eijal,
-328,2009,Bish (Poison),"Rajesh Hamal, Rejina Uprety, Richa Ghimire, Sanchita Luitel, Nikhil Uprety",,Shankar Ghimire,"
-"
-329,2009,RAAJ,"Biraj bhatta, Rejina Uprety, Shiva Shrestha, Ramit Dhungana",Bijaya Gopal Dali,"Gajendra Ranjit
-",
-330,2009,Chodi Gaye Paap Lagla (If you leave than you may get sin),"Raj Ballav Koirala, Biraj Bhatta, Richa Ghimire, Sanchita Luitel",Ujwal Ghimire,,"
-"
+328,2009,Bish (Poison),"Rajesh Hamal, Rejina Uprety, Richa Ghimire, Sanchita Luitel, Nikhil Uprety",,Shankar Ghimire,
+329,2009,RAAJ,"Biraj bhatta, Rejina Uprety, Shiva Shrestha, Ramit Dhungana",Bijaya Gopal Dali,Gajendra Ranjit,
+330,2009,Chodi Gaye Paap Lagla (If you leave than you may get sin),"Raj Ballav Koirala, Biraj Bhatta, Richa Ghimire, Sanchita Luitel",Ujwal Ghimire,,
 331,2009,Dhum,"Biraj Bhatta, Ramit Dhungana, Rejina Uprety, Arjun Karki,",Shobhit Basnet,,
-332,2009,Deewanapan (Craziness),"Dinesh Sharma, Arunima Lamsal, Raj Ballav Koirala",Krishna Chapagain,,"
-"
+332,2009,Deewanapan (Craziness),"Dinesh Sharma, Arunima Lamsal, Raj Ballav Koirala",Krishna Chapagain,,
 333,2009,Gorkha Rachhayak (Gorkha Saviour),,Giri Raj Lamichhane,,
-334,2009,Itihaas (History),"Biraj Bhatta, Rejina Uprety, Rekha Thapa",,,"
-"
-335,2009,Izzatdar (Respectful),"Dinesh Sharma, Rajesh Hamal, Biraj Bhatta, Arjun Karki",Krishna Chapagain,,"
-"
+334,2009,Itihaas (History),"Biraj Bhatta, Rejina Uprety, Rekha Thapa",,,
+335,2009,Izzatdar (Respectful),"Dinesh Sharma, Rajesh Hamal, Biraj Bhatta, Arjun Karki",Krishna Chapagain,,
 336,2009,Jay Shiva Shankar (Hail Shiv Shankhar),"Rajesh Hamal, Nikhil Upreti, Rejina Uprety, Rajesh Dhungana, Biraj Bhatt",Rajendra Upreti,,
-337,2009,Jindagi (Life),,,,"
-"
-338,2009,Jeewan Mrityu (Life Death),"Nikhil Upreti, Ramit Dhungana, Garima Pant",Ramesh Budhathoki,Uddhav Poudel,"
-"
+337,2009,Jindagi (Life),,,,
+338,2009,Jeewan Mrityu (Life Death),"Nikhil Upreti, Ramit Dhungana, Garima Pant",Ramesh Budhathoki,Uddhav Poudel,
 339,2009,Jungbaaz (Warrior),"Rajesh Hamal, Gauri Malla, Rushma Rai, Sunil Thapa, Ashok Sharma, Yuvaraj Lama",,,
-340,2009,Kohi Mero,"Dinesh Sharma, Jharana Bajracharya",Alok Nengbang,,"
-"
-341,2009,Kahan Bhetiyela (Where may I meet?),"Shree Krishna Shrestha, Niruta Singh",Shiva Regmi,Shree Krishna Shrestha,"Sambhujeet Baskota
-"
+340,2009,Kohi Mero,"Dinesh Sharma, Jharana Bajracharya",Alok Nengbang,,
+341,2009,Kahan Bhetiyela (Where may I meet?),"Shree Krishna Shrestha, Niruta Singh",Shiva Regmi,Shree Krishna Shrestha,Sambhujeet Baskota
 342,2009,Kahan Chau Kahan (Where are You Where),"Jharana Thapa, Biraj Bhatta, Govind Shahi, Ganesh Upreti",Dayaram Dahal,,
-343,2009,Dhunge Youg (STONE ERA),"Dil Krishna Shrestha, Sabina",Madhab Raj Kharel,,"
-"
-344,2009,Kusume Rumal 2 (Scarlet Handkerchief 2),"Niraj Baral, Rejina Upreti Usha Rajak, Rubi Bhattarai, Tripti Nadakar",Nirak Poudel,Uddhav Poudel,"Suryajeet Baskota
-"
-345,2009,Mahan (Great),"Dinesh Sharma, Biraj Bhatta, Jharana Thapa, Jaykishan Basnet",Krishna Chapagain,Dinesh Sharma,"
-"
-346,2009,Mero Euta Saathi Cha (I Have one friend),"Aryan Sigdel, Namrata Shrestha",Sudarshan Thapa,Prabhu SJB Rana,"Sugam Pokharel, Bipin Acharya
-"
+343,2009,Dhunge Youg (STONE ERA),"Dil Krishna Shrestha, Sabina",Madhab Raj Kharel,,
+344,2009,Kusume Rumal 2 (Scarlet Handkerchief 2),"Niraj Baral, Rejina Upreti Usha Rajak, Rubi Bhattarai, Tripti Nadakar",Nirak Poudel,Uddhav Poudel,Suryajeet Baskota
+345,2009,Mahan (Great),"Dinesh Sharma, Biraj Bhatta, Jharana Thapa, Jaykishan Basnet",Krishna Chapagain,Dinesh Sharma,
+346,2009,Mero Euta Saathi Cha (I Have one friend),"Aryan Sigdel, Namrata Shrestha",Sudarshan Thapa,Prabhu SJB Rana,"Sugam Pokharel, Bipin Acharya"
 347,2009,Mission Love In Sikkim,"Bikrant Basnet, Rushma Rai",Sovit Basnet,Channel Ace Productions,Sanjay Shrestha
-348,2009,Mr Mangale,"Biren Shrestha, Rekha Thapa",,Biren Shrestha,"
-"
-349,2009,Naina Resham (Silk of eye),"Biraj Bhatt, Nisha Adhikari",,,"
-"
-350,2009,Naseeb Afno (Own Luck),,Bikas Acharya,,"
-"
+348,2009,Mr Mangale,"Biren Shrestha, Rekha Thapa",,Biren Shrestha,
+349,2009,Naina Resham (Silk of eye),"Biraj Bhatt, Nisha Adhikari",,,
+350,2009,Naseeb Afno (Own Luck),,Bikas Acharya,,
 351,2009,Nepali Veer (Strong Nepali),,,,
-352,2009,Nishana (Target),"Rajesh Hamal, Nikhil Upreti, Rejina Uprety",,,"
-"
-353,2009,Paapi Manche 2 (Sinner 2),"Nikhil Upreti, Sunil Thapa, Pujana Pradhan",Deepak Shrestha,Raj Kumar Rai,"
-"
+352,2009,Nishana (Target),"Rajesh Hamal, Nikhil Upreti, Rejina Uprety",,,
+353,2009,Paapi Manche 2 (Sinner 2),"Nikhil Upreti, Sunil Thapa, Pujana Pradhan",Deepak Shrestha,Raj Kumar Rai,
 354,2009,Rachhayak (Saviour),,,,
 355,2009,Rajya (Kingdom),,,,
-356,2009,Sahara (Pillar),,,,"
-"
-357,2009,Sandesh (Message),"Rejina Uprety, Biraj Bhatta, Sushil Chhetri, Rekha Thapa, Sovita Simkhada",,,"
-"
+356,2009,Sahara (Pillar),,,,
+357,2009,Sandesh (Message),"Rejina Uprety, Biraj Bhatta, Sushil Chhetri, Rekha Thapa, Sovita Simkhada",,,
 358,2009,Silsila (System),"Rekha Thapa, Biraj,Bhatta, Soniya Kc, Raj",,,
-359,2009,The Third Generation,,,,"
-"
-360,2009,Kanoon (Law),"Dinesh Sharma, Rajesh Hamal",,,"
-"
+359,2009,The Third Generation,,,,
+360,2009,Kanoon (Law),"Dinesh Sharma, Rajesh Hamal",,,
 361,2009,Trinetra (Third-Eye),"Nikhil Upreti, Shweta Tiwari",,,
-362,2009,Mission paisa,"Nikhil Upreti, Nisha Adhikari, Sunil Thapa",,,"
-"
+362,2009,Mission paisa,"Nikhil Upreti, Nisha Adhikari, Sunil Thapa",,,
 363,,,,,,
 364,2010,Nai Nabhannu La,"Jeevan Luintel, Richa Singh Thakuri",Bikash Acharya,Ramesh Jung Rayemajhi,Mahesh Khadka
 365,2010,Basma Chaina Yo Mann,"Biraj Bhatta, Karishma Manandhar, Raj Ballav Koirala, Nandita KC",Ramraja Dahal,Rimesh Adhikari,Vinod Khumbu
@@ -563,8 +410,7 @@ Sajjal Pant  (Child artist)
 406,2012,Yoddha,"Dinesh Sharma, Rajesh Hamal",Uday Subba,,
 407,2012,Apabad,"Nisha Adhikari, Raj Ballav Koirala",Subash Koirala,Sushan Prajapati,Ujwal Meghi Gurung
 408,,,,,,
-409,April 2013,Saanghuro,"Shushank Mainali, Deeya Maskey, Aruna Karki, Dayahang Rai, Buddhi Tamang",Joes Pandey,"Sameer Mainali; Mountain River Films
-",
+409,April 2013,Saanghuro,"Shushank Mainali, Deeya Maskey, Aruna Karki, Dayahang Rai, Buddhi Tamang",Joes Pandey,Sameer Mainali; Mountain River Films,
 410,2013,Bardan,"Rajesh Hamal, Karishma Manandhar, Rejina Uprety",,Rejina Upreti,
 411,2013,C-Mala (The Necklace),"Manoj RC, Dipti Gurung, Nirvik Rai, Roshani Karki, Rajesh Payal Rai",Rudra Bahadur Gurung,Rudra Bahadur Gurung,Kankist Rai
 412,2013,Cha Ekan Cha,"Kedar Ghimire, Sitaram Kattel",Dinesh DC,Deepak Raj Giri,
@@ -572,199 +418,53 @@ Sajjal Pant  (Child artist)
 414,2013,Hostel,"Anmol K.C., Prakreeti Shrestha, Gaurav Pahadia, Salon Basnet, Rista Basnet",Hemaraj BC,Sunil Rawal,The Shadows
 415,,,,,,
 416,March 2014,Ritu,"Raj Ballav Koirala, Malina Joshi, Reema Bishwokarma etc.",Manoj Adhikari,Apil Bista,"Hemanta Rana, Tsujil Karamacharya"
-417,"2014
-",Humjayaga,"Babu Bogati, Wilson Bikram Rai Manoj RC, Parbati Rai",Surendra Pun,Bhoj Bahadur Gurung,
+417,2014,Humjayaga,"Babu Bogati, Wilson Bikram Rai Manoj RC, Parbati Rai",Surendra Pun,Bhoj Bahadur Gurung,
 418,2014,Madhumas,"Aryan Sigdel, Manoj RC, Pooja Sharma, Shivangini Rana",Sudarshan Thapa,"Sudarshan Thapa, Baburam Dahal, Ramesh Thapa",Suresh Adhikari
 419,2014,Mukhauta,Arpan Thapa,Rabin Shrestha,Jeevan Thapa,
-420,"2014
-",Nai Nabhannu La 2,Anubhav Regmi Sugyani Bhattarai,Bikash Acharya,Dinesh Pokhrel,"Basanta Sapkota, Shuresh Gaire"
+420,2014,Nai Nabhannu La 2,Anubhav Regmi Sugyani Bhattarai,Bikash Acharya,Dinesh Pokhrel,"Basanta Sapkota, Shuresh Gaire"
 421,2014,Mutu-The Heart Belongs To You,"Bimlesh Adhikari, Keki Adhikari, Mukesh Acharya",Everest Surya Bohora,Everest Surya Bohara,
 422,2014,Kohinoor,"Shree Krishna Shrestha, Sweta Khadka",,,
 423,2014,Talakjung vs Tulke,"Khagendra Lamichhane, Reecha Sharma, Shushank Mainali, Rabindra Singh Baniya",Nischal Basnet,Rabindra Singh Baniya,
 424,November 14,Jerryy,"Anmol K.C., Anna Sharma, Abhisek Man Sherchan, Amalya Sharma",Hemraj BC,Manoj sherchan,Naren limbu
 425,December 12,Love You Baba,"Gajit Bista, Sangam Bista",Saugat Bista,Samjhana Pokharel,
 426,,,,,,
-427,2015,Zhigrana[13],"Hanna G, Nikun Shrestha, Menuka Pradhan, Jyoti Karki, Shanti Giri, Arun Regmi, Deewakar Piya, Bina Pandey
-",,,
+427,2015,Zhigrana[13],"Hanna G, Nikun Shrestha, Menuka Pradhan, Jyoti Karki, Shanti Giri, Arun Regmi, Deewakar Piya, Bina Pandey",,,
 428,2014,Jwala,"Rejina Uprety, Biraj Bhatta, Mukesh",,,
 429,2014,Ikshya,Dahayang Rai,Giri Raj Lamichhane,,
 430,2015,Birano Maya,Shreevev /Namrata Sapkota,Madhab Raj Kharel,,
 431,2015,Danav,"Dinesh Sharma, Mahima Silwal, Teja Ayer",Dinesh Sharma,Dinesh Sharma,
-432,"2015
-","Hostel Returns
-","Sushil Shrestha, Sashi Shrestha, Nazir Hussain, Swastima Khadka, Sushil Sitaula
-","
-","Sunil Rawal
-","Swoopnil Sharma
-"
-433,"2015
-","Bhairav[14]
-","Nikhil Upreti, Anu Shah, Nagendra Rijal, Rekha Thapa (guest role)
-","Nikhil Upreti
-",Ratan Daruwala,
-434,"2015
-","Luv Sab
-","Samyam Puri, Karishma Shrestha, Salon Basnet
-","Dev Kumar Mishra
-","Sushil Pokharel
-","Tsujil Karmacharya
-"
-435,"2015
-","Wada No. 6
-","Deepak Raj Giri, Sitaram Kattel, Priyanka Karki, Jitu Nepal, Daya hang rai, Kedar Ghimire, Shivahari Poudel Deepa Shree Niraula
-","Ujwal Ghimire
-","Deepak Raj Giri
-","
-"
-436,"2015
-","Chankhe Shankhe Pankhe
-","Sudarshan Thapa, Prem Puri, Puja Sharma, Rabindra Jha Nandita KC, Pramod Agrahari
-","Sudarshan Thapa
-","Santosh Sen
-","
-"
-437,"2015
-","Aarop
-","
-","Amar Oli
-","Amar oli
-","
-"
-438,"2015
-","Paradeshi
-","Prashant Tamang, Rajani KC, Naren Khadka
-","Narayan Rayamajhi
-",Rajesh Bansal and Narayan Rayamajhi,
-439,"2015
-","Kabaddi Kabaddi[18]
-","Dayahang Rai, Saugat Malla, Risma Gurung
-","Ram Babu Gurung
-","Raunak Bikram Kandel and Sunil Chanda Rauniyar
-","
-"
-440,"2015
-","Romance
-","
-","L N Gautam
-","L N Gautam
-","
-"
-441,"2015
-","Jau Hida Pokhara
-","Rekha Thapa and Jivan Luitel
-","Shovit Basnet
-","Ram Gautam
-","
-"
+432,2015,Hostel Returns,"Sushil Shrestha, Sashi Shrestha, Nazir Hussain, Swastima Khadka, Sushil Sitaula",,Sunil Rawal,Swoopnil Sharma
+433,2015,Bhairav[14],"Nikhil Upreti, Anu Shah, Nagendra Rijal, Rekha Thapa (guest role)",Nikhil Upreti,Ratan Daruwala,
+434,2015,Luv Sab,"Samyam Puri, Karishma Shrestha, Salon Basnet",Dev Kumar Mishra,Sushil Pokharel,Tsujil Karmacharya
+435,2015,Wada No. 6,"Deepak Raj Giri, Sitaram Kattel, Priyanka Karki, Jitu Nepal, Daya hang rai, Kedar Ghimire, Shivahari Poudel Deepa Shree Niraula",Ujwal Ghimire,Deepak Raj Giri,
+436,2015,Chankhe Shankhe Pankhe,"Sudarshan Thapa, Prem Puri, Puja Sharma, Rabindra Jha Nandita KC, Pramod Agrahari",Sudarshan Thapa,Santosh Sen,
+437,2015,Aarop,,Amar Oli,Amar oli,
+438,2015,Paradeshi,"Prashant Tamang, Rajani KC, Naren Khadka",Narayan Rayamajhi,Rajesh Bansal and Narayan Rayamajhi,
+439,2015,Kabaddi Kabaddi[18],"Dayahang Rai, Saugat Malla, Risma Gurung",Ram Babu Gurung,Raunak Bikram Kandel and Sunil Chanda Rauniyar,
+440,2015,Romance,,L N Gautam,L N Gautam,
+441,2015,Jau Hida Pokhara,Rekha Thapa and Jivan Luitel,Shovit Basnet,Ram Gautam,
 442,,,,,,
-443,"September 2016
-","Gaatho
-","Najir Hussain, Namrata Shrestha,Abhay Baral
-","Suraj Bhusal
-","Tilak Bahadur Chhetri,Suraj Bhusal; Butwall Entertainment
-","
-"
+443,September 2016,Gaatho,"Najir Hussain, Namrata Shrestha,Abhay Baral",Suraj Bhusal,"Tilak Bahadur Chhetri,Suraj Bhusal; Butwall Entertainment",
 444,,,,,,
-445,"2016 October 24
-","Bonodal (Change) Santali [6][7][9][8][21][11][22][23][24][10][25]
-","Hasda Bayar ( Kabiraj Hasda ), Kabita Baskey, Mohan Tudu, Rajan Baskey
-","Kiran Khatiwada
-","Kiran Khatiwada
-","Jona Kisku
-"
-446,"
-","
-","
-","
-","
-","
-"
-447,"Notes
-",,,,,
-448,2018,Sunkesari[26],"Reecha Sharma, Sunny Dhakal, Lauren Lofberg, Rabindra Jha
-","Arpan Thapa
-","Bhim Neupane, Reecha Sharma, Sharmila Sapkota
-","Kali Prasad Baskota and Bijaya Adhikari
-"
-449,"2018
-","Durgamandu
-","Saniya , Madhab
-","Madhab Raj Kharel
-","
-","
-"
+445,2016 October 24,Bonodal (Change) Santali [6][7][9][8][21][11][22][23][24][10][25],"Hasda Bayar ( Kabiraj Hasda ), Kabita Baskey, Mohan Tudu, Rajan Baskey",Kiran Khatiwada,Kiran Khatiwada,Jona Kisku
+446,,,,,,
+447,Notes,,,,,
+448,2018,Sunkesari[26],"Reecha Sharma, Sunny Dhakal, Lauren Lofberg, Rabindra Jha",Arpan Thapa,"Bhim Neupane, Reecha Sharma, Sharmila Sapkota",Kali Prasad Baskota and Bijaya Adhikari
+449,2018,Durgamandu,"Saniya , Madhab",Madhab Raj Kharel,,
 450,31 August 2018,Meri Mamu,"Ayub Sen, Kusum Gurung, Saruk Tamrakar, Aaslesha Thakuri",Yam Thapa,Santosh Sen,Kalyan Singh
-451,14 Dec 2018,Kathaa '72,"Akash Magar, Bhuisal Lama, Supriya Rana","Prabin Syangbo
-",,
-452,7 Dec 2018,Prasad,"Bipin Karki, Namrata Shrestha, Nischal Basnet","Dinesh Raut
-","Shuvash Thapa
-","Subash Bhusal
-"
-453,"8 June 2018
-","Matti Mala[27]
-","Buddhi Tamang, Rajani Gurung, Priyanka Karki
-","Teke Paurakhi Rai
-","Prithbi Rai
-","Suman Rai
-"
+451,14 Dec 2018,Kathaa '72,"Akash Magar, Bhuisal Lama, Supriya Rana",Prabin Syangbo,,
+452,7 Dec 2018,Prasad,"Bipin Karki, Namrata Shrestha, Nischal Basnet",Dinesh Raut,Shuvash Thapa,Subash Bhusal
+453,8 June 2018,Matti Mala[27],"Buddhi Tamang, Rajani Gurung, Priyanka Karki",Teke Paurakhi Rai,Prithbi Rai,Suman Rai
 454,,,,,,
 455,"May 24, 2019",Jhatkka,"Surbir Pandit, Rakshya Guragai",Wronit Bee Mizaar,Shyam Shrestha Shekhar Bishunkhe,Purushotam Neupane
-456,"Sep 13 2019
-","Password
-","Sunny Leone, Anoop Bikram Shahi, Bikram Joshi, Buddhi Tamang, Rabindra Jha
-","Samrat Basnet
-","Amit Basnet, Hiral Joshi, Ajit Kumar Thapa
-","Arjun Pokharel
-"
-457,"December 6, 2019
-","Maya Pirim[28]
-","Salon Basnet, Anjali Adhikari, Koshish Chhetri
-","Tek Paurakhi Rai
-","Pravin Thapa, Sabin Adhikari
-","Koshish Chhetri
-"
+456,Sep 13 2019,Password,"Sunny Leone, Anoop Bikram Shahi, Bikram Joshi, Buddhi Tamang, Rabindra Jha",Samrat Basnet,"Amit Basnet, Hiral Joshi, Ajit Kumar Thapa",Arjun Pokharel
+457,"December 6, 2019",Maya Pirim[28],"Salon Basnet, Anjali Adhikari, Koshish Chhetri",Tek Paurakhi Rai,"Pravin Thapa, Sabin Adhikari",Koshish Chhetri
 458,,,,,,
-459,"Feb 7 2020
-","Sanglo
-","Biraj Bhatta, Nikita Chandak, Jayananda Lama, Kameshwor Chaurasiya, Prakash Shah
-","Biraj Bhatta
-","
-","Suresh Adhikari/ Rajan Raj Shiwakoti
-"
-460,"Feb 7 2020
-","Selfie King
-","Bipin Karki, Laxmi Bardewa, Abhay Baral, Bhuwan Chand,
-","Bishal Sapkota
-","Dinesh Raut, Shuvash Thapa
-","Suraj Gaire
-"
-461,"Feb 21 2020
-","Senti Virus
-","Sitaram Kattel, Kunjana Ghimire, Dayahang Rai, Wilson Bikram Rai, Buddhi Tamang
-","Rambabu Gurung
-","Dindu Lama Hyolmo
-","Rajanraj Shiwakoti
-"
+459,Feb 7 2020,Sanglo,"Biraj Bhatta, Nikita Chandak, Jayananda Lama, Kameshwor Chaurasiya, Prakash Shah",Biraj Bhatta,,Suresh Adhikari/ Rajan Raj Shiwakoti
+460,Feb 7 2020,Selfie King,"Bipin Karki, Laxmi Bardewa, Abhay Baral, Bhuwan Chand,",Bishal Sapkota,"Dinesh Raut, Shuvash Thapa",Suraj Gaire
+461,Feb 21 2020,Senti Virus,"Sitaram Kattel, Kunjana Ghimire, Dayahang Rai, Wilson Bikram Rai, Buddhi Tamang",Rambabu Gurung,Dindu Lama Hyolmo,Rajanraj Shiwakoti
 462,Feb 24 2020,Love Diaries,"Sushil Shrestha, Rubeena Thapa, Bishwojit Rimal",Saurav Chaudhary,Binod Sapkota,Arjun Pokharel
 463,March 14 2020,Fichyo,"Beeshwas Gurung, Kashi Ghale (Indra), Sub. Mantri Jung Gurung, Tikaram Ghale, Sita Devi Gurung, Kalyan Magar, Krishna Gurung, D.B Gurung, Pemba Tshering Sherpa, Birup Ghale, Anjana Gurung, Srijana Gurung & Villagers",Bikash Ghale Gurung,"Santi M. Gurung, Sub. Mantri Jung Gurung, Buddhi Maya Gurung, and Avinash Mangsum","Santosh Shrestha, Ganesh Gurung"
-464,"2020
-","LAPPAN CHHAPPAN
-","Saugat Malla, Arpan Thapa, Anoop Bikram Shahi
-","Mukunda Bhatta
-","Chij Kumar Shrestha,Prakash Kunwar, Nirmal Kumar Mishra,Sudip Chandra Bhakrel, Santosh Chandra Bakhrel
-","
-"
-465,"2020
-","Hero Returns (नायक भाग २)
-","Sabin Shrestha, Rekha Thapa, Dil Shrestha
-","Ashish Bhetwal
-","Bhim Neupane, Dhruba Neupane
-","Dipak Sharma, Tanka Budathoki
-"
-466,"2023
-","Jaari (film)
-","Dayahang Rai,Miruna Magar,Bijay Baral
-","Upendra Subba
-","
-","
-"
+464,2020,LAPPAN CHHAPPAN,"Saugat Malla, Arpan Thapa, Anoop Bikram Shahi",Mukunda Bhatta,"Chij Kumar Shrestha,Prakash Kunwar, Nirmal Kumar Mishra,Sudip Chandra Bhakrel, Santosh Chandra Bakhrel",
+465,2020,Hero Returns (नायक भाग २),"Sabin Shrestha, Rekha Thapa, Dil Shrestha",Ashish Bhetwal,"Bhim Neupane, Dhruba Neupane","Dipak Sharma, Tanka Budathoki"
+466,2023,Jaari (film),"Dayahang Rai,Miruna Magar,Bijay Baral",Upendra Subba,,

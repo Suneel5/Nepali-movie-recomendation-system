@@ -10,13 +10,12 @@ response=requests.get(url)
 #     file.write(response.text)
 soup=BeautifulSoup(response.content,'html5lib')
 tables=soup.find_all('table')
-table_no=1
 for (table_no,table) in enumerate(tables):
     if table_no ==0 or table_no ==16:
         continue
     if table_no==1:
         headerrow=table.find_all('th')
-        columns=[header.text for header in headerrow]
+        columns=[header.text.strip() for header in headerrow]
         df = pd.DataFrame(columns=columns[0:6])
         
     rows=table.find_all('tr')
@@ -27,12 +26,12 @@ for (table_no,table) in enumerate(tables):
         for i,val in enumerate(vals):
             if i<6:
                 col_name=columns[i]
-                dictt[col_name]=val.text
+                dictt[col_name]=val.text.strip()
 
         new_row=pd.DataFrame(dictt, index=[0])
         df = pd.concat([df, new_row], ignore_index=True)
 
-df.to_csv('scraped_data.csv')
+df.to_csv('data/all_year_movies.csv')
 
                 
             
