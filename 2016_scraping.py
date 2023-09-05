@@ -5,7 +5,6 @@ import numpy as np
 url='https://en.wikipedia.org/wiki/List_of_Nepalese_films_of_2016'
 
 response=requests.get(url)
-# print(response.content)
 # with open("output.html", "w", encoding="utf-8") as file:
 #     file.write(response.text)
 soup=BeautifulSoup(response.content,'html5lib')
