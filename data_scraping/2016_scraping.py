@@ -30,7 +30,10 @@ for (table_no,table) in enumerate(tables):
         new_row=pd.DataFrame(dictt, index=[0])
         df = pd.concat([df, new_row], ignore_index=True)
 
-df.to_csv('data/2016_movies.csv')
+import os 
+dirname=os.path.dirname(os.getcwd())
+csv_path=os.path.join(dirname,'data','2016_movies.csv')
+df.to_csv(csv_path)
 
                 
             
