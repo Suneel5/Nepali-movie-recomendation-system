@@ -1,24 +1,22 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd 
-
-no=0
-while True:
-    print(no)
-    url=f'https://www.imdb.com/search/title/?title_type=feature&languages=ne&sort=year,asc&start=0&ref_=adv_nxt'
-
-
+# 0 51
+#url for first page
+url='https://www.imdb.com/search/title/?title_type=feature&languages=ne&sort=year,asc'
+no=51
+columns=['Title','Year','Genre','Director','Cast','Movie_id']
+df=pd.DataFrame(columns=columns)
+while no<701:
     response=requests.get(url)
     with open("output.html", "w", encoding="utf-8") as file:
         file.write(response.text)
     soup=BeautifulSoup(response.text,'html5lib')
 
     movies=soup.find_all(class_='lister-item-content')
-    columns=['Title','Year','Genre','Director','Cast','Movie_id']
-    df=pd.DataFrame(columns=columns)
+    
     for movie in movies:
         dictt={}
-        
         movie_name=movie.find('a').text.strip()
         dictt[columns[0]]=movie_name
 
@@ -44,8 +42,10 @@ while True:
         dictt[columns[3]]=director
         dictt[columns[4]]=stars
         dictt[columns[5]]=movie_id
-        new_row=pd.DataFrame([dictt],)
+        new_row=pd.DataFrame([dictt])
         df = pd.concat([df, new_row], ignore_index=True)
+    url=f'https://www.imdb.com/search/title/?title_type=feature&languages=ne&sort=year,asc&start={no}&ref_=adv_nxt'
+    no=no+50
 
 df.to_csv('data/imdb_scraped.csv')
 
