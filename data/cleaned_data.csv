@@ -1,496 +1,549 @@
-,Year,Film,Cast,Director,Genre
-0,1964,aama,"Shiva Shankar, Bhuvan Chand",Heera Singh Khatri,
-1,1966,maitighar,"Mala Sinha, C.P. Lohani",B.S. Thapa,
-2,1967,hijo aaja bholi,"Mitra Lal Sharma, Bhuvan Chand",Heera Singh Khatri,
-3,1971,parivartan,Yagya mirth Ghimire,Heera Singh Khatri,
-4,1973,mann ko bandh,"Salyan K.C., Sushma Shahi",Prakash Thapa,
-5,1977,kumari,"Biswa Basnet, Chaitya Devi",Prem Bahadur Basnet,
-6,1978,paral ko aago,"Tanka Sharma, Susmita Dhakal, Basundhara Bhusal (debut)",Pratap Subba,
-7,1980,sindoor,"Meenaxi Anand, Biswa Basnet, Neer Shah",Prakash Thapa,
-8,1980,jeevan rekha,"Meenaxi Anand, Shiv Shrestha (debut)",,
-9,1981,bansuri,"Rakesh Pandey, Rajani Sharma, Tanka Sharma, Biswa Hingmang",Tulsi Ghimire,
-10,1982,juni,"Bhuwan K.C. (debut), Meenakshi Anand",Sarad Palekar,
-11,1982,bachana chahane haru,"Kiran Thakuri, Biswa Hingmang",Pratap Subba,
-12,1982,badalindo aakash,"Shiv Shrestha, Sushma Shahi, Neer Shah",Laxminath Sharma,
-13,1983,samjhana,"Bhuwan K.C., Trupti Totlani Narodkar (debut), Muralidhar",Shambhu Pradhan,
-14,1984,kanchhi,"Shiv Shrestha, Sharmila Malla (debut), Sushma Shahi, Mausami Malla (debut)",B.S. Thapa,
-15,1984,adarsha nari,"Bijaya Lama, Ujwal Ghimire, Amsumala Shahi, Punam Lama",Hem Lama,
-16,1985,ke ghar ke dera,"Puran Joshi (debut), Sharmila Malla, Madan Krishna Shrestha, Hari Bansha Acharya, Kristi Mainali (debut)",Pradeep Rimal,
-17,1985,kusume rumal,"Bhuwan K.C., Trupti Totlani Narodkar, Udit Narayan (debut)",Tulsi Ghimire,
-18,1985,basudev,"Krishna Malla (debut), Sharmila Malla, Madan Krishna Shrestha, Hari Bansha Acharya, Neer Shah, Harihar Sharma",Neer Shah,
-19,1986,biswas,"Shiv Shrestha, Roshi Karki, Rajshri Chhetri",Chetan Karki,
-20,1987,saino,"Bhuwan K.C., Trupti Totlani Narodkar, Danny Denzongpa, Raksha Mark",Ugyen Chopel,
-21,1988,anyay,"Meera Madhuri (debut), Biswa Basnet, Prakash Adhikari (debut)",Tulsi Ghimire,
-22,1988,jhodaa,"Banni Sharma, Tanka Sharma",Barun Kawasi,
-23,1988,maya preeti,"Ravindra Khadka, Sharmila Malla, Krishna Malla",Chetan Karki,
-24,1988,sahas,Shiv Shrestha,Giri Raj Lamichhane,
-25,1989,behuli,"Sunita Khadka, Prakash Adhikari",Shambhu Pradhan,
-26,1989,bhagya rekha,"Rabindra Khadka, Mausami Malla",Deepak Rayamajhi,
-27,1989,santaan,"Bhuwan K.C., Arjun Jung Shahi (debut), Ujwal Ghimire, Karishma Manandhar (debut), Gauri Malla (debut), Shanti Maskey, Kristi Mainali",Prakash Thapa,
-28,1989,lahure,"Shrawan Ghimire, Trupti Totlanii Narodkar",Tulsi Ghimire,
-29,1990,mayalu,"Bhuwan K.C., Karishma Manandhar",Giri Raj Lamichhane,
-30,1990,pariwar,"Bhuwan K.C., Ashok Sharma, Kristi K.C. (Mainali), Mithila Sharma, Nir Shaha, Madan Das Shrestha, Sushila Rayamajhi",Raj Kumar Sharma,
-31,1990,cheli beti,"Gauri Malla, Sharmila Malla, Arjun Jung Sahi, Mithila Sharma",Yadav Kharel,
-32,1990,pheri bhetaula,"Manisha Koirala, Prakash Adhikari",Phurpa Chiring Gurung,
-33,1990,tilhari,"Bhuwan K.C., Mausami Malla, Kristi Mainali",Giri Raj Lamichhane,
-34,1991,bijaya parajaya,"Bhuwan K.C., Krsihna Malla, Brazesh Khanal, Sharmila Malla, Saroj Khanal, Rupa Rana, Teeka Pahari",Rajendra Shalabh,
-36,1991,chot,"Saroj Khanal, Rupa Rana, Gauri Malla",Subodh Kumar Pokharel,
-37,1991,lobhi paapi,"Gauri Malla, Madan Krishna Shrestha, Hari Bansha Acharya",Yadav Kharel,
-38,1991,the friend,,Sanjay Pradhan,
-39,1991,kanyadan,"Gauri Malla, Bhuwan K.C.",Prakash,
-40,1991,sampati,"Mausami Malla, Arjun Shrestha",Shambhu Pradhan,
-41,1991,trishna,"Bhuwan K.C., Rupa Rana, Muralidhar",Ugyen Chopel,
-42,1991,yug dekhi yug samma,"Rajesh Hamal (debut), Kristi Mainali",Deepak Rayamajhi,
-43,1992,arpan,"Arjun Shrestha, Bhuwan K.C., Kristi Mainali",Rajkumar Sharma,
-44,1992,arunima,"Saroj Khanal, Kristi Mainali, Karishma Manandhar, Arjun Shrestha, Mausami Malla",Mahendra Bhakta Shrestha,
-45,1992,chokho maaya,"Saroj Khanal, Kristi Mainali, Bijaya Lama",Raj Bikram Shah,
-46,1992,dui thopa aansoo,"Bhuwan K.C., Shrawan Ghimire, Anuradha Sawant",Tulsi Ghimire,
-47,1992,kastoori,Karishma Manandhar,Kiran Pradhan,
-48,1992,maya,"Bhuwan K.C., Puran Joshi, Nabina Shrestha, Mausami Malla, Mithila Sharma",Pradeep Rimal,
-50,1992,tapasya,"Saroj Khanal, Gauri Malla, Beena Basnet, Karishma Manandhar",Narayan Puri,
-51,1993,aandhi beri,"Gauri Malla, Binod Kharel",Yadav Kharel,
-52,1993,adhikar,"Rajesh Hamal, Kristi Mainali, Mithila Sharma",Prakash Thapa,
-53,1993,jhuma,"Mausami Malla, Arjun Shrestha",Pradeep Upadhay,
-54,1993,koseli,"Trupti Totlani Narodkar, Krishna Malla, Bharati Ghimire, Shrawan Ghimire, Bijaya Lama",Tulsi Ghimire,
-55,1993,manakamana,"Shiv Shrestha, Karishma Manandhar",Subodh Kumar Pokharel,
-56,1993,milan,"Shiv Shrestha, Karishma Manandhar, Brazesh Khanal, Melina Manandhar",Laxminath Sharma,
-57,1993,priyasi,"Melina Manandhar (debut), Kiran Pratap K.C.",Deepak Rayamajhi,
-58,1993,sankalpa,"Bhuwan K.C., Krishna Malla, Sharmila Malla, Kristi Mainali, Shiv Shrestha",Shyam Rai,
-60,1994,deuki,"Rajesh Hamal, Mausami Malla",Banni Pradhan,
-61,1994,deuta,"Rajesh Hamal, Srijana Basnet (debut), Shrawan Ghimire",Tulsi Ghimire,
-62,1994,chatyang,"Rajesh Hamal, Gauri Malla",Giri Raj Lamichhane,
-63,1994,kasam,"Rajesh Hamal, Kristi Mainali, Mausami Malla",Deepak Rayamajhi,
-64,1994,naata,"Bhuwan K.C., Gauri Malla, Shree Krishna Shrestha, Ashok Sharma",Biswa Banet,
-65,1994,sapana,"Bhuwan K.C., Shiv Shrestha, Karishma Manandhar, Mausami Malla",Sambhu Pradhan,
-66,1994,aparadh,"Rajesh Hamal, Kristi Mainali, Melina Manandhar",Amar Rasilee,
-67,1994,badal,"Bhuwan K.C., Krishna Malla, Sharmila Malla, Bina Basnet",Krishna Malla,
-68,1994,chahana,"Rajesh Hamal, Sunil Thapa, Karisma Manandhar, Santosh Panta, Saroj Khanal",Sheetal Nepal,
-69,1994,cheli,"Mausami Malla, Dhiren Shakya",Raju Dhowj Rana,
-70,1994,dakshina,"Bhuwan K.C., Niruta Singh (debut)",Tulsi Ghimire,
-71,1994,dushman,"Kiran Pratap, Saroj Khanal, Mausami Malla, Rupa Rana",Badri Adhikari,
-72,1994,janma janma,"Saroj Khanal, Dhiren Shahkya",Sheetal Nepal,
-73,1994,jhajhalko,"Shiv Shrestha, Gauri Malla, Kristi Mainali, Shree Krishna Shrestha (debut)",Gagan Birahi,
-74,1994,pahilo prem,,Chetan Karki,
-75,1994,sadak,"Rajesh Hamal, Saroj Khanal, Sunny Runiyar",Tirth Thapa,
-76,1994,paribhasa,"Rajesh Hamal, Saroj Khanal, Karishma Manandhar",Rajendra Shalabh,
-77,1994,prem puja,Dhiren Shakya,Raju Dhowj Rana,
-78,1994,prithvi,"Rajesh Hamal, Srijana Basnet, Mausami Malla",Prakash Sayami,
-79,1994,rakchaya,,Prem Baniya,
-80,1994,sannani,"Saroj Khanal, Anita Silwal",Narayan Puri,
-81,1994,saubhagye,"Dhiren Shakya, Mausami Malla, Rupa Rana",Madhav Sapkota,
-82,1994,sauta,"Bhuwan K.C., Karishma Manandhar, Bina Basnet",Narayn Puri,
-83,1994,shanti deep,"Puran Joshi, Arjun Jung Shahi, Nabina Shrestha, Mithila Sharma",Royal Nepal Film Corporation,
-84,1994,mahadevi,"Bhuwan K.C., Karishma Manandhar",Narayan Puri,
-85,1994,swarga,"Shiva Shreshtha, Neer Shah, Arjun Shrestha, Gauri Malla",Sambhu Pradhan,
-86,1994,truck driver गड चलक,"Shiv Shrestha, Karishma Manandhar, Bijay Lama",Raj Kumar Sharma,
-87,1994,tuhuro,"Bhuwan K.C., Srijana Basnet, Mausami Malla, Dinesh Sharma (actor)",,
-88,1995,daju bhai,"Bhuwan K.C., Shree Krishna Shrestha, Mausami Malla",Banni Pradhan,
-89,1995,dharma,,Amar Rasilee,
-90,1995,jaali rumal,"Shree Krishna Shrestha, Melina Manandhar, Sudhamshu Joshi",Anish Koirala,
-91,1995,janma bhoomi,Bipana Thapa (debut),Mohan Niraula,
-92,1995,jeevan sangharsha,"Rajesh Hamal, Mithila Sharma",,
-94,1995,karja,"Dhiren Shakya, Kristi Mainali, Ganesh Upreti",Kishore Rana,
-95,1995,maha maya,"Shiv Shrestha, Saroj Khanal, Gauri Malla, Mithila Sharma",Prakash Thapa,
-96,1995,mohani,"Ganesh Upreti, Bina Basnet, Saroj Khanal",Ramesh Budathoki,
-97,1995,prem pinda,"Saroj Khanal, Sani Rauniyar (debut), Melina Manandhar, Neer Shah",Yadav Kharel,
-98,1995,rajamati,"Shree Krishna Shrestha, Maniraj Lawat, Hisila Maharjan",Neer Shah,
-99,1995,ragat,"Saroj Khanal, Bipana Thapa, Bina Basnet, Anita Silwal",Narayan Puri,
-100,1995,sarangi,"Saroj Khanal, Brazesh Khanal, Karishma Manandhar, Saranga Shrestha, Teeka Pahari",Laxminath Sharma,
-101,1995,sarswati,"Shiva Shrestha, Sunil Thapa, Gauri Malla",Sambhu Pradhan,
-102,1995,simana,"Rajesh Hamal, Dhiren Shakya, Melina Manandhar",Prakash Sayami,
-103,1996,aaghat,"Kristi Mainali, Bhuwan K.C., Shree Krishna Shrestha",Anish Koirala,
-104,1996,aafno birano,"Rajesh Hamal, Shreekrishna Shrestha, Shrisha Karki",,
-105,1996,avatar,"Rajesh Hamal, Gauri Malla, Jal Shah (debut)",Prakash Sayami,
-106,1996,agni parichya,"Rajesh Hamal, Bipana Thapa",Surya Bohra,
-107,1996,anartha,,Kundan Khanal,
-108,1996,andolan,"Karishma Manandhar, Dinesh Sharma",Tirtha Thapa,
-109,1996,balidan,"Madan Krishna Shrestha, Hari Bansa Acharya",Tulsi Ghimire,
-111,1996,bhariya,"Rajesh Hamal, Melina Manandhar",Daya Ram Dahal,
-113,1996,chunauti,"Saroj Khanal, Shree Krishna Shrestha, Bipana Thapa",Naresh Kumar Poudel,
-114,1996,daijo,"Bhuwan K.C., Melina Manandhar",Daya Ram Dahal,
-115,1996,jaya baba pashupati nath,"Saroj Khanal, Sudhamshu Joshi",Satish Kumar,
-116,1996,laxmi puja,"Kristi Mainali, Ganesh Upreti, Shree Krishna Shrestha",,
-117,1996,karodpati,"Bhuwan K.C., Sushmita K.C.",Kishore Rana,
-118,1996,nirmaya,"Shree Krishna Shrestha, Saranga Shrestha",Narayan Puri,
-119,1996,nirmohi,"Dinesh Sharma, Jal Shah, Saroj Khanal",Nayan Raj Pandey,
-120,1996,paachuri,"Shiv Shrestha, Bhuwan K.C., Kristi Mainali, Nabina Shrestha",Banni Pradhan,
-121,1996,prateeksha,Karishma Manandhar,Raj Bikram Shah,
-122,1996,raanko,"Shiv Shrestha, Bhuwan K.C., Gauri Malla, Mithila Sharma, Bijaya Lama, Kristi Mainali",Kishore Rana,
-123,1996,rahar,Niruta Singh,Tulsi Ghimire,
-124,1996,sun chandi,"Shree Krishna Shrestha, Saranga Shrestha",Sambhu Pradhan,
-125,1996,gothalo,"Krishna Malla, Sarmila Malla, Saroj Khanal, Shree Krishna Shrestha",Ujwal Ghimire,
-126,1996,yo maya le launa satayo,,Deepak Rayamajhi,
-127,1997,allare,"Rajesh Hamal, Karishma Manandhar, Ashok Sharma, Shrisha Karki",Ashok Sharma,
-128,1997,bishalu,,Dev Kuamr Shrestha,
-129,1997,chandal,"Rajesh Hamal, Karishma Manandhar, Anita Silwal",Arun Kumar Jha,
-130,1997,chahaari,,,
-131,1997,daiba sanyog,"Manju Kumar Shrestha, Sunny Rauniyar",,
-132,1997,dauntari,,,
-133,1997,des pardes,"Dhiren Shakya, Karishma Manandhar",Yuva Raj Lama,
-134,1997,deurali,,Yuva Raj Lama,
-135,1997,guru chela,"Shree Krishna Shrestha, Saranga Shrestha",,
-136,1997,ishwor,"Shiva Shrestha, Jal Shah",,
-137,1997,jalan,Dinesh Sharma,Mukunda Bastakoti,
-138,1997,jameen,"Dhiren Shakya, Bipana Thapa",,
-139,1997,jun tara,"Rajesh Hamal, Dhiren Shakya, Neer Shah",Ramesh Budathoki,
-140,1997,khelauna,,Yuva Raj Lama,
-141,1997,miteri gaun,"Shiv Shrestha, Pooja Chand, Pabitra Subba",Gagan Birahi,
-142,1997,naaso,"Shiv Shrestha, Karishma Manandhar, Saranga Shrestha",Yadav Kharel,
-143,1997,pocketmaar,"Dinesh Sharma, Shree Krishna Shrestha",Raju Dhowj Rana,
-144,1997,parai ghar,"Jal Shah, Ramesh Upreti",Deepak Rayamajhi,
-145,1997,rajkumar,"Dhiren Shakya, Karishma Manandhar, Pooja Chand",,
-147,1997,seema rekha,"Sanu Baba, Sudhamshu Joshi",Rajani Rana,
-148,1997,shankar,"Rajesh Hamal, Jal Shah, Bipana Thapa",Narayan Puri,
-149,1998,ansha banda,,Suraj Subba,
-151,1998,bahadur,,Ashok Shrestha,
-152,1998,bhanu bhakta,"Dilip Rayamajhi (debut), Anita Silwal (debut)",Yadav Kharel,
-153,1998,chamatkar,,,
-154,1998,chor,"Rajesh Hamal, Bipana Thapa",Raj Kumar Sharma,
-155,1998,devdut,"Shree Krishna Shrestha, Bipana Thapa, Ramesh Upretti, Yubaraj Lama",Yuva Raj Lama,
-156,1998,dulaha raja dulahi rani,Bipana Thapa,Yuva Raja Lama,
-157,1998,filim,,"Madan Krishna Shrestha, Hari Bansa Acharya",
-158,1998,gaunle,"Rajesh Hamal, Bipana Thapa",Deepak Shrestha,
-159,1998,ghaam chayan,,Kishore Rana,
-160,1998,jeet,"Shree Krishna Shrestha, Bipana Thapa, Ramesh Upreti",Laxminath Sharma,
-161,1998,mr ram krishne,"Rajesh Hamal, Karishma Manandhar, Ashok Sharma, Saranga Shrestha",Ashok Sharma,
-162,1998,nayak,,Manju Kumar Shrestha,
-163,1998,pardesi,,,
-164,1998,pardesi kancha,"Rajesh Hamal, Karishma Manandhar",,
-165,1998,rana bhoomi,,Aakash Adhikari,
-166,1998,rani khola,"Melina Manandhar, Bipana Thapa",,
-167,1998,saathi,Rajesh Hamal,,
-168,1998,sagun,"Shiv Shrestha, Bipana Thapa",,
-169,1998,kasto samjhauta,,Deepak Rayamajhi,
-170,1998,shikhar,"Shree Krishna Shrestha, Shyaroon Sherpa",Gagan Birahi,
-171,1998,sindur pote,,Raju Dhowj Rana,
-172,1998,suraksha,"Dinesh Sharma, Niruta Singh, Sunil Thapa",Armit Sharma,
-173,1998,the commando,,JayBee Rai,
-174,1998,thuldai,"Shiv Shrestha, Jal Shah, Niruta Singh",Dayaram Dahal,
-175,1999,afanta,"Niruta Singh, Shree Krishna Shrestha",Shiva Regmi,
-176,1999,apsara,"Bipana Thapa, Sanchita Luitel (debut), Ramesh Upreti",,
-177,1999,awara,,Bijaya Thapa,
-178,1999,bhai,Sushil Chhetri (debut),Deepak Shrestha,
-179,1999,chalachitra,,Biswa Basnet,
-180,1999,chameli,,Ravi Baral,
-181,1999,nepali babu,"Dinesh Sharma, Bhuwan KC, Sunil Thapa",Yugen Chhopel,
-182,1999,chandani,"Rajesh Hamal, Niruta Singh",Daya Ram Dahal,
-184,1999,dharam sankat,Rajesh Hamal,Resh Raj Acharya,
-185,1999,dharmaputra,"Dinesh Sharma, Rajesh Hamal, Niruta Singh",Yuva Raj Lama,
-186,1999,dodhar,"Arjun Shrestha, Jal Shah, Ramesh Upreti, Niruta Singh, Tika Pahari",Narendra Shrestha,
-187,1999,ek number ko pakhe,"Rajesh Hamal, Karishma Manandhar, Jal Shah, Neer Shah, Dinesh DC",Kishore Rana,
-188,1999,gorkhali,"Sree Krishna Shrestha, Jharana Thapa",Gyanendra Deuja,
-189,1999,hathiyar,"Jharna Bajracharya, Karisma Manandhar, Lokendra Karki, Simanta Udas",Prakash Sayami,
-190,1999,himalaya   official entry for the oscars,,,
-191,1999,jange,,Daya Ram Dahal,
-192,1999,kancha,"Rajesh Hamal, Karishma Manandhar",Surya Bohra,
-193,1999,mato bolcha,"Rajesh Hamal, Bipana Thapa, Dinesh Sharma, Melina Manandhar",Resh Raj Acharya,
-194,1999,maute dai,"Yuva Raj Lama, Ramesh Upreti, Jala Shah",Yuva Raj Lama,
-195,1999,nagad narayan,"Ramesh Upreti, Rajesh Hamal, Raj Acharya",Resh Raj Acharya,
-196,1999,nata ragat ko,"Niruta Singh, Ganesh Upreti, Shree Krishna Shrestha, Jal Shah",,
-197,1999,pareli,,Deepak Rayamajhi,
-198,1999,sukumbasi,"Sunildutta Pandey, Rajesh Hamal",Sagar Ghimire,
-199,1999,timinai basyau mero manma,"Dinesh Sharma, Jal Shah, Sunil Thapa",Banni Pradhan,
-200,2000,aago,"Sushil Chhetri, Bipana Thapa, Niruta Singh",Narayan Puri,
-201,2000,basanti,"Rajesh Hamal, Karishma Manandhar, Gauri Malla",Neer Shah,
-202,2000,dhuk dhuki,"Rajesh Hamal, Karishma Manandhar",,
-203,2000,jindagani,"Rajesh Hamal, Karishma Manandhar",Ujwal Ghimire,
-204,2000,mukundo,"Gauri Malla, Mithila Sharma",,
-205,2000,mann mero mandaina,"Dinesh Sharma, Bipana Thapa",Desh Bhakta Khanal,
-206,2000,tan ta sarai bigris ni badri,"Bhuwan K.C., Sushmita K. C., Bipana Thapa, Hari Bansha Acharya",,
-207,2000,upkaar,"Rajesh Hamal, Karishma Manandhar, Shree Krishna Shrestha, Niruta Singh, Mithila Sharma
-Sajjal Pant  (Child artist)",Kishore Rana,
-208,2000,shahar,"Dinesh Sharma, Puja Chand",Suman Sarkar,
-209,2000,anjanai maa maya basla hai,"Dinesh Sharma, Dilip Raymajhi",Chandra Prakash,
-210,2001,aafno manchhe,"Bipana Thapa, Dilip Rayamajhi, Shree Krishna Shrestha, Niruta Singh Rejina Uprety",Shiva Regmi,
-211,2001,aashirbad,"Dinesh Sharma, Ram Krishna Dhakal, Rajesh Hamal, Jal Shah, Sanchita Luitel",Sambhu Pradhan,
-212,2001,afno ghar afno manche,,Narayan Puri,
-213,2001,ladai,"Dinesh Sharma, Sushil Chhetri",Badri Adhikari,
-214,2001,army,"Dinesh Sharma, Lokendra Karki, Jal Shah",Shovit Basnet,
-215,2001,badal paree,"Bhuwan K.C., Jal Shah, Neer Shah",Ugyen Chopel,
-216,2001,beimani,"Shiva Shrestha, Shrisha Karki, Shree Krishna Shrestha, Bipana Thapa",Bijay Chalise,
-217,2001,bihani,,,
-218,2001,buhari,"Shree krishna Shrestha, Sunil Thapa, Neer Shah",,
-220,2001,daiva sanjog,,Manju Kumar Shrestha,
-221,2001,darpan chaya,"Niruta Singh, Uttam Pradhan, Tulsi Ghimire, Dilip Rayamajhi",Tulsi Ghimire,
-222,2001,gaajal,"Ramesh Uprety, Bipana Thapa, Sushil Chhetri",K P Pathak,
-223,2001,gaunthali,,Dr.Bhola Rijal,
-224,2001,haudey,"Dinesh Sharma, Ishwor Shrestha",Suraj Subba,
-225,2001,jeevan saathi,,Deepak Shrestha,
-226,2001,kaidi,"Dhiren Shakya, Kshitiza Shakya, Shrisha Karki",Manoj Khadka,
-227,2001,ke bho lau na ni,"Dinesh Sharma, Anupama Koirala, Sushil Chhetri, Shiva Shrestha",Anish Koirala,
-228,2001,manai ta ho,,"Bipana Thapa, Nawal Khadka, Ramesh Upreti",
-230,2001,maya ko saino,,Resh Raj Aacharya,
-231,2001,natedar,"Shiva Shrestha, Puja Chand, Dilip Raimajhi",Mukunda Bastakoti,
-232,2001,nepal pyaro chha,"Dinesh Sharma, Rajesh Hamal, Jal Shah, Ramesh Upreti",Sambhu Pradhan,
-233,2001,numafung,Alok Nembang,Nabin Subba,
-234,2001,pirati aafai hudon rahechha,,Raju Dhowj Rana,
-235,2001,siudo ko sindoor,"Rajesh Hamal, Niruta Singh, Jharana Bajracharya, Neer Shah, Ratan Subedi, Basundhara Bhushal",Manju Kumar Shrestha,
-236,2001,superstar,"Bhuwan K.C., Sushmita K. C.",Anish Koirala,
-237,2001,timrai lagi,,Uday Subba,
-238,2001,kasto saino,Rajesh Hamal,Madan Ghimire,
-239,2001,yo maya ko sagar,"Jal Shah, Ramesh Upreti",Ashok Sharma,
-240,2002,susmita ko life,"Niruta Singh, Uttam Pradhan",Deepak Shrestha,
-242,2002,anjuli,,,
-243,2002,baacha bandhan,"Dhiren Shakya, Shrisha Karki, Shanti Maskey, Basundhara Bhusal, Rajaram Paudel",,
-244,2002,babu saheb,"Bhuwan K.C., Karishma Manandhar, Sushmita K.C.",Ramesh Budathoki,
-245,2002,bakshish,,,
-246,2002,bhagya le jurayo,"Rajesh Hamal, Rejina Uprety",Resh Raj Acharya,
-247,2002,bhai tika,,Laxmi Nath Sharma,
-248,2002,bir ganeshman,Manoj RC,"Sahajman Shrestha, Bijayratna Tuladhar",
-249,2002,dhan sampati,"Dilip Rayamajhi, Rejina Uprety",,
-250,2002,hateri,"Rajesh Hamal, Rejina Uprety, Puja Chand",,
-251,2002,khandan,"Rajesh Hamal, Niruta Singh, Rejina Uprety, Sushil Chhetri",Yuva Raj Lama,
-252,2002,maan,"Dinesh Sharma, Rejina Uprety, Uttam Pradhan, Jay Kishan Basnet",Sovit Basnet,
-253,2002,malai maaf garidau,,Bijay Thapa,
-255,2002,mama bhanja,,,
-256,2002,mamaghar,"Shiv Shrestha, Gauri Malla, Dilip Rayamajhi, Melina Manandhar",,
-257,2002,man mandir,,,
-258,2002,maya namara,,,
-259,2002,melong,,,
-260,2002,mitini,"Bipana Thapa, Dilip Rayamajhi",Anish Koirala,
-261,2002,mohani lagla hai,,Kundan Khanal,
-262,2002,muskan,"Bipana Thapa, Sushil Chhetri, Dilip Rayamajhi Rejina Uprety",Yuvaraj Lama,
-263,2002,pheri timro yaad aayo,,Ramesh Budathoki,
-264,2002,pijanda,"Nikhil Upreti (debut), Niruta Singh",,
-265,2002,pooja,,Deepak Rayamajhi,
-266,2002,rickshaw puller the,,,
-267,2002,sahid gate,,Raj Kumar Sharma,
-268,2002,santan ko maya,"Dinesh Sharma, Rajesh Hamal, Sarita Lamichhane, Puja Chand",Kishore Rana,
-269,2002,sanyas,"Rajesh Hamal, Gauri Malla, Jal Shah, Rejina Uprety",Shambhu Pradhan,
-270,2002,shadhyantra,,Suneel Pandey,
-271,2002,yestai rahecha jindagi,,Biswa Basnet,
-272,2002,andhi tufan,"Dinesh Sharma, Richa Ghimire",,
-273,2002,santan thari thari ka,"Dinesh Sharma, Dilip Ray Majhi",,
-274,2002,ye mero hajur,"Shree Krishna Shrestha, Jharna Thapa",Shiva Regmi,
-275,2003,je bho ramrai bho,"Hari Bansha Acharya, Rajesh Hamal, Jal Shah, Madan Krishna Shrestha",Hari Bansha Acharya,
-276,2003,jetho kancha,"Shiv Shrestha Rajesh Hamal, Jal Shah",Dayaram Dahal,
-277,2003,muna madan,"Deepak Tripathi, Usha Paudel",Gyanendra Bahadur Deuja,
-278,2003,bhagya,"Dinesh Sharma, Nikhil Upreti",Prakash Bhattarai,
-279,2003,shukha dukha,"Madan Krishna Shrestha, Mithila Sharma, Shree Krishna Shrestha, Jharana Thapa",Shiva Regmi,
-280,2003,upahar,"Niruta Singh, Uttam Pradhan, Sushil Chhetri",Shiva Regmi,
-281,2003,sangram,"Dinesh Sharma, Melina Manandhar",Mahendra Budhathoki,
-282,2003,dhadkan,"Dinesh Sharma, Nikhil Upreti, Rekha Thapa",Naresh Poudyal,
-283,2004,haami teen bhai,"Rajesh Hamal, Shree Krishna Shrestha, Nikhil Upreti, Jharana Thapa, Rekha Thapa",Shiva Regmi,
-284,2004,lakshya,"Manoj RC, Uttam Pradhan, Sushmita Karki, Noyo Singh",Manoj Pandit,
-285,2004,krishna arjun,"Dinesh Sharma, Rajesh Hamal",Deepak Shrestha,
-286,2004,muglan,"Jharna Thapa, Dilip Rayamajhi, Bipana Thapa",,
-287,2004,pareni maya jalaima,"Dilip Rayamajhi, Uttam Pradhan, Jharana Bajracharya, Mitthila Sharma, Sunil Thapa",Prithvi Rana and Ram Saran Ghimire,
-288,2004,bhagya bidhata,"Dinesh Sharma, Rajesh Hamal, Rupa Rana",Dayaram Dahal,
-289,2004,jwalamukhi,Mahendra Budhathoki,,
-290,2005,basain,"Mukunda Bastakoti, Ranju Lamichhane, Uttam Pradhan, Mithila Sharma, Ganesh Upreti",Subash Gajurel,
-291,2005,abhimanyu,"Dinesh Sharma, Nikhil Upreti",Naresh Poudyal,
-292,2006,alpaviram,,,
-293,2006,duniya,"Dinesh Sharma, Nikhil Upreti",Shiva Regmi,
-294,2006,karma,,,
-295,2006,krodh,"Nikhil Upreti, Akash Adhikari, Jal Shah, Rekha Thapa, Usha Paudel, Dinesh Sharma",,
-296,2006,maanis,"Bhuwan K.C, Nikhil Uprety, Bipana Thapa, Rejina Uprety",Shiva Regmi,
-297,2006,matina la ana he du,"Suraj Shakya, Ashishma Nakarmi",Subhash Ram Prajapati,
-298,2006,parai ko ghar,"Suraj Shakya, Ashishma Nakarmi",Subhash Ram Prajapati,
-299,2007,ram balram,Shree Krishna Shrestha,,
-300,2007,antya,"Dinesh Sharma, Usha Poudel",Basudev Pokharel,
-301,2007,yuddha,,,
-302,2007,paapi manchhe,"Dinesh Sharma, Nikhil Upreti",Deepak Shrestha,
-303,2007,ma maya garchhu,"Dinesh Sharma, Rajesh Hamal, Ayush Rijal",Raj Shakya,
-304,2008,himmat,"Dinesh Sharma, Rekha Thapa",,
-306,2008,aafno manche aafnai hunchha,"Biraj Bhatta, Rekha tThapa, Arunima, Suman Singh",,
-307,2008,bastabikta,,,
-308,2008,batuli,"Rajesh Hamal, Rekha Thapa, Biraj Bhatt",,
-309,2008,the nirmala,Dinesh Sharma Pujana Pradhan,Raju Adhikari (film director),
-311,2008,iku  the jungle man,"Suleman Shankar, Usha Rajak",,
-312,2008,kagbeni,"Nima Rumba, Saugat Malla, Deeya Maskey",Bhusan Dahal,
-313,2008,pahilo pahilo maya,"Raj Ballav, Yuna Upreti",,
-314,2008,pratighat,"Dinesh Sharma, Prerana Sharma, Rakshanda Sharma",Basudev Pokharel,
-315,2008,sano sansar,"Mahesh Shakya, Jivan Luitel (debut), Namrata Shrestha (debut)",Alok Nembang,
-316,2008,karnabir,"Rajesh Hamal, Rejina Uprety, Rekha Thapa, Jaikishan Basnet,",Shovit Basnet,
-317,2008,kismat,"Biraj bhatta, Rekha Thapa, Aryan Sigdel (Debutant), Rajaram Paudel",Ujwal Ghimire,
-318,2008,ma timi bina marihalchhu,"Bhuwan K.C., Jharana Thapa, Sushmita K.C.",Dayaram Dahal,
-319,2008,kaslai diu yo jowan,"Dilip Rayamajhi, Melina Manandhar, Jharna Thapa, Nikhil Upreti",,
-321,2008,salam chha mayalai,,,
-322,2008,takkar dui mutu ko,,,
-323,2009,arjun dev,"Biraj Bhatta, Rejina Uprety, Garima Pant",Shiva Regmi,
-324,2009,bish,"Rajesh Hamal, Rejina Uprety, Richa Ghimire, Sanchita Luitel, Nikhil Uprety",,
-325,2009,raaj,"Biraj bhatta, Rejina Uprety, Shiva Shrestha, Ramit Dhungana",Bijaya Gopal Dali,
-326,2009,chodi gaye paap lagla,"Raj Ballav Koirala, Biraj Bhatta, Richa Ghimire, Sanchita Luitel",Ujwal Ghimire,
-327,2009,dhum,"Biraj Bhatta, Ramit Dhungana, Rejina Uprety, Arjun Karki,",Shobhit Basnet,
-328,2009,deewanapan,"Dinesh Sharma, Arunima Lamsal, Raj Ballav Koirala",Krishna Chapagain,
-329,2009,gorkha rachhayak,,Giri Raj Lamichhane,
-330,2009,itihaas,"Biraj Bhatta, Rejina Uprety, Rekha Thapa",,
-331,2009,izzatdar,"Dinesh Sharma, Rajesh Hamal, Biraj Bhatta, Arjun Karki",Krishna Chapagain,
-332,2009,jay shiva shankar,"Rajesh Hamal, Nikhil Upreti, Rejina Uprety, Rajesh Dhungana, Biraj Bhatt",Rajendra Upreti,
-333,2009,jindagi,,,
-334,2009,jeewan mrityu,"Nikhil Upreti, Ramit Dhungana, Garima Pant",Ramesh Budhathoki,
-335,2009,jungbaaz,"Rajesh Hamal, Gauri Malla, Rushma Rai, Sunil Thapa, Ashok Sharma, Yuvaraj Lama",,
-336,2009,kohi mero,"Dinesh Sharma, Jharana Bajracharya",Alok Nengbang,
-337,2009,kahan bhetiyela,"Shree Krishna Shrestha, Niruta Singh",Shiva Regmi,
-338,2009,kahan chau kahan,"Jharana Thapa, Biraj Bhatta, Govind Shahi, Ganesh Upreti",Dayaram Dahal,
-339,2009,dhunge youg,"Dil Krishna Shrestha, Sabina",Madhab Raj Kharel,
-340,2009,kusume rumal 2,"Niraj Baral, Rejina Upreti Usha Rajak, Rubi Bhattarai, Tripti Nadakar",Nirak Poudel,
-341,2009,mahan,"Dinesh Sharma, Biraj Bhatta, Jharana Thapa, Jaykishan Basnet",Krishna Chapagain,
-342,2009,mero euta saathi cha,"Aryan Sigdel, Namrata Shrestha",Sudarshan Thapa,
-343,2009,mission love in sikkim,"Bikrant Basnet, Rushma Rai",Sovit Basnet,
-344,2009,mr mangale,"Biren Shrestha, Rekha Thapa",,
-345,2009,naina resham,"Biraj Bhatt, Nisha Adhikari",,
-346,2009,naseeb afno,,Bikas Acharya,
-347,2009,nepali veer,,,
-348,2009,nishana,"Rajesh Hamal, Nikhil Upreti, Rejina Uprety",,
-349,2009,paapi manche 2,"Nikhil Upreti, Sunil Thapa, Pujana Pradhan",Deepak Shrestha,
-350,2009,rachhayak,,,
-351,2009,rajya,,,
-354,2009,silsila,"Rekha Thapa, Biraj,Bhatta, Soniya Kc, Raj",,
-355,2009,the third generation,,,
-356,2009,kanoon,"Dinesh Sharma, Rajesh Hamal",,
-357,2009,trinetra,"Nikhil Upreti, Shweta Tiwari",,
-358,2009,mission paisa,"Nikhil Upreti, Nisha Adhikari, Sunil Thapa",,
-359,2010,nai nabhannu la,"Jeevan Luintel, Richa Singh Thakuri",Bikash Acharya,
-360,2010,basma chaina yo mann,"Biraj Bhatta, Karishma Manandhar, Raj Ballav Koirala, Nandita KC",Ramraja Dahal,
-361,2010,bato muni ko phool,"Yash Kumar, Rekha Thapa, Babu Bogati, Nandita KC",Suroj Subba,
-363,2010,dasdhunga,"Anup Baral, Kiran Kunwar, Dayahang Rai, Sanchita Luitel, Saugat Malla",Manoj Pandit,
-364,2010,desh dekhi bidesh,"Nikhil Upreti, Dilip Rayamajhi, Richa Ghimire, Prerana Sharma, Daman Rupakheti",Narendra Thapa,
-365,2010,first love,"Aryan Sigdel, Karma, Nisha Adhikari, Vinay Shrestha, Reecha Sharma",Simosh Sunuwar,
-366,2010,gorkha paltan,"Prashant Tamang, Ranjita Gurung, Sunil Thapa",Narayan Rayamajhi,
-367,2010,hansi deu ek phera,"Madan Krishna Shrestha, Hari Bansha Acharya, Raj Ballav Koirala, Shweta Khadka, Sushil Chhetri",Shiva Regmi,
-368,2010,hifajat,"Aryan Sigdel, Rekha Thapa, Aayush Rijal (debut)",Gyanendra Deuja,
-369,2010,the flash back farkera herda,"Aryan Sigdel, Nikhil Upreti, Yuna Upreti, Neeta Pokharel",Dayaram Dahal,
-370,2010,the yug dekhi yug samma,"Rajesh Hamal, Nandit KC",Deependra Khanal,
-371,2010,kasle choryo mero mann,Sangay Khampa,,
-372,2011,annadata,"Ramit Dhungana, Dinesh Sharma, Rohan Dhakal, Shibu Singh, Nishan Shahi Dhakal",Niraj Ghimire,
-373,2011,dharmaa,"Rajesh Hamal, Manisha Koirala, Rejina Uprety, Nikhil Uprety",Dipendra Khanal,
-374,2011,khushi,"Rekha Thapa, Suman Singh, Aayush Rijal, Ganesh Upreti",Gyanendra Deuja,
-376,2011,batch no 16,"Suman Singh, Rubi Bhattarai, Sushma Karki, Anup Baral",Abispan,
-377,2011,masan,"Raj Ballav Koirala, Keki Adhikari",N Shah,
-378,2011,farki aau,"Rajesh Hamal, Niruta Singh",,
-379,2011,parkhi rakha hai,"Dil Shrestha, Sanchita Luintel, Melina Manandhar, Mukesh Dhakal",Dil Shrestha,
-380,2011,malai man paryo,"Niruta Singh, Raj Ballav Koirala, Jiwan Luitel, Arunima Lamsal",Bhadra Bhujel,
-381,2011,devyani,"Nikhil Upreti, Dilip Rayamajhi, Bimala KC",Bijay Basnet,
-382,2011,hamro maya juni juni lai,"Shree Krishna Shrestha, Rekha Thapa, Mukesh Dhakal, Nita Dhungana",Rishi Lamichane,
-383,2011,jaba jaba maya bascha,"Jiwan Luitel, Rekha Thapa, Mithila Sharma, Shrijana Basnet",Bijay Thapa,
-384,2011,ma chu ni timro,Rose Rana,,
-385,2011,kalapani,"Jharana Thapa, Sanchita Luintel, Nikhil Upreti, Dilip Rayamajhi",Uddhad Abhidit,
-386,2011,andaaz,"Jeevan Luitel, Rekha Thapa, Sabin Shrestha",Ujwal Ghimire,
-387,2011,acharay,,,
-388,2011,maryo ni mayale maryo,,,
-389,2011,mero pyaro maitighar,"Dinesh Sharma, Dilip Ray Majhi",Uday Subba,
-390,2011,shreeman,,,
-391,2011,dulahi,,,
-392,2011,timi jaha bhayapani,,,
-393,2011,baghchal,"Rejina Uprety, Santosh Giri, Naresh Bhattarai",,
-394,2011,kina mayama,,,
-395,2011,aangalo yo mayako,,,
-396,2012,namaste,,,
-397,2012,brake fail,"Rajesh Hamal, Bimlesh Adhikari, Neeraj Baral, Richa Ghimire",Shankar Ghimire,
-398,2012,loot,"Dayahang Rai, Saugat Malla, Karma Shakya, Srijana Subba",Nischal Basnet,
-399,2012,yoddha,"Dinesh Sharma, Rajesh Hamal",Uday Subba,
-400,2012,apabad,"Nisha Adhikari, Raj Ballav Koirala",Subash Koirala,
-401,2013,saanghuro,"Shushank Mainali, Deeya Maskey, Aruna Karki, Dayahang Rai, Buddhi Tamang",Joes Pandey,
-402,2013,bardan,"Rajesh Hamal, Karishma Manandhar, Rejina Uprety",,
-403,2013,cmala,"Manoj RC, Dipti Gurung, Nirvik Rai, Roshani Karki, Rajesh Payal Rai",Rudra Bahadur Gurung,
-404,2013,cha ekan cha,"Kedar Ghimire, Sitaram Kattel",Dinesh DC,
-405,2013,manjari,"Gaurav Pahari, Sujata Koirala, Tika Pahari, Bishnu Rimal",Ganesh Dev Panday,
-406,2013,hostel,"Anmol K.C., Prakreeti Shrestha, Gaurav Pahadia, Salon Basnet, Rista Basnet",Hemaraj BC,
-407,2014,ritu,"Raj Ballav Koirala, Malina Joshi, Reema Bishwokarma etc.",Manoj Adhikari,
-408,2014,humjayaga,"Babu Bogati, Wilson Bikram Rai Manoj RC, Parbati Rai",Surendra Pun,
-409,2014,madhumas,"Aryan Sigdel, Manoj RC, Pooja Sharma, Shivangini Rana",Sudarshan Thapa,
-410,2014,mukhauta,Arpan Thapa,Rabin Shrestha,
-411,2014,nai nabhannu la 2,Anubhav Regmi Sugyani Bhattarai,Bikash Acharya,
-412,2014,mututhe heart belongs to you,"Bimlesh Adhikari, Keki Adhikari, Mukesh Acharya",Everest Surya Bohora,
-413,2014,kohinoor,"Shree Krishna Shrestha, Sweta Khadka",,
-414,2014,talakjung vs tulke,"Khagendra Lamichhane, Reecha Sharma, Shushank Mainali, Rabindra Singh Baniya",Nischal Basnet,
-415,2023,jerryy,"Anmol K.C., Anna Sharma, Abhisek Man Sherchan, Amalya Sharma",Hemraj BC,
-416,2023,love you baba,"Gajit Bista, Sangam Bista",Saugat Bista,
-417,2015,zhigrana,"Hanna G, Nikun Shrestha, Menuka Pradhan, Jyoti Karki, Shanti Giri, Arun Regmi, Deewakar Piya, Bina Pandey",,
-419,2014,ikshya,Dahayang Rai,Giri Raj Lamichhane,
-420,2015,birano maya,Shreevev /Namrata Sapkota,Madhab Raj Kharel,
-421,2015,danav,"Dinesh Sharma, Mahima Silwal, Teja Ayer",Dinesh Sharma,
-422,2015,hostel returns,"Sushil Shrestha, Sashi Shrestha, Nazir Hussain, Swastima Khadka, Sushil Sitaula",,
-423,2015,bhairav,"Nikhil Upreti, Anu Shah, Nagendra Rijal, Rekha Thapa (guest role)",Nikhil Upreti,
-424,2015,luv sab,"Samyam Puri, Karishma Shrestha, Salon Basnet",Dev Kumar Mishra,
-425,2015,wada no 6,"Deepak Raj Giri, Sitaram Kattel, Priyanka Karki, Jitu Nepal, Daya hang rai, Kedar Ghimire, Shivahari Poudel Deepa Shree Niraula",Ujwal Ghimire,
-426,2015,chankhe shankhe pankhe,"Sudarshan Thapa, Prem Puri, Puja Sharma, Rabindra Jha Nandita KC, Pramod Agrahari",Sudarshan Thapa,
-428,2015,paradeshi,"Prashant Tamang, Rajani KC, Naren Khadka",Narayan Rayamajhi,
-429,2015,kabaddi kabaddi,"Dayahang Rai, Saugat Malla, Risma Gurung",Ram Babu Gurung,
-430,2015,romance,,L N Gautam,
-431,2015,jau hida pokhara,Rekha Thapa and Jivan Luitel,Shovit Basnet,
-433,2016,bonodal  santali,"Hasda Bayar ( Kabiraj Hasda ), Kabita Baskey, Mohan Tudu, Rajan Baskey",Kiran Khatiwada,
-435,2018,sunkesari,"Reecha Sharma, Sunny Dhakal, Lauren Lofberg, Rabindra Jha",Arpan Thapa,
-436,2018,durgamandu,"Saniya , Madhab",Madhab Raj Kharel,
-437,2018,meri mamu,"Ayub Sen, Kusum Gurung, Saruk Tamrakar, Aaslesha Thakuri",Yam Thapa,
-438,2018,kathaa 72,"Akash Magar, Bhuisal Lama, Supriya Rana",Prabin Syangbo,
-439,2018,prasad,"Bipin Karki, Namrata Shrestha, Nischal Basnet",Dinesh Raut,
-440,2018,matti mala,"Buddhi Tamang, Rajani Gurung, Priyanka Karki",Teke Paurakhi Rai,
-441,2019,jhatkka,"Surbir Pandit, Rakshya Guragai",Wronit Bee Mizaar,
-442,2019,password,"Sunny Leone, Anoop Bikram Shahi, Bikram Joshi, Buddhi Tamang, Rabindra Jha",Samrat Basnet,
-443,2019,maya pirim,"Salon Basnet, Anjali Adhikari, Koshish Chhetri",Tek Paurakhi Rai,
-444,2020,sanglo,"Biraj Bhatta, Nikita Chandak, Jayananda Lama, Kameshwor Chaurasiya, Prakash Shah",Biraj Bhatta,
-445,2020,selfie king,"Bipin Karki, Laxmi Bardewa, Abhay Baral, Bhuwan Chand,",Bishal Sapkota,
-446,2020,senti virus,"Sitaram Kattel, Kunjana Ghimire, Dayahang Rai, Wilson Bikram Rai, Buddhi Tamang",Rambabu Gurung,
-447,2020,love diaries,"Sushil Shrestha, Rubeena Thapa, Bishwojit Rimal",Saurav Chaudhary,
-448,2020,fichyo,"Beeshwas Gurung, Kashi Ghale (Indra), Sub. Mantri Jung Gurung, Tikaram Ghale, Sita Devi Gurung, Kalyan Magar, Krishna Gurung, D.B Gurung, Pemba Tshering Sherpa, Birup Ghale, Anjana Gurung, Srijana Gurung & Villagers",Bikash Ghale Gurung,
-449,2020,lappan chhappan,"Saugat Malla, Arpan Thapa, Anoop Bikram Shahi",Mukunda Bhatta,
-450,2020,hero returns,"Sabin Shrestha, Rekha Thapa, Dil Shrestha",Ashish Bhetwal,
-451,2023,jaari,"Dayahang Rai,Miruna Magar,Bijay Baral",Upendra Subba,
-452,2016,bagamati,Rajesh Hamal,Sunny Kerala,Action
-453,2016,fanko,"Saugat Malla, Keki Adhikari, Dayahang Rai, Priyanka Karki",Shubarna Thapa,Suspense
-454,2016,kafal pakyo,"Jiwan Luitel, Barsha Raut, Mukesh Acharya",Sabitri Khatri,Melodrama
-455,2016,pashupati prasad,"Khagendra Lamichhane, Barsha Siwakoti",Dipendra K Khanal,Social Satire
-456,2016,kaifiyat,"Nandita K.C, Nabin Shrestha, CP Poudel, Shankar Shahi Thakuri, Kishan Sunuwar, Sajana Thapa",Dasharat Giri,Melodrama
-457,2016,classic,"Aaryan Sigdel, Namrata Shrestha, Dayahang Rai, Priyanka Karki",Dinesh Raut,Lovestory
-458,2016,prem geet,,,"Love story, Comedy"
-459,2016,the soldier,"Rajendra Chaudhary, Diwash Upreti, Jenisha KC",B.S.Balami,Action
-460,2016,dreams,"Anmol K.C., Samragyee RL Shah",Diwakar Bhattarai,Lovestory
-461,2016,nai navannu la 4,"Priyanka Karki, Paul Shah, Barsha Raut",Bikash Raj Acharya,Family Drama
-462,2016,baato muniko phool 2,,,Social satire
-463,2016,best frenz forever,"Saurav Chaudhary, Manish Neupane Sandip Ghimire, Pinky Sherpa, Sadhana Bhandari, Syaleen Manandhar, Prahik NeupaneInzamam Ali Khan",Utsav Thapaliya,Friendship
-464,2016,dying candle,"Saugat Malla, Arpan Thapa, Srijana Subba",Naresh Kumar,"Drama, Family"
-465,2016,gajalu,"Anmol K.C., Shristi Shrestha, Gaurav Pahari",Hemraj Bc,"Love story, Social satire"
-466,2016,lukamari,"Saugat Malla, Karma Shakya, Rista Basnet, Subarna Karki",ShreeRam Dahal,Suspense
-467,2016,ma ta timrooi hoon,"Jyotsna Yogi, Aakash Shrestha",Shreeram Mahat,Teen love/Family Drama
-468,2016,ekpal,"Jenisha K.c, Ram Maharjan",Raj Shakya,Love story
-471,2016,chapali height 2,"Ayushman Joshi, Paramita Rana, Mariska Pokharel",Dipendra K Khanal,Romantic Thriller
-472,2016,the winner,"Malina Joshi, Manchin Shakya, Mahesh Man Shrestha",Hikmat Bista,Action
-473,2016,chhakka panja,"Priyanka Karki, Deepak Raj Giri,  Jeetu Nepal, Kedar Ghimire, Buddhi Tamang, Shivahari Paudel, Barsha Raut and Namrata Sapkota",Deepa Shree Niraula,Comedy
-474,2016,gaatho,"Najir Hussain, Abhaya Baral, Namrata Shrestha",Suraj Bhusal,Art
-475,2016,jhumkee,"Manoj RC, Malina Joshi, Rishma Gurung, Dayahang Rai,",Apil Bista,Suspense
-476,2016,junga bahadur ko coat,"Bimlesh Adhikari, Anup Baral, Suchitra Acharya",Aashish Bhetwal,Action
-477,2017,bhram,"Karma, Bhintuna Joshi, Khusbu Khadka, Suresh Gamal",Rabindra Shahi,"Love, Thriller"
-478,2017,love sasha,"Karma, Keki Adhikari",Prachanda M Shrestha,Romance
-479,2017,king,"Nikhil Upreti, Anoop Bikram Shahi, Benisha Hamal",Sabir Shrestha,Action
-480,2017,karkhana,"Sushil Shrestha, Barsha Siwakoti, Mausami Malla, Amardeep Sapkota",Amardeep Sapkota,"Romance, Action"
-481,2017,lakeside,"Jiwan Luitel, Neeta Dhungana",Raju Adhikari,"Love, Music"
-482,2017,loot 2,"Saugat Malla, Karma, Dayahang Rai, Reecha Sharma, Bipin Karki, Kameshwor Chaurasiya, Srijana Subba",Nischal Basnet,"Crime, Action, Thriller"
-483,2017,nirbhaya,"Nikhil Upreti, Neeta Dhungana",Madhusudan Bhattarai,Action
-484,2017,lappan chappan,"Dayahang Rai, Saugat Malla, Barsha Siwakoti, Arpan Thapa, Shyam Shrestha",Mukunda Bhatta,"Crime, Action, Comedy"
-485,2017,diary,"Rekha Thapa, Chhulthim Gurung, Sunny Singh",Anil Yonjan,"Love, Action"
-486,2017,radhe,"Nikhil Upreti, Priyanka Karki",Jagadishwor Thapa,Patritoic Drama
-487,2017,ghampani,"Dayahang Rai, Keki Adhikari",Dipendra Lama,Romance
-488,2017,love love love,"Suraj Pandey, Swastima Khadka",Dipendra K. Khanal,Love
-489,2019,jay shree daam,"Amrit Dhungana, Binod Neupane, Pramod Agrahari, Jebicca Karki",Biplop Upreti,Drama
-490,2019,je sukai hos,"Chanda Dahal, Sunil Katuwal, Umesh Gurung","Umesh Gurung, Roshan Shrestha",Drama
-491,2019,chauka dau,"Barsha Raut, Wilson Bikram Rai, Rabindra Jha, Santosh Panta",Purnendu Kumar Jha,Comedy
-492,2019,villain,"Nikhil Upreti, Shilpa Pokhrel, Nisha Adhikari, Kapil Khatri",Devendra Panday,Action
-493,2019,garud puran,"Karma Shakya, Najir Hussain, Prakash Ghimire",Subash Koirala,Comedy
-495,2019,baina,"Ranjita Limbu, Subash Meche, Surbir Pandit, Uday Subba",Dil Prakash Yakso,Romance
-496,2019,anaagat,"Priyanka Karki, Arpan Thapa, Praween Khatiwada",Samten Bhutia,Thriller
-497,2019,100 kada 10,"Amrit Dhungana, Karuna Shrestha, Manoj Gajurel",Ram Sharan Pathak,Comedy Drama
-498,2019,gopi,"Bipin Karki, Barsha Raut, Surakshya Panta, Ankeet Khadka",Dipendra Lama,Drama
-499,2019,ranveer,"Sushil Sitaula, Subeksha Khadka, Supushpa Bhatta, Prashant Tamrakar",Govind Singh Bhandari,Action
-500,2019,summer love,"Ashish Piya, Rewati Chetri, Suraj Singh Thakuri, Namrata Sapkota",Muskan Dhakal,Romance
-501,2019,bulbul,"Swastima Khadka, Mukun Bhusal, Joes Pandey",Binod Paudel,Romance Comedy
-502,2019,jadugar 2,"Mahadev Tripathi,Surendra K.C., Shiva Shankar Rijal, Resham Firiri",Mahadev Tripathi,Comedy
-503,2019,rumalai chha chino,"Sushant Karki, Kishor Khatiwada, Sanchita Luitel, Rashmi Bhatta, Mithila Sharma",Dinesh Singh Thakuri,Action
-504,2019,boyfriend,"Mahima Silwal, Puskar Regmi, Saroj Khanal, Mohan Niraula",Madan Ghimire,Romance
-505,2019,fingerprint,"Aayushma Karki, Deepak Tripathi, Sarita Lamichhane, Ramesh Budhathoki",Nabin Niraula,Drama
-506,2019,captain,"Anmol K.C., Sunil Thapa, Saroj Khanal, Prashant Tamrakar, Wilson Bikram Rai",Diwakar Bhattarai,Sport Drama
-507,2019,the break up,"Aashirman DS Joshi, Shilpa Maskey, Raymon Das Shrestha, Itchya Karki, Saroj Khanal",Hem Raj B.C.,Romance
-508,2019,khaag,"Prabin Khatiwada, Puskar Gurung, Aashant Sharma, Srijana Adhikari",Manoj Pandit,Social Drama
-509,2019,adalat,Sushma Karki,Dinesh Lingden,Drama
-510,2019,the man from kathmandu,"Gulshan Grover, Hameed Sheikh, Anna Sharma, Karma Shakya, Neer Shah, Mithila Sharma, Paramita RL Rana",Pema Dhondup,Action
-511,2019,jani najani,"Manish Shrestha, Sumi Moktan, Nirisha Basnet, Sunny Singh, Roshani K.C.",Basanta Adhikari,Romance
-512,2019,kagaz patra,"Najir Hussain, Shilpa Maskey, Laxmi Bardewa, Sarita Giri, Bholaraj Sapkota",Apil Bista,Comedy Drama
-513,2019,saili,"Gaurav Pahari, Menuka Pradhan, Dayahang Rai, Maotse Gurung, Prakash Ghimire, Aruna Karki",Ram Babu Gurung,Romance
-514,2019,love station,"Pradeep Khadka, Jassita Gurung, Ramesh Budhathoki, Binod Paudel, Saroj Khanal",Ujwal Ghimire,Romance
-515,2019,premnath,"Gajit Bista, Surbir Pandit, Ganesh Belbase, Kamal Gaule",Ganesh Belbase,Action
-516,2019,jiwan kanda ki phool,"Sarika Ghimire, Rojita Buddhacharya",Binod Bista,biographical film
-517,2019,yatra a musical vlog,"Salin Man Bania,Salon Basnet,Jahanwi Basnet,Prakash Adhikari, Dhiren Shakya",Samrat Shakya,Musical
-518,2019,a mero hajur 3,"Anmol K.C., Suhana Thapa, Arpan Thapa",Jharana Thapa,Romance
-519,2019,jatrai jatra,"Bipin Karki, Dayahang Rai, Rabindra Singh Baniya, Nischal Basnet",Pradeep Bhattarai,Comedy
-520,2019,daal bhat tarkari,"Hari Bansha Acharya, Madan Krishna Shrestha, Wilson Bikram Rai, Niruta Singh",Sudan K.C.,Comedy
+,Title,Year,Genre,Director,Cast,Movie_id,cast_no
+0,aama,1964,"action, drama",hira singh khatri                 ,"'shiva shankar', 'bhubhan chand', 'bhim bahadur', 'basundhara bhusal'",/title/tt1999819/,4
+1,maitighar,1966,"drama, musical",b.s. thapa                 ,"'mala sinha', 'chidambar prasad lohani', 'tika bhushan dahal', 'sunil dutt'",/title/tt7051562/,4
+2,hijo aaja bholi,1968,drama,hira singh khatri                 ,"'basundhara bhusal', 'bhubhan chand', 'shreedhar khanal', 'shanti maskey'",/title/tt8378014/,4
+3,parivartan,1971,drama,hira singh khatri                 ,"'yagya nath ghimire', 'rita thapa', 'neer bikram shah', 'yadav kharel'",/title/tt8379858/,4
+4,man ko bandh,1973,drama,prakash thapa                 ,"'salyan k.c.', 'sushma shahi', 'neer bikram shah', 'basundhara bhusal'",/title/tt1999922/,4
+5,kumari,1977,drama,prem bahadur basnet                 ,"'salyan k.c.', 'chaitya devi', 'gautam ratna tuladhar', 'keshav manandhar'",/title/tt1999911/,4
+6,paral ko aago,1978,"comedy, drama, mystery",pratap subha                 ,"'basundhara bhusal', 'susmita dhakal', 'tanka sharma'",/title/tt0888045/,3
+7,sindoor,1980,drama,prakash thapa                 ,"'menakshi anand', 'biswa basnet', 'basundhara bhusal', 'gopal raj mainali'",/title/tt8212526/,4
+8,raiders of the lost ark,1981,"action, adventure",steven spielberg                 ,"'harrison ford', 'karen allen', 'paul freeman', 'john rhys-davies'",/title/tt0082971/,4
+9,bansuri,1981,"drama, romance",tulsi ghimire                 ,"'rakesh pandey', 'banni pradhan', 'rajani sharma', 'rajni sharma'",/title/tt8524684/,4
+10,jeevan rekha,1982,drama,prakash thapa                 ,"'shiv shrestha', 'menakshi anand', 'arjun jung shahi', 'shanti maskey'",/title/tt8500232/,4
+11,samjhana,1983,drama,shambhu pradhan                 ,"'bhuwan k.c.', 'tripti nadakar', 'muralidhar'",/title/tt7025304/,3
+13,basudev,1984,drama,neer bikram shah                 ,"'harihar sharma', 'neer bikram shah', 'sakuntala sharma', 'sharmila malla'",/title/tt6565710/,4
+14,kusume rumal,1985,"drama, musical, romance",tulsi ghimire                 ,"'bhuwan k.c.', 'tripti nadakar', 'udit narayan', 'neer bikram shah'",/title/tt2007972/,4
+15,saino,1987,drama,ugyen chhopel                 ,"'bhuwan k.c.', 'tripti nadakar', 'danny denzongpa', 'muralidhar'",/title/tt7054392/,4
+16,anyay,1989,drama,tulsi ghimire                 ,"'prakash adhikari', 'biswa basnet', 'mira madhuri', 'majnalkar'",/title/tt8227934/,4
+17,santan,1989,drama,prakash thapa                 ,"'arjun jung shahi', 'bhuwan k.c.', 'gauri malla', 'karishma manandhar'",/title/tt8349140/,4
+18,cheli beti,1989,drama,yadav kharel                 ,"'ramchandra adhikari', 'basundhara bhusal', 'gauri malla', 'sharmila malla'",/title/tt0888008/,4
+19,lahure,1989,"action, drama, war",tulsi ghimire                 ,"'shrawan ghimire', 'tulsi ghimire', 'tripti nadakar'",/title/tt6577862/,3
+20,behuli,1989,"drama, romance",shambhu pradhan                 ,"'prakash adhikari', 'sunita khadka', 'subhadra adhikari', 'jitendra mahat'",/title/tt8505114/,4
+21,maya preeti,1989,drama,b.s. thapa                 ,"'subhadra adhikari', 'gopal bhutani', 'rabindra khadka', 'krishna malla'",/title/tt8934078/,4
+22,bhagya rekha,1989,"drama, romance",deepak raimajhi                 ,"'rabindra khadka', 'mausami malla', 'tika pahari', 'siddhicharan shrestha'",/title/tt8517778/,4
+23,pachhis basanta,1989,drama,neer bikram shah                 ,"'basundhara bhusal', 'bhuwan k.c.', 'ravi shah', 'harihar sharma'",/title/tt8467972/,4
+24,lobhi papi,1990,comedy,yadav kharel                 ,"'hari bansha acharya', 'laxmi giri', 'bhuwan k.c.', 'kristi mainali'",/title/tt8282940/,4
+25,bijay parajay,1990,"action, comedy, drama",rajendra salav                 ,"'bhuwan k.c.', 'saroj khanal', 'krishna malla', 'sharmila malla'",/title/tt23685218/,4
+26,kanyadaan,1991,drama,prakash thapa                 ,"'bhuwan k.c.', 'gauri malla', 'subhadra adhikari', 'basundhara bhusal'",/title/tt6722122/,4
+27,yug dekhi yug samma,1991,drama,deepak raimajhi                 ,"'rajesh hamal', 'gopal raj mainali', 'kristi mainali', 'tika pahari'",/title/tt0316930/,4
+28,chino,1991,"drama, romance",tulsi ghimire                 ,"'ramchandra adhikari', 'shrawan ghimire', 'tulsi ghimire', 'bhuwan k.c.'",/title/tt0315394/,4
+29,aadhi beri,1991,romance,yadav kharel                 ,"'binod kharel', 'gauri malla', 'ramchandra adhikari', 'sushila rayamajhi'",/title/tt8502994/,4
+30,dakshina,1993,"drama, romance",tulsi ghimire                 ,"'tulsi ghimire', 'bhuwan k.c.', 'niruta singh', 'bharati ghimire'",/title/tt0305406/,4
+31,deuta,1993,"action, drama",tulsi ghimire                 ,"'srijana basnet', 'shrawan ghimire', 'tulsi ghimire', 'rajesh hamal'",/title/tt7228790/,4
+32,dui thopa aansu,1993,drama,tulsi ghimire                 ,"'ramchandra adhikari', 'dayaram dahal', 'shrawan ghimire', 'bhuwan k.c.'",/title/tt7007456/,4
+33,sapana,1993,drama,shambhu pradhan                 ,"'bhuwan k.c.', 'karishma manandhar', 'mausami malla', 'neer bikram shah'",/title/tt8505204/,4
+34,sauta,1993,drama,narayan puri                 ,"'bhuwan k.c.', 'karishma manandhar', 'ramesh budathoki', 'hemanta budhathoki'",/title/tt0301809/,4
+35,adhikar,1993,drama,prakash thapa                 ,"'rajesh hamal', 'kristi mainali', 'mithila sharma', 'basundhara bhusal'",/title/tt8500898/,4
+37,mohani,1994,drama,ramesh budathoki                 ,"'bina budhathoki', 'hemanta budhathoki', 'saroj khanal', 'laya sangraula'",/title/tt8847252/,4
+38,swarga,1994,drama,shambhu pradhan                 ,"'subhadra adhikari', 'gauri malla', 'neer bikram shah', 'shiv shrestha'",/title/tt8494934/,4
+39,janma janma,1994,romance,"s:sital nepal, rakesh manandhar                 ","'kumud pant', 'dhiren shakya', 'shweta gautam', 'binod manandhar'",/title/tt5093756/,4
+40,prithvi,1994,drama,prakash rayamajhi                 ,"'rajesh hamal', 'mausami malla', 'muralidhar', 'hemanta budhathoki'",/title/tt6774818/,4
+41,shree swosthani,1994,drama,yadav kharel                 ,"'pooja chand', 'rakesh khadka', 'rudra raj pandey', 'jal shah'",/title/tt8503108/,4
+43,mahamaya,1995,drama,prakash thapa                 ,"'basundhara bhusal', 'bhubhan chand', 'saroj khanal', 'gauri malla'",/title/tt8460814/,4
+44,prem pinda,1995,"history, romance",yadav kharel                 ,"'saroj khanal', 'sunny rauniyar', 'neer bikram shah', 'melina manandhar'",/title/tt0277967/,4
+45,jeevan sangharsha,1995,"action, drama",yubraj lama                 ,"'rajesh hamal', 'kumud pant', 'yubraj lama', 'mithila sharma'",/title/tt17493572/,4
+47,saraswati,1995,drama,shambhu pradhan                 ,"'gauri malla', 'shiv shrestha', 'sunil thapa', 'nutan pradhan'",/title/tt8283040/,4
+48,janma bhoomi,1995,drama,mohan niroula                 ,"'kumud pant', 'shiv shrestha', 'mohan niroula', 'saroj khanal'",/title/tt0305692/,4
+49,rahar,1996,romance,tulsi ghimire                 ,"'keshab bhattarai', 'bharati ghimire', 'tulsi ghimire', 'ramesh k.c.'",/title/tt8226448/,4
+50,gothalo,1996,"drama, romance",ujwal ghimire                 ,"'kumud pant', 'sharmila malla', 'krishna malla', 'shree krishna shrestha'",/title/tt5093808/,4
+51,seemana,1996,"action, drama",prakash sayami                 ,"'rajesh hamal', 'dhiren shakya', 'melina manandhar', 'hemanta budhathoki'",/title/tt6759286/,4
+52,bhariya,1996,"action, drama",dayaram dahal                 ,"'mukunda kishor bhattarai', 'dayaram dahal', 'rajesh hamal', 'monina lamar'",/title/tt8391676/,4
+53,chunauti,1996,action,naresh kumar poudel                 ,"'kumud pant', 'bipana thapa', 'mohan niroula', 'saroj khanal'",/title/tt5093788/,4
+55,simarekha,1997,"drama, history",kishor rana                 ,"'laxmi giri', 'sudhanshu joshi', 'rajani rana', 'rajpal thapa'",/title/tt8364656/,4
+56,balidaan,1997,drama,tulsi ghimire                 ,"'hari bansha acharya', 'anjana shrestha', 'keshab bhattarai', 'b.s. rana'",/title/tt6566022/,4
+57,karodpati,1997,"drama, romance",kishor rana                 ,"'bhuwan k.c.', 'sushmita k.c.', 'santosh pant', 'neer bikram shah'",/title/tt8545214/,4
+58,shankar,1997,drama,narayan puri                 ,"'rajesh hamal', 'bipana thapa', 'jal shah', 'hemanta budhathoki'",/title/tt0301835/,4
+59,naso,1997,drama,yadav kharel                 ,"'shiv shrestha', 'karishma manandhar', 'yubraj lama', 'shanti maskey'",/title/tt8503066/,4
+60,saathi,1998,"drama, romance",laxmi nath sharma                 ,"'basundhara bhusal', 'rabi giri', 'rajesh hamal', 'gauri malla'",/title/tt8197562/,4
+61,allare,1998,drama,ashok sharma                 ,"'ramchandra adhikari', 'subhadra adhikari', 'rajesh hamal', 'karishma manandhar'",/title/tt1245751/,4
+62,aadi kabi bhanubhakta,1999,"biography, drama",yadav kharel                 ,"'kamal mani dixit', 'gopal nepal', 'dilip rayamajhi', 'bikki shah'",/title/tt0277546/,4
+63,thuldai,1999,"action, comedy",dayaram dahal                 ,"'dayaram dahal', 'laxmi giri', 'jal shah', 'shiv shrestha'",/title/tt0299180/,4
+64,nepali babu,1999,drama,ugyen chhopel                 ,"'bhuwan k.c.', 'sushmita k.c.', 'jal shah', 'sunil thapa'",/title/tt8259022/,4
+65,afanta,1999,drama,shiva regmi                 ,"'shree krishna shrestha', 'sushila rayamajhi', 'niruta singh', 'sunil thapa'",/title/tt0300908/,4
+66,nata ragat ko,1999,drama,prakash thapa                 ,"'niruta singh', 'shree krishna shrestha', 'ganesh upreti', 'jal shah'",/title/tt0301653/,4
+67,yo maya ko sagar,2000,drama,ashok sharma                 ,"'ramesh upreti', 'jal shah', 'rajesh hamal', 'karishma manandhar'",/title/tt0314926/,4
+68,ta ta sarai bigris ni badri,2000,"comedy, drama",dayaram dahal                 ,"'hari bansha acharya', 'sushmita k.c.', 'bipana thapa', 'bhuwan k.c.'",/title/tt7984848/,4
+69,basanti,2000,"history, musical, romance",neer bikram shah                 ,"'karishma manandhar', 'rajesh hamal', 'gauri malla', 'neeraj thapa'",/title/tt0303719/,4
+70,mukundo,2000,drama,tsering rhitar sherpa                 ,"'gauri malla', 'mithila sharma', 'ratan subedi', 'nirmal pyakurel'",/title/tt0268446/,4
+71,jindagani,2000,drama,ujwal ghimire                 ,"'pooja chand', 'rajesh hamal', 'karishma manandhar', 'santosh pant'",/title/tt8886898/,4
+72,aago,2000,drama,narayan puri                 ,"'sushil chhetri', 'bipana thapa', 'saranga shrestha', 'niruta singh'",/title/tt0342015/,4
+73,sukumbasi,2000,drama,sagar pandey                 ,"'bina budhathoki', 'rajesh hamal', 'deepa shree niraula', 'sunil dutt pandey'",/title/tt13445058/,4
+74,dhukdhuki,2000,romance,dayaram dahal                 ,"'rajesh hamal', 'dinesh d.c.', 'neer bikram shah', 'karishma manandhar'",/title/tt0384914/,4
+75,ber pipal,2001,"drama, horror, mystery",laxmi nath sharma                 ,"'pooja chand', 'shree krishna shrestha', 'moona karki'",/title/tt0396498/,3
+76,darpan chhaya,2001,"drama, musical, romance",tulsi ghimire                 ,"'dilip rayamajhi', 'niruta singh', 'uttam pradhan', 'tulsi ghimire'",/title/tt1161732/,4
+77,maya baiguni,2001,drama,subash gajurel                 ,"'basundhara bhusal', 'rajesh hamal', 'shrisha karki', 'dhiren shakya'",/title/tt0325807/,4
+78,aafno manchhe,2001,drama,shiva regmi                 ,"'shree krishna shrestha', 'dilip rayamajhi', 'sushila rayamajhi', 'mithila sharma'",/title/tt0324966/,4
+79,buhari,2001,drama,kishore dhakal                 ,"'ramchandra adhikari', 'kiran k.c.', 'shree krishna shrestha', 'sushila rayamajhi'",/title/tt0303807/,4
+80,super star,2001,"action, musical, romance",anish koirala                 ,"'bhuwan k.c.', 'sushmita k.c.', 'dilip rayamajhi'",/title/tt0301907/,3
+85,aashirbad,2001,drama,shambhu pradhan                 ,"'rajesh hamal', 'sanjeeta', 'jal shah'",/title/tt0303602/,3
+86,siudo ko sindoor,2001,drama,manju kumar shrestha                 ,"'rajesh hamal', 'niruta singh', 'jharana bajracharya', 'neer bikram shah'",/title/tt0392779/,4
+88,gaunthali,2001,drama,basanta shrestha                 ,"'pariksha adhikari', 'diksha dula', 'sadiksha dulal', 'sabita gurung'",/title/tt0304067/,4
+90,jeevan saathi,2001,drama,deepak shrestha                 ,"'nabeen shrestha', 'jharana thapa', 'neer bikram shah', 'deepak shrestha'",/title/tt0301471/,4
+91,daag,2001,drama,akash adhikari                 ,"'anupama prasai koirala', 'rajani rana', 'jal shah', 'dinesh sharma'",/title/tt0325215/,4
+93,afno ghar afno manche,2001,drama,narayan puri                 ,"'shree krishna shrestha', 'melina manandhar', 'tika pahari', 'dilip rayamajhi'",/title/tt0303610/,4
+97,panchhi,2001,drama,akash adhikari                 ,"'akash adhikari', 'pooja chand', 'sharmila malla', 'karishma manandhar'",/title/tt2775846/,4
+100,gaajal,2001,"musical, romance",k.p. pathak                 ,"'bipana thapa', 'ramesh upreti', 'sushil chhetri', 'krishna malla'",/title/tt0301326/,4
+102,a mero hajur,2002,drama,shiva regmi                 ,"'shree krishna shrestha', 'jharana thapa', 'ganesh upreti', 'sushila rayamajhi'",/title/tt8759752/,4
+103,lahana,2002,"drama, romance",tulsi ghimire                 ,"'niruta singh', 'dilip rayamajhi', 'uttam pradhan', 'mithila sharma'",/title/tt8227810/,4
+104,pijanda,2002,drama,deshbhakta khanal                 ,"'nikhil upreti', 'niruta singh', 'sushila rayamajhi'",/title/tt0325976/,3
+106,mamaghar,2002,"action, drama",narayan puri                 ,"'prem pandey', 'gauri malla', 'melina manandhar', 'dilip rayamajhi'",/title/tt0392407/,4
+110,muskan,2002,drama,yuv raj lama                 ,"'sushil chhetri', 'dinesh d.c.', 'dilip rayamajhi', 'sushila rayamajhi'",/title/tt0316288/,4
+126,mero hajur,2002,drama,"s:narayan puri, anupama koirala prasai                 ","'jharana bajracharya', 'anupama prasai koirala'",/title/tt0316240/,2
+130,muna madan,2003,drama,gyanendra bahadur deuja                 ,"'deepak tripathi', 'usha paudel', 'mithila sharma', 'subhadra adhikari'",/title/tt0304435/,4
+131,dui kinara,2003,"drama, romance",tulsi ghimire                 ,"'tulsi ghimire', 'jeetu nepal', 'niruta singh', 'suman singh'",/title/tt8165420/,4
+132,pahuna,2003,drama,shiva regmi                 ,"'shree krishna shrestha', 'jharana thapa', 'dilip rayamajhi', 'karishma manandhar'",/title/tt8374716/,4
+133,jetho kancha,2003,"comedy, drama",dayaram dahal                 ,"'rajesh hamal', 'sushila raimajhi', 'jal shah', 'mukund shrestha'",/title/tt0382764/,4
+134,dukha,2003,drama,deepak shrestha                 ,"'hemanta budhathoki', 'rajesh hamal', 'dilip rayamajhi', 'niruta singh'",/title/tt6620274/,4
+135,je bho ramrai bho,2003,"action, comedy",hari bansha acharya                 ,"'hari bansha acharya', 'laxmi giri', 'rajesh hamal', 'jal shah'",/title/tt0452803/,4
+136,hami tin bhai,2004,"action, comedy",shiva regmi                 ,"'rajesh hamal', 'shree krishna shrestha', 'nikhil upreti', 'jharana thapa'",/title/tt7471552/,4
+137,sukha dukha,2004,drama,shiva regmi                 ,"'keshab bhattarai', 'shree krishna shrestha', 'mithila sharma', 'madan krishna shrestha'",/title/tt8254094/,4
+138,pareni maya jalaima,2004,romance,"s:ram sharan ghimire, prithvi rana                 ","'dilip rayamajhi', 'uttam pradhan', 'jharana bajracharya', 'mithila sharma'",/title/tt0427636/,4
+139,muglan,2005,drama,shiva regmi                 ,"'dilip rayamajhi', 'ramit dhungana', 'sushil chhetri', 'jharana thapa'",/title/tt8374226/,4
+140,heavenly place manang,2005,adventure,jaswant dev shrestha                 ,"'binod gurung', 'jaswant dev shrestha'",/title/tt1679201/,2
+141,basain,2005,drama,subash gajurel                 ,"'mukunda bastakoti', 'dinesh d.c.', 'ranju lamichhane', 'uttam pradhan'",/title/tt0485092/,4
+142,krodh,2006,drama,akash adhikari                 ,"'akash adhikari', 'shanti maskey', 'usha paudel', 'jal shah'",/title/tt0888035/,4
+143,duniya,2006,drama,shiva regmi                 ,"'laxmi giri', 'bhuwan k.c.', 'tripti nadakar', 'mithila sharma'",/title/tt8374342/,4
+144,alpaviram,2006,drama,narayan puri                 ,"'sunil pokharel', 'vijay lama', 'rama thapalia', 'samyam puri'",/title/tt0888000/,4
+145,manish,2006,drama,shiva regmi                 ,"'bhuwan k.c.', 'nikhil upreti', 'dilip rayamajhi', 'ramit dhungana'",/title/tt27075904/,4
+146,o estado do mundo,2007,"drama, history","s:ayisha abraham, chantal akerman, wang bing, pedro costa, vicente ferraz, apichatpong weerasethakul                 ","'shyam bahadur', 'jurandyr ferreira', 'sakda kaewbuadee', 'wake li'",/title/tt1058526/,4
+147,dewar babu,2007,"drama, romance",gyanendra bahadur deuja                 ,"'biraj bhatta', 'ramit dhungana', 'rekha thapa', 'tripti nadakar'",/title/tt7341216/,4
+148,kismat,2007,drama,ujwal ghimire                 ,"'biraj bhatta', 'jeetu nepal', 'neer bikram shah', 'harihar sharma'",/title/tt8782260/,4
+150,himalayan kingdom of nepal,2007,"action, comedy, drama",dayaram dahal                 ,"'rajesh hamal', 'dhiren shakya', 'sudhanshu joshi', 'deepak raj giri'",/title/tt10726106/,4
+151,kagbeni,2008,"drama, horror",bhusan dahal                 ,"'saugat malla', 'deeya maskey', 'nima rumba', 'asha magrati'",/title/tt1729652/,4
+152,himmat,2008,drama,deepak shrestha                 ,"'biraj bhatta', 'hemanta budhathoki', 'ramit dhungana', 'dinesh sharma'",/title/tt8359454/,4
+153,sano sansar,2008,"comedy, romance",alok nembang                 ,"'karma shakya', 'namrata shrestha', 'neer bikram shah', 'jiwan luitel'",/title/tt2007994/,4
+154,himalayaeui sonyowa,2008,drama,soo-il jeon                 ,"'choi min-sik', 'hamo gurung', 'namgya gurung', 'tsering kipale gurung'",/title/tt1179079/,4
+155,kaha bhetiyela,2008,drama,shiva regmi                 ,"'rabi giri', 'shweta khadka', 'shree krishna shrestha', 'sajwal pageni'",/title/tt8374202/,4
+156,ma timi bina marihalchu,2008,drama,dayaram dahal                 ,"'bhuwan k.c.', 'sushmita k.c.', 'sushila rayamajhi', 'laya sangraula'",/title/tt8822102/,4
+158,maina,2008,biography,k.p. pathak                 ,"'anita k.c.', 'govinda prabhat', 'radha shrestha', 'kumar maharjan'",/title/tt6710198/,4
+159,kal-khanda,2008,history,"s:shankhar acharya, lawa pyakurel, sudip sharma                 ","'shankhar acharya', 'mukunda kishor bhattarai', 'nisha kc', 'sisham kc'",/title/tt15399518/,4
+160,janayuddha,2008,drama,bimal poudel                 ,"'akash adhikari', 'ramchandra adhikari', 'sushil chhetri', 'nandita k.c.'",/title/tt8774178/,4
+161,mr. mangale,2008,drama,kishor rana                 ,"'mithila sharma', 'biren shrestha', 'rekha thapa'",/title/tt8822142/,3
+162,mero euta saathi cha,2009,romance,sudarshan thapa                 ,"'keshab bhattarai', 'sushma karki', 'jiwan luitel', 'zenisha moktan'",/title/tt2094059/,4
+163,mission paisa,2009,"animation, action, crime",simosh sunuwar                 ,"'nikhil upreti', 'suraj rd', 'amir gautam', 'nisha adhikari'",/title/tt1977865/,4
+164,patachara,2009,drama,ram krishna khadgi                 ,"'laxmi giri', 'melina manandhar', 'karma shakya'",/title/tt8470756/,3
+165,silsila,2009,drama,rajendra uprety                 ,"'biraj bhatta', 'soniya k.c.', 'r.p. panta', 'sushil pokharel'",/title/tt7229916/,4
+166,mustang secrets beyond the himalayas,2009,adventure,jaswant dev shrestha                 ,"'buddi ratna sherchan', 'jaswant dev shrestha'",/title/tt1543542/,2
+167,the yug dekhi yug samma,2009,drama,dipendra k. khanal                 ,"'rajesh hamal', 'nandita k.c.', 'rajaram poudel', 'anu shah'",/title/tt10371334/,4
+168,gorkha rachhayak,2009,action,giri raj lamichhane                 ,"'narendra singh dhami', 'rekha thapa'",/title/tt8979822/,2
+169,maya ta maya ho,2009,romance,tulsi ghimire                 ,"'narendra singh dhami', 'tulsi ghimire', 'laxmi giri', 'sanchita luitel'",/title/tt8228040/,4
+170,here,2009,drama,tzu nyen ho                 ,"'jason chang', 'john low', 'jo tan', 'hemang yadav'",/title/tt1426364/,4
+171,mausam,2009,drama,shyam bhattarai                 ,"'rajesh hamal', 'sharmila malla', 'ranjana sharma', 'aaryan sigdel'",/title/tt8809286/,4
+172,the martial art,2009,fantasy,janak raj khakurel                 ,"'puja gautam', 'db lama', 'raju mahat', 'anil rai'",/title/tt15465390/,4
+173,kartavya,2010,family,narayan puri                 ,"'rajesh hamal', 'samyam puri', 'dilip rayamajhi', 'niruta singh'",/title/tt13011806/,4
+174,batomuni ko phool,2010,"drama, romance",suraj subba                 ,"'yash kumar', 'rekha thapa', 'baboo bogati', 'hemanta budhathoki'",/title/tt6704098/,4
+175,kasle choryo mero man,2010,"drama, romance",shabir shrestha                 ,"'aaryan sigdel', 'rekha thapa', 'kishor khatiwada', 'neer bikram shah'",/title/tt7210246/,4
+176,chhodi gaye paap lagla,2010,romance,ujwal ghimire                 ,"'sanchita luitel', 'raj ballav koirala', 'biraj bhatta', 'richa ghimire'",/title/tt8682226/,4
+177,kusume rumal 2,2010,"drama, romance",nirak poudel                 ,"'shyamal prasad', 'shyam aryal', 'niraj baral', 'rubi bhattarai'",/title/tt2007973/,4
+178,first love,2010,romance,simosh sunuwar                 ,"'nisha adhikari', 'anup poudel', 'karma shakya', 'reecha sharma'",/title/tt1987567/,4
+179,kohi mero,2010,romance,alok nembang                 ,"'jharana bajracharya', 'radha lamsal', 'sanchita luitel', 'tripti nadakar'",/title/tt2102353/,4
+180,dasdhunga,2010,drama,"s:manoj pandit, haridev oli                 ","'anup baral', 'dayahang rai', 'saugat malla', 'sanchita luitel'",/title/tt6609996/,4
+181,nai nabhannu la,2010,romance,bikash raj acharya                 ,"'richa singh thakuri', 'jiwan luitel', 'suman singh', 'mithila sharma'",/title/tt8677428/,4
+182,hifajat,2010,drama,gyanendra bahadur deuja                 ,"'rekha thapa', 'aaryan sigdel', 'neer bikram shah', 'aayush rijal'",/title/tt8728132/,4
+184,nishana,2010,comedy,suresh darpan pokharel                 ,"'jaya kishan basnet', 'rajesh hamal', 'nandita k.c.', 'dilip rayamajhi'",/title/tt18339142/,4
+185,kaslai diu yo jovan,2010,comedy,suresh darpan pokharel                 ,"'melina manandhar', 'dilip rayamajhi', 'jharana thapa', 'nikhil upreti'",/title/tt18339224/,4
+186,hasi deu ek phera,2010,"comedy, drama",shiva regmi                 ,"'hari bansha acharya', 'madan krishna shrestha', 'raj ballav koirala', 'shweta khadka'",/title/tt8022710/,4
+187,andaj,2011,romance,ujwal ghimire                 ,"'rekha thapa', 'jiwan luitel', 'sabin shrestha', 'shishir s.j.b. rana'",/title/tt8290858/,4
+188,"katmandú, un espejo en el cielo",2011,"drama, romance",icíar bollaín                 ,"'verónica echegui', 'sumyata bhattarai', 'norbu tsering gurung', 'kalsang tamang'",/title/tt1839688/,4
+189,pal,2011,drama,ramesh budathoki                 ,"'nisha adhikari', 'anup baral', 'basundhara bhusal', 'ramesh budathoki'",/title/tt8811616/,4
+190,batch no.16,2011,action,pitamber pandey                 ,"'anup baral', 'rubi bhattarai', 'aakash kahrel', 'sushma karki'",/title/tt2098630/,4
+191,acharya,2011,"biography, drama, music",prashant rasaily                 ,"'satya raj acharya', 'aruna karki', 'bipin karki', 'sunil pokhrel'",/title/tt2055577/,4
+192,masaan,2011,drama,neer bikram shah                 ,"'keki adhikari', 'raj ballav koirala', 'neeta dhungana', 'dinesh d.c.'",/title/tt2166508/,4
+193,k yo maya ho,2011,"drama, romance",sudarshan thapa                 ,"'keshab bhattarai', 'arjun dahal', 'sabita gurung', 'kiran k.c.'",/title/tt8734910/,4
+194,kathmandu,2011,family,akash adhikari                 ,"'akash adhikari', 'ben-nabin adhikari', 'prapti ghimire', 'resh marhatta'",/title/tt2147361/,4
+195,mero love story,2011,romance,sudarshan thapa                 ,"'aaryan sigdel', 'reecha sharma', 'binaya shrestha', 'keshab bhattarai'",/title/tt2532814/,4
+196,birami sahar (sick city),2011,drama,murray kerr                 ,"'arpan thapa', 'sara lama', 'manu thapa'",/title/tt1884254/,3
+197,challenge,2011,action,shyam bhattarai                 ,"'ben ayers', 'rose chadwick', 'resh marhatta', 'b.s. rana'",/title/tt1825708/,4
+198,ek din ek raat,2011,horror,dev kumar shrestha                 ,"'anup baral', 'deeya maskey', 'menuka pradhan', 'karma shakya'",/title/tt5192776/,4
+199,swor-the melody of dreams,2011,musical,prasanna poudyal                 ,"'raj ballav koirala', 'keki adhikari', 'reema bishwokarma', 'sraj garach'",/title/tt1867612/,4
+200,facebook,2012,drama,suraj subba                 ,"'rajesh hamal', 'wilson bikram rai', 'jharana thapa', 'subash thapa'",/title/tt8761830/,4
+201,k ma timro sathi banna sakchhu,2012,romance,shabir shrestha                 ,"'kishor bhandari', 'dinesh d.c.', 'dipti giri', 'gobind rai'",/title/tt8446798/,4
+202,loot,2012,"crime, drama, thriller","s:nischal basnet, haridev oli                 ","'saugat malla', 'karma shakya', 'dayahang rai', 'prateek raj neupane'",/title/tt2179133/,4
+203,सुनगावा,2012,"drama, romance",subarna thapa                 ,"'deeya maskey', 'nisha adhikari', 'saugat malla', 'basundhara bhusal'",/title/tt2408026/,4
+204,highway,2012,drama,deepak rauniyar                 ,"'dayahang rai', 'asha magrati', 'shristi ghimire', 'karma shakya'",/title/tt2210657/,4
+205,visa girl,2012,drama,prachanda man shrestha                 ,"'reema bishwokarma', 'reecha sharma', 'vinay shrestha', 'raymon das shrestha'",/title/tt2438106/,4
+206,shiris ko phool,2012,drama,toshiaki itoh                 ,"'ganesh man lama', 'jagat rajthala', 'saujanya subba'",/title/tt8180488/,3
+207,saayad,2012,drama,suraj subba                 ,"'ramesh adhikari', 'kabita ale', 'anita dahal', 'ritika lama'",/title/tt6500014/,4
+208,dhanda,2012,drama,sudarshan thapa                 ,"'arpan thapa', 'samuna k.c', 'dhurba koirala', 'kamala regmi'",/title/tt8487960/,4
+209,3 lovers,2012,drama,suresh darpan pokharel                 ,"'niraj baral', 'priyanka karki', 'pooja sharma', 'devu shrestha'",/title/tt18339180/,4
+210,banphool,2012,drama,nabaraj budhathoki                 ,"'madan baral', 'manju devkota', 'sunil pokharel', 'mahesh shrestha'",/title/tt14273050/,4
+211,maya's bar,2012,drama,dinesh d.c.                 ,"'nisha adhikari', 'gajit bista', 'rajesh hamal', 'karishma manandhar'",/title/tt8943108/,4
+212,mirga trishna,2012,drama,tulsi ghimire                 ,"'biraj bhatta', 'karma shakya', 'hemanta budhathoki', 'nandita k.c.'",/title/tt6607392/,4
+213,bhul bhaye maaf gara,2012,drama,suresh darpan pokharel                 ,"'melina manandhar', 'suraj rd', 'ganesh upreti', 'nikhil upreti'",/title/tt19368768/,4
+214,so simple,2012,drama,shiva regmi                 ,"'raj ballav koirala', 'sunil pokharel', 'bhawana regmi', 'ashok sharma'",/title/tt8374600/,4
+215,apabad,2012,"comedy, drama",subash koirala                 ,"'raj ballav koirala', 'nisha adhikari', 'bijaya giri', 'rabi giri'",/title/tt2353801/,4
+216,kathaa,2012,drama,prashant rasaily                 ,"'saugat malla', 'timothy rai', 'usha rajak'",/title/tt27844637/,3
+217,love u man,2012,drama,bb phuyal                 ,"'raz aryan', 'sures chaudhary', 'pranisha silwal'",/title/tt8821328/,3
+218,nizamati: under fire,2012,history,"s:ramhari koirala, manoj pandi","'tors:\nramhari koirala', 'manoj pandit'",/title/tt15399540/,2
+219,suruwaat: euta naya jiwan,2012,drama,santosh ramdam budha khaling                 ,"'bhuwan ranpal', 'revica shankar', 'bhanu tiwari'",/title/tt3208986/,3
+220,dui duna pannch,2012,comedy,jai kishan basnet                 ,"'jeshika khadka', 'basnet jaya kishan', 'karan shrestha'",/title/tt4019648/,3
+221,miss u,2012,drama,suresh darpan pokharel                 ,"'namrata shrestha', 'dilip rayamajhi', 'barun rana', 'suresh darpan pokharel'",/title/tt8658602/,4
+222,i am sorry,2012,romance,"s:dinesh raut, dinesh raut                 ","'aaryan sigdel', 'keki adhikari', 'shyamal prasad', 'shyam aryal'",/title/tt2368945/,4
+223,jhola,2013,"drama, history",yadav kumar bhattarai                 ,"'garima panta', 'sujal nepal', 'laxmi giri', 'deshbhakta khanal'",/title/tt3700482/,4
+224,chhadke,2013,"action, thriller",nigam shrestha                 ,"'nikun shrestha', 'bipin karki', 'kameshwor chaurasiya', 'saugat malla'",/title/tt4123886/,4
+225,hostel,2013,drama,hem raj bc                 ,"'rista basnet', 'salon basnet', 'shishir bhandari', 'anmol k.c.'",/title/tt6501192/,4
+226,uma,2013,drama,tsering rhitar sherpa                 ,"'reecha sharma', 'saugat malla', 'mithila sharma', 'prakash ghimire'",/title/tt2792440/,4
+227,saanghuro,2013,drama,joes pandey                 ,"'shushank mainali', 'deeya maskey', 'aruna karki', 'dayahang rai'",/title/tt3768406/,4
+228,karkash,2013,"drama, musical",asif shah                 ,"'suraj singh thakuri', 'satya raj acharya', 'dayahang rai', 'raymon das shrestha'",/title/tt8355664/,4
+229,manjari,2013,"drama, romance",ganesh dev panday                 ,"'abaha aryal', 'sarita bhandari', 'tuk bahadur chettri', 'narendra singh dhami'",/title/tt6710486/,4
+230,kollywood,2013,drama,navaraj acharya                 ,"'priyanka karki', 'aaryan sigdel'",/title/tt13612306/,2
+231,notebook,2013,romance,yogesh ghimire                 ,"'jiwan luitel', 'neeta dhungana', 'sunil thapa', 'sushma karki'",/title/tt8768852/,4
+232,antaral,2013,drama,dipa basnet                 ,"'ashishma nakarmi', 'kamal mani nepal', 'namrata sapkota', 'amitesh shah'",/title/tt6724886/,4
+233,badhshala,2013,drama,manoj pandit                 ,"'dayahang rai', 'saugat malla', 'khagendra lamichhane', 'anup baral'",/title/tt6722986/,4
+234,rhythm,2013,"drama, romance",bikash raj acharya                 ,"'shweta bhattarai', 'jiwan luitel', 'wilson bikram rai', 'anubhav regmi'",/title/tt8761808/,4
+235,adhyaya,2013,drama,prabin                 ,"'abhay baral', 'shanti giri', 'akash magar', 'sushil raj pandey'",/title/tt10921182/,4
+236,indreni khojdai jada,2013,drama,sahara sharma                 ,"'sahayog adhikary', 'deepak ghimire', 'dipendra kc', 'kritika lamsal'",/title/tt15747266/,4
+237,maun,2013,drama,suraj bhushal                 ,"'arpan thapa', 'namrata shrestha', 'durga baraily', 'shekhar chapagain'",/title/tt8504976/,4
+239,dhuwani,2013,thriller,pitamber pandey                 ,"'archana dellala', 'kishor khatiwada', 'sagun shahi'",/title/tt27874857/,3
+240,कबड्डी,2014,"comedy, drama, romance",ram babu gurung                 ,"'dayahang rai', 'nischal basnet', 'rishma gurung', 'buddhi tamang'",/title/tt3696800/,4
+241,highway to dhampus,2014,"drama, romance",rick mcfarland                 ,"'rachel hurd-wood', 'gunner wright', 'suesha rana', 'raj ballav koirala'",/title/tt2296799/,4
+242,nai nabhannu la 2,2014,romance,bikash raj acharya                 ,"'sugyani bhattarai', 'narendra singh dhami', 'priyanka karki', 'sitaram kattel'",/title/tt8677256/,4
+243,november rain,2014,romance,dinesh raut                 ,"'aaryan sigdel', 'namrata shrestha', 'chhulthim dolma gurung', 'amitesh shah'",/title/tt5659988/,4
+244,kohinoor,2014,drama,akash adhikari                 ,"'shree krishna shrestha', 'shweta khadka', 'mithila sharma', 'narendra singh dhami'",/title/tt8324172/,4
+245,suntali,2014,"comedy, drama",bhaskar dhungana                 ,"'pramod agrahari', 'bipana basnet', 'saraswoti chaudhari', 'pratibha chettri'",/title/tt3908994/,4
+246,talakjung vs tulke,2014,"action, drama",nischal basnet                 ,"'khagendra lamichhane', 'dayahang rai', 'shushank mainali', 'reecha sharma'",/title/tt3342558/,4
+247,love you baba,2014,drama,saugat bista                 ,"'anmol agrawal', 'basanta bhatta', 'rashmi bhatta', 'gajit bista'",/title/tt5954644/,4
+248,jerryy,2014,romance,hem raj bc                 ,"'anmol k.c.', 'amalya sharma', 'anna sharma', 'abhishek man sherchan'",/title/tt4620528/,4
+249,jholay,2014,"comedy, drama",dipendra k. khanal                 ,"'dayahang rai', 'priyanka karki', 'shishir rana', 'prashant dawa'",/title/tt7228558/,4
+251,raghav,2014,drama,bhupendra bhattarai                 ,"'gita adhikari', 'basanta bhatta', 'cait brasel', 'rocken byanjankar'",/title/tt3187718/,4
+252,ritu nepali feature film,2014,"drama, romance",manoj adhikari                 ,"'raj ballav koirala', 'malina joshi', 'reema bishwokarma', 'bishnu neupane'",/title/tt3451716/,4
+253,chha ekan chha,2014,"comedy, drama",dinesh d.c.                 ,"'sandip chhetri', 'narendra singh dhami', 'neeta dhungana', 'kedar ghimire'",/title/tt6044190/,4
+254,hasiya,2014,action,milan chams                 ,"'rajesh hamal', 'ruby rana', 'shishir s.j.b. rana', 'anoop bikram shahi'",/title/tt8754286/,4
+255,shree 5 ambare,2014,"crime, drama","s:dipa basnet, haridev oli                 ","'saugat malla', 'keki adhikari', 'yama buddha', 'priyanka karki'",/title/tt8024952/,4
+256,fitkiree,2014,crime,"s:anup baral, haridev oli                 ","'saugat malla', 'deeya maskey', 'shanti giri', 'anup baral'",/title/tt5973366/,4
+257,megha,2014,drama,samjhana upreti rauniar                 ,"'bhintuna joshi', 'agraj k.c.', 'manoj k.c.', 'meera k.c.'",/title/tt8658858/,4
+258,mokshya,2014,"comedy, drama, music",prabin shrestha                 ,"'kosish chettri', 'benisha hamal', 'basanta bhatta', 'bikram singh'",/title/tt3521084/,4
+259,red monsoon,2014,"drama, family",eelum dixit                 ,"'sandip chhetri', 'sudam ck', 'himali dixit', 'shristi ghimire'",/title/tt2923296/,4
+261,birkhelai chinchhas,2014,drama,araaj keshav giri                 ,"'binita khadka', 'aayusha rai', 'subash thapa'",/title/tt8477144/,3
+262,save the country,2014,history,lawa pyakurel                 ,"'sujana dhakal', 'mayoun jirel', 'ghimire kc', 'sapana rokka'",/title/tt15393054/,4
+263,mukhauta,2014,crime,arpan thapa                 ,"'rajesh hamal', 'sunil thapa', 'saugat malla', 'arpan thapa'",/title/tt13369528/,4
+264,tandav,2014,action,murray kerr                 ,"'bisharad basnet', 'kameshwor chaurasiya', 'alan gurung', 'bipin karki'",/title/tt7165932/,4
+265,the palmist,2014,"drama, mystery, romance",hitesh sharma                 ,"'sameer bhattarai', 'hitesh sharma', 'sunny amatya', 'prakash subedi'",/title/tt4701840/,4
+266,akaal,2014,drama,neer bikram shah                 ,"'deepak chhetri', 'rajesh hamal', 'neer bikram shah', 'rekha thapa'",/title/tt8915854/,4
+267,producer,2014,comedy,janak deep parajuli                 ,"'ram prasad aryal', 'shyam aryal', 'shweta bhattarai', 'babu bogati'",/title/tt4852030/,4
+268,dhartiputra,2014,action,amar oli                 ,"'bikrant basnet', 'dilip rayamajhi', 'sunil thapa'",/title/tt22044694/,3
+269,punte parade,2014,"drama, romance",subash koirala                 ,"'samyam puri', 'nilu doma sherpa', 'priyanka karki', 'najir hussain'",/title/tt7243914/,4
+270,utsav,2014,drama,kumar bhattarai                 ,"'saugat malla', 'sanjog koirala', 'gaurav pahari', 'menuka pradhan'",/title/tt6634928/,4
+271,biteka pal,2014,romance,suraj subba                 ,"'keki adhikari', 'baboo bogati', 'bimala thatal'",/title/tt8661390/,3
+272,himmatwali,2014,drama,rekha thapa                 ,"'teja ayyar', 'puskar bhatta', 'abhay chand', 'dhiraj chand'",/title/tt7243896/,4
+273,baby,2015,"action, crime, thriller",neeraj pandey                 ,"'akshay kumar', 'danny denzongpa', 'rana daggubati', 'taapsee pannu'",/title/tt3848892/,4
+274,hostel returns,2015,drama,suraj bhushal                 ,"'sushil shrestha', 'najir hussain', 'abhay baral', 'sushil sitaula'",/title/tt6501286/,4
+275,kalo pothi,2015,"action, drama, history",min bahadur bham                 ,"'khadka raj nepali', 'sukra raj rokaya', 'jit bahadur malla', 'hansha khadka'",/title/tt4991660/,4
+276,kabaddi kabaddi,2015,"comedy, drama",ram babu gurung                 ,"'dayahang rai', 'saugat malla', 'rishma gurung', 'bijay baral'",/title/tt5225580/,4
+277,taandro,2015,"action, drama",samten bhutia                 ,"'dayahang rai', 'kamal mani nepal', 'rajan khatiwada', 'buddhi tamang'",/title/tt5252250/,4
+278,the necklace,2015,"crime, drama, mystery","s:david chow, rudra bahadur gurung                 ","'dipti gurung', 'roshni karki', 'r.c. manoj', 'nirvik rai'",/title/tt5126250/,4
+279,zhigrana,2015,"horror, mystery, thriller",pasang lama                 ,"'sagar adhikari', 'subash basnet', 'hari prasad bhattarai', 'patricia buigenet'",/title/tt4448446/,4
+280,bhool bhulaiyaa,2015,romance,yogesh ghimire                 ,"'neeta dhungana', 'jiwan luitel'",/title/tt9081378/,2
+281,sadanga,2015,action,suraj sunuwar                 ,"'saugat malla', 'sauram raj tuladhar', 'priyanka karki', 'anup baral'",/title/tt11671066/,4
+282,pardeshi,2015,"drama, family",narayan rayamajhi                 ,"'raju bajaj', 'keshab bhattarai', 'sher bahadur gurung', 'rajani k.c.'",/title/tt7091544/,4
+283,ko afno,2015,"drama, thriller",anil thapa                 ,"'sulakshyan bharati', 'sudam ck', 'shanti giri', 'rajan khatiwada'",/title/tt5302258/,4
+284,bhairav,2015,drama,nikhil upreti                 ,"'jay kishan basnet', 'narendra singh dhami', 'muralidhar', 'nagendra rijal'",/title/tt7229056/,4
+285,mission paisa 2: reloaded,2015,action,simosh sunuwar                 ,"'nisha adhikari', 'amir gautam', 'priyanka karki', 'resh marhatta'",/title/tt7201056/,4
+286,resham filili,2015,"comedy, drama",pranab joshi                 ,"'shishir bangdel', 'kameshwor chaurasiya', 'narendra singh dhami', 'laxmi giri'",/title/tt4624138/,4
+287,woda number 6,2015,comedy,ujwal ghimire                 ,"'sandip chhetri', 'kedar ghimire', 'deepak raj giri', 'aruna karki'",/title/tt6569172/,4
+288,dristibhram,2015,"drama, mystery, romance",kiran thapa                 ,"'kiran thapa', 'bijay kunwar', 'cilsa jirel', 'nitesh jung thapa'",/title/tt4361472/,4
+289,seto bagh,2015,"drama, history",neer bikram shah                 ,"'manish bhandari', 'binay dahal', 'anita dangal', 'narendra singh dhami'",/title/tt6044656/,4
+290,nai nabhannu la 3,2015,romance,"s:muskan dhakal, lakpa chhiring tamang                 ","'aaryan sigdel', 'priyanka karki', 'suraj singh thakuri', 'sanchita luitel'",/title/tt8677388/,4
+291,dhruva tara,2015,drama,nikky ngawang golay                 ,"'kushal ghimiray', 'manisha gurung', 'topchen moktan', 'avinash wanem subba'",/title/tt5906842/,4
+292,sunpani,2015,drama,sabin bastola                 ,"'sabin bastola', 'agraj k.c.', 'tara k.c.', 'nabin timalsina'",/title/tt8878514/,4
+294,aavash,2015,"drama, romance",surendra poudel                 ,"'samyam puri', 'ashma d.c.', 'nisha adhikari', 'salon basnet'",/title/tt6450916/,4
+295,dhauli,2015,family,"s:santosh kumar atreya, ghanshyam lamichhane, santosh kumar atray                 ","'geeta adhikari', 'gajit bista', 'prakash ghimire'",/title/tt11822438/,3
+296,desh dekhi bidesh,2015,action,narendra thapa                 ,"'dilip rayamajhi', 'richa sharma', 'nikhil upreti'",/title/tt22008154/,3
+297,ajhai pani,2015,drama,alok nembang                 ,"'narendra singh dhami', 'bishal dhungana', 'puspa khadka', 'bijay lama'",/title/tt5972072/,4
+298,chankhe shankhe pankhe,2015,comedy,sudarshan thapa                 ,"'subash thapa', 'sudarshan thapa', 'prem puri', 'pooja sharma'",/title/tt5955818/,4
+299,youngster: nepali film,2015,drama,subba bishal                 ,"'pradhan ajtej', 'lepcha alvin', 'dewan suhmita'",/title/tt10847722/,3
+300,tata bye bye,2015,drama,ishir bangde,'shishir bangdel',/title/tt5139922/,1
+301,tista pariko saino,2015,romance,khil bahadur gurung                 ,"'amir gurung', 'khil bahadur gurung', 'raj gurung', 'unita gurung'",/title/tt20426148/,4
+303,zindagi rocks,2015,"romance, comedy",nikesh khadka                 ,"'sauram raj tuladhar', 'prakriti shrestha', 'reecha sharma', 'keki adhikari'",/title/tt11650960/,4
+304,in search of a nation,2015,"drama, family",prakash angdembe                 ,"'hemanta budhathoki', 'baboo bogati', 'meena koirala', 'aruna karki'",/title/tt2808236/,4
+305,sambodhan,2015,crime,hem raj bc                 ,"'dayahang rai', 'prasant tamrakar', 'binay bhatt', 'namrata shrestha'",/title/tt6624908/,4
+306,aago 2,2015,drama,madan ghimire                 ,"'sushil chhetri', 'priya rizal', 'hemanta budhathoki', 'ganesh giri'",/title/tt6774938/,4
+307,the jungle book,2016,"animation, adventure, drama",jon favreau                 ,"'neel sethi', 'bill murray', 'ben kingsley', 'idris elba'",/title/tt3040964/,4
+308,pashupati prasad,2016,"comedy, drama, romance",dipendra k. khanal                 ,"'khagendra lamichhane', 'rabindra singh baniya', 'bipin karki', 'prakash ghimire'",/title/tt5691226/,4
+309,सेतो सुर्य,2016,"adventure, drama",deepak rauniyar                 ,"'dayahang rai', 'asha magrati', 'rabindra singh baniya', 'sumi malla'",/title/tt3638644/,4
+310,superhit,2016,thriller,niranjan pandey                 ,"'binita baral', 'sudam ck', 'divya dev', 'shishir rana'",/title/tt10240904/,4
+311,the legend of shankhadhar,2016,"animation, biography, drama",sanyukta shrestha                 ,"'kiran k.c.', 'rajaram poudel', 'madan krishna shrestha'",/title/tt6999010/,3
+312,prem geet,2016,romance,sudarshan thapa                 ,"'pradeep khadka', 'pooja sharma', 'saroj khanal', 'rupa rana'",/title/tt6705126/,4
+313,purano dunga,2016,"comedy, drama",ram babu gurung                 ,"'dayahang rai', 'maotse gurung', 'menuka pradhan', 'priyanka karki'",/title/tt6782422/,4
+314,chhakka panja,2016,"comedy, drama, family",deepa shree niraula                 ,"'deepak raj giri', 'kedar ghimire', 'buddhi tamang', 'jeetu nepal'",/title/tt6160932/,4
+315,dreams,2016,romance,bhuwan k.c.                 ,"'manoj giri', 'anmol k.c.', 'sandhya kc', 'ratna raut'",/title/tt5804178/,4
+316,jatra,2016,"action, comedy, drama",pradeep bhattarai                 ,"'bipin karki', 'barsha raut', 'rabindra jha', 'rabindra singh baniya'",/title/tt6249904/,4
+317,bir bikram,2016,"action, comedy, romance",milan chams                 ,"'dayahang rai', 'anoop bikram shahi', 'deeya pun', 'arpan thapa'",/title/tt6568628/,4
+319,teen ghumti,2016,"biography, drama",dhakal baburam                 ,"'garima panta', 'dhruba dutta', 'sushant karki'",/title/tt5642582/,3
+320,karkhana,2016,drama,amardeep sapkota                 ,"'jebica karki', 'nabin lamsal', 'mausami malla', 'sushil shrestha'",/title/tt7683198/,4
+321,ke ma timro hoina ra,2016,romance,akash adhikari                 ,"'aaryan adhikari', 'arun adhikari', 'mariska pokharel'",/title/tt7643854/,3
+322,the winner,2016,thriller,hikmat bista                 ,"'ale corsino', 'amit giri', 'malina joshi', 'royal maskey'",/title/tt6352664/,4
+323,kismat 2,2016,drama,rishi lamichhane                 ,"'kishor khatiwada', 'shilpa pokhrel', 'prithivi raj prasai'",/title/tt12318790/,3
+324,dying candle,2016,"drama, family",naresh kumar kc                 ,"'bidhya karki', 'saugat malla', 'kesab rai', 'srijana subba'",/title/tt3552320/,4
+326,safar,2016,"adventure, drama",ashish shrestha                 ,"'manan sapkota', 'nurja shrestha', 'sanjay gupta', 'shibir pokharel'",/title/tt6091496/,4
+327,lama la,2016,drama,"s:nischal poudyal, manoj kumar pant                 ","'ravi karki', 'jivan pulami'",/title/tt6023632/,2
+328,nai nabhannu la 4,2016,romance,bikash raj acharya                 ,"'priyanka karki', 'barsha raut', 'anubhav regmi', 'paul shah'",/title/tt8677400/,4
+329,u turn,2016,drama,prem lama                 ,"'prasuna kadel', 'prem lama', 'etisha nembang'",/title/tt6684398/,3
+330,bijuli machine,2016,"comedy, drama, sci-fi",navin awal                 ,"'abhishek subedi', 'jeewan adhikary', 'jiban bhattarai', 'rajesh hamal'",/title/tt6577538/,4
+331,gajalu,2016,"drama, family, romance",hem raj bc                 ,"'anmol k.c.', 'shristi shrestha', 'gaurav pahari', 'salon basnet'",/title/tt6419748/,4
+332,homework,2016,"drama, family",nirak poudel                 ,"'vijay lama', 'gauri malla', 'namrata shrestha', 'aaryan sigdel'",/title/tt8706358/,4
+333,vedi gothale,2016,drama,ganesh gurung                 ,"'asmi gurung', 'ganesh gurung', 'rajesh gurung', 'sanam gurung'",/title/tt7039460/,4
+334,lukamari,2016,"comedy, crime",shree ram dahal                 ,"'saugat malla', 'karma shakya', 'bikram singh', 'surabina karki'",/title/tt5595416/,4
+335,kaha bhulna sakchu,2016,drama,"s:enos lama, sanjok roka                 ","'milan gurung', 'prasansa khawash', 'sanuja roka'",/title/tt6918784/,3
+336,kafal pakyo,2016,"drama, romance",sabitri khatri                 ,"'jiwan luitel', 'barsha raut', 'b.s. rana', 'barsha singh chhettri'",/title/tt7382524/,4
+337,bato muniko phool 2,2016,"drama, romance",subarna thapa                 ,"'reema bishwokarma', 'babu bogati', 'yash kumar', 'ashishma nakarmi'",/title/tt7836584/,4
+338,sherpa dai,2016,comedy,gopal dhakal                 ,"'gopal dhakal', 'doma hyolmo', 'shishir rana', 'chhiring sherpa'",/title/tt15662016/,4
+339,gaatho,2016,thriller,suraj bhushal                 ,"'abhay baral', 'najir hussain', 'aruna karki', 'dhurba koirala'",/title/tt15988786/,4
+340,fanko,2016,"action, drama, thriller",subarna thapa                 ,"'saugat malla', 'keki adhikari', 'dayahang rai', 'priyanka karki'",/title/tt6149934/,4
+341,radha,2016,"drama, romance",yogesh ghimire                 ,"'jiwan luitel', 'sanchita luitel'",/title/tt7869094/,2
+342,jhumkee,2016,thriller,apil bista                 ,"'pramod agrahari', 'rabindra singh baniya', 'bijay baral', 'bisharad basnet'",/title/tt6730644/,4
+343,rahadani,2016,drama,dabbu kshetri                 ,"'binita ghimire', 'rupa khanal', 'nabin lamsal', 'dayahang rai'",/title/tt8878780/,4
+344,kaifiyat,2016,"drama, action",dasharath giri                 ,"'nandita k.c.', 'kishan sunuwar', 'shankar shahi thakuri'",/title/tt12981428/,3
+345,the monk: lama la,2016,drama,"s:nischal poudyal, manoj kumar pan","'tors:\nnischal poudyal', 'manoj kumar pant'",/title/tt6033912/,2
+346,how funny,2016,"comedy, drama",nilu doma sherpa                 ,"'dayahang rai', 'priyanka karki', 'keki adhikari', 'nisha adhikari'",/title/tt7228676/,4
+347,krisha gautami (nepal bhasa),2016,family,ram krishna khadgi                 ,"'shiv shrestha', 'karma shakya', 'melina manandhar', 'nagina joshi'",/title/tt18968928/,4
+348,best friends forever,2016,drama,utsav pratap thapaliya                 ,"'saurav chaudhary', 'sandip ghimire', 'inzamam ali khan', 'syallen manandhar'",/title/tt9020606/,4
+351,fulai fulko mausam timilai,2016,drama,dinesh d.c.                 ,"'geeta adhikari', 'aamesh bhandari', 'neeta dhungana', 'madhav kharel'",/title/tt6066922/,4
+352,classic,2016,drama,dinesh raut                 ,"'aaryan sigdel', 'namrata shrestha', 'shishir s.j.b. rana', 'sunil rawal'",/title/tt8400458/,4
+353,rolpa rog,2016,drama,dipak oli                 ,"'shishir bhandari', 'sushil pokharel'",/title/tt8657794/,2
+355,l'ascension,2017,"comedy, drama, romance",ludovic bernard                 ,"'ahmed sylla', 'alice belaïdi', 'kévin razy', 'nicolas wanczycki'",/title/tt5157682/,4
+356,khoj,2017,"crime, mystery, thriller",arka ganguly                 ,"'vikram chatterjee', 'shataf figar', 'poonam gurung', 'arnab bhattacharya'",/title/tt6095994/,4
+357,पाहुना,2017,"drama, mystery",paakhi a. tyrewala                 ,"'anmoul limboo', 'ishika gurung', 'manju chhetri', 'saran rai'",/title/tt6940696/,4
+358,loot 2,2017,"action, crime, drama",nischal basnet                 ,"'saugat malla', 'dayahang rai', 'karma shakya', 'bipin karki'",/title/tt6329870/,4
+359,prem geet 2,2017,"drama, romance",ram sharan pathak                 ,"'pradeep khadka', 'aaslesha thakuri', 'mukta babu acharya', 'shishir bhandari'",/title/tt7085078/,4
+360,dui rupaiyan,2017,"action, drama",asim shah                 ,"'nischal basnet', 'asif shah', 'buddhi tamang', 'menuka pradhan'",/title/tt6944552/,4
+361,goodbye kathmandu,2017,drama,nabin subba                 ,"'sauram raj tuladhar', 'nikhil gurung', 'karma shakya', 'subarna thapa'",/title/tt7870694/,4
+362,aishwarya,2017,"drama, romance",diwakar bhattarai                 ,"'keki adhikari', 'deepika prasain', 'nirmal sharma', 'prasant tamrakar'",/title/tt7625030/,4
+363,chhakka panja 2,2017,"comedy, drama",deepa shree niraula                 ,"'deepak raj giri', 'kedar ghimire', 'priyanka karki', 'jeetu nepal'",/title/tt7229666/,4
+364,parva,2017,horror,dinesh raut                 ,"'namrata shrestha', 'koshish chhetri', 'mala limbu', 'keshab bhattarai'",/title/tt8619976/,4
+365,म यस्तो गीत गाउछु,2017,"musical, romance","s:sudarshan thapa, satyaraj chaulagain                 ","'narendra singh dhami', 'saroj khanal', 'rajaram poudel', 'rupa rana'",/title/tt6544872/,4
+366,manko babari,2017,drama,maotse gurung                 ,"'yenserj gurung', 'gaman ghale', 'dhan bahadur gurung', 'yam kumari chhetri'",/title/tt9861192/,4
+367,dhanapati,2017,"comedy, drama",dipendra k. khanal                 ,"'khagendra lamichhane', 'surakshya panta', 'janak bartaula', 'kamal devkota'",/title/tt6580708/,4
+368,naakaa,2017,"crime, drama",amit shrestha                 ,"'bipin karki', 'thinley lhamo', 'ghanashyam joshi', 'ram bhajan kamat'",/title/tt7230362/,4
+369,darpan chhaya 2,2017,"drama, musical",tulsi ghimire                 ,"'puspa khadka', 'sahara karki', 'shraddha prasai', 'b.s. rana'",/title/tt6607322/,4
+371,a mero hajur 2,2017,"drama, romance",jharana thapa                 ,"'salin man bania', 'samragyee rajya laxmi shah', 'salon basnet', 'buddhi tamang'",/title/tt6944688/,4
+372,happy new year,2017,romance,dev kumar shrestha                 ,"'pukar gautam', 'sandhya kc', 'royal maskey', 'david john murdoch'",/title/tt6352592/,4
+373,king returns,2017,action,shabir shrestha                 ,"'benisha hamal', 'anoop bikram shahi', 'nikhil upreti'",/title/tt7704424/,3
+374,lappan chhappan,2017,"crime, drama",mukunda bhatta                 ,"'dayahang rai', 'saugat malla', 'arpan thapa', 'barsha siwakoti'",/title/tt6676330/,4
+375,love sasha,2017,romance,prachanda man shrestha                 ,"'karma shakya', 'keki adhikari', 'shivani chalise', 'rashmi bhatta'",/title/tt6620138/,4
+376,fateko jutta,2017,"drama, romance",nikesh khadka                 ,"'saugat malla', 'priyanka karki', 'kameshwor chaurasiya', 'rabindra jha'",/title/tt7860150/,4
+377,panchayat,2017,"drama, history",shivam adhikari                 ,"'neeta dhungana', 'saroj khanal', 'rupa rana'",/title/tt7983428/,3
+378,ghampani,2017,"drama, romance",dipendra lama                 ,"'dayahang rai', 'keki adhikari', 'prakash ghimire', 'pushkar gurung'",/title/tt6759476/,4
+379,love love love,2017,romance,dipendra k. khanal                 ,"'suraj pandey', 'swastima khadka', 'ramesh budathoki', 'deshbhakta khanal'",/title/tt6695734/,4
+380,jhyanakuti,2017,"comedy, drama, romance",simosh sunuwar                 ,"'benisha hamal', 'saugat malla', 'sumi moktan', 'karma shakya'",/title/tt7676212/,4
+381,palash,2017,drama,subash koirala                 ,"'kameshwor chaurasiya', 'prakash ghimire', 'aayub kc', 'rekha thapa'",/title/tt6453622/,4
+382,ralang road,2017,"drama, mystery",karma takapa                 ,"'shubham', 'sonam wangyal ladimpa', 'domber mani pradhan', 'sudan gurung'",/title/tt6098792/,4
+383,madhu malati,2017,romance,shishir chalise                 ,"'kushum nepal', 'anuroop pokhrel'",/title/tt6525346/,2
+384,raato ghar,2017,comedy,suraj subba                 ,"'anurag kuwar', 'mala limbu', 'gaurav pahari', 'menuka pradhan'",/title/tt6966090/,4
+385,kutumberi saino,2017,drama,ganesh gurung                 ,"'asmi gurung', 'beeshwas gurung', 'beshwas gurung', 'dinesh gurung'",/title/tt7039306/,4
+386,saayad 2,2017,drama,puspa raj neupane                 ,"'sushil shrestha', 'sharon shrestha', 'amrit dhungana', 'kushal pandey'",/title/tt6501310/,4
+387,aadha love,2017,"adventure, drama",arpan thapa                 ,"'biki gurung', 'sareeta shri gyawali', 'tika pahari', 'rojisha shahi'",/title/tt6897032/,4
+388,hero returns,2017,action,ashish bhetwal                 ,"'saroj khanal', 'sabin shrestha', 'rekha thapa'",/title/tt6796344/,3
+389,jeegisha,2017,drama,sanam kumar                 ,"'dhruba dutta', 'prasuna kadel', 'manish shrestha', 'suresh shrestha'",/title/tt6684422/,4
+390,ktm cocktale,2017,drama,anuska ananda                 ,"'uddhav raj bhattarai', 'bikash lamsal', 'prabhakar neupane', 'sangeet sapkota'",/title/tt6440150/,4
+391,gangster blues,2017,"action, crime, romance",hem raj bc                 ,"'aashirman d.s. joshi', 'anna sharma', 'samyam puri', 'aruna karki'",/title/tt7254868/,4
+392,mero paisa khoi,2017,"comedy, drama",rose rana                 ,"'chhulthim dolma gurung', 'saugat malla', 'kamal mani nepal', 'barsha raut'",/title/tt7889260/,4
+393,agnidahan,2017,drama,ghanshyam lamichhane                 ,"'maotse gurung', 'prakash ghimire', 'anupama bhandari', 'kobid sharan upadhyay'",/title/tt11835456/,4
+394,khai o mheetheba,2017,drama,ganesh gurung                 ,"'pratap das', 'anand lhomay gurung', 'dinesh gurung', 'ganesh gurung'",/title/tt7039448/,4
+395,bhuimanchhe,2017,drama,nabaraj budhathoki                 ,"'kushal bista', 'ramesh budathoki', 'puskar gurung', 'sipora gurung'",/title/tt8820826/,4
+396,jai bhole,2018,comedy,ashok sharma                 ,"'khagendra lamichhane', 'saugat malla', 'swastima khadka', 'buddhi tamang'",/title/tt8289002/,4
+397,kanchhi,2018,romance,akash adhikari                 ,"'anita adhikari', 'kameshwor chaurasiya', 'narendra singh dhami', 'shweta khadka'",/title/tt8324464/,4
+398,chhakka panja 3,2018,comedy,deepa shree niraula                 ,"'anish adhikary', 'kedar ghimire', 'deepak raj giri', 'laxmi giri'",/title/tt8393764/,4
+399,intu mintu londonma,2018,romance,renasha bantawa rai                 ,"'samragyee rajya laxmi shah', 'dhiraj magar', 'saruk tamrakar', 'bibek limbu'",/title/tt7672868/,4
+400,nai nabhannu la 5,2018,"drama, romance",bikash raj acharya                 ,"'keki adhikari', 'narendra singh dhami', 'priyanka karki', 'swastima khadka'",/title/tt8673950/,4
+401,prasad,2018,"drama, romance",dinesh raut                 ,"'bipin karki', 'namrata shrestha', 'nischal basnet', 'basundhara bhusal'",/title/tt8561248/,4
+402,shatru gate,2018,"comedy, drama",pradeep bhattarai                 ,"'hari bansha acharya', 'basundhara bhusal', 'narendra singh dhami', 'deepak raj giri'",/title/tt7786264/,4
+403,blind rocks,2018,"biography, romance",milan chams                 ,"'benisha hamal', 'gauri malla', 'anil keshari shah', 'arpan thapa'",/title/tt7935792/,4
+404,sunkesari,2018,"drama, horror",arpan thapa                 ,"'reecha sharma', 'rabindra jha', 'sunny dhakal', 'lauren lofberg'",/title/tt7423858/,4
+405,lalpurja,2018,"drama, romance","s:nigam shrestha, haridev oli                 ","'prakash bhujel', 'kameshwor chaurasiya', 'bipin karki', 'miruna magar'",/title/tt7819514/,4
+406,rose,2018,"crime, romance",nirak poudel                 ,"'pradeep khadka', 'miruna magar', 'paramita rana', 'karma shakya'",/title/tt8886552/,4
+407,sherbahadur,2018,"drama, thriller",raj rajbanshi                 ,"'sunil thapa', 'karma shakya', 'menuka pradhan', 'rabindra jha'",/title/tt7869010/,4
+408,kri,2018,"action, drama",surendra poudel                 ,"'anmol k.c.', 'aditi budhathoki', 'anoop bikram shahi', 'kameshwor chaurasiya'",/title/tt7528086/,4
+409,kaira,2018,romance,laxman rijal                 ,"'aaryan sigdel', 'samragyee rajya laxmi shah', 'shishir rana', 'hitesh sharma'",/title/tt8674396/,4
+410,bobby,2018,drama,"s:milan chams, giriraj ghimire, suman upreti                 ","'rashmi bhatta', 'kabita gurung thapa', 'vijay lama', 'elias jung thapa'",/title/tt8439948/,4
+411,romeo & muna,2018,"drama, romance",naresh kumar kc                 ,"'vinay shrestha', 'shristi shrestha', 'surakshya panta', 'sushma karki'",/title/tt7301950/,4
+412,mr. jholay,2018,"drama, romance",ram babu gurung                 ,"'dayahang rai', 'deeya pun', 'buddhi tamang', 'barsha raut'",/title/tt7305634/,4
+413,meri mamu,2018,drama,yam thapa                 ,"'kusum gurung', 'ayub sen', 'saruk tamrakar', 'aaslesha thakuri'",/title/tt8674090/,4
+414,mangalam,2018,drama,nawal nepal                 ,"'puspa khadka', 'shilpa pokhrel', 'samragyee rajya laxmi shah', 'neer bikram shah'",/title/tt8254312/,4
+415,johnny gentleman,2018,action,"s:nitin chand, namit chand thakuri, dinesh chandra gupta                 ","'sachin adhikari', 'paul shah', 'aanchal sharma'",/title/tt26912625/,3
+416,changa chet,2018,romance,dipendra k. khanal                 ,"'shishir bangdel', 'sandip chhetri', 'maotse gurung', 'rabindra jha'",/title/tt8905928/,4
+417,damaruko dandibiyo,2018,"drama, sport",chetan gurung                 ,"'khagendra lamichhane', 'menuka pradhan', 'buddhi tamang', 'anup baral'",/title/tt7971388/,4
+418,america boys,2018,"comedy, drama",prabesh poudel                 ,"'arpan thapa', 'abhay baral', 'ashish prasai', 'shristi karki'",/title/tt8275366/,4
+419,tshering,2018,family,yash kumar                 ,"'kamana bhujel', 'yash kumar', 'nima rumba'",/title/tt8780434/,3
+420,kathaa '72,2018,drama,prabin                 ,"'sarada adhikari', 'romash emerald bishwodeep', 'bhuisal lama', 'akash magar'",/title/tt7236026/,4
+421,sushree sampatti,2018,romance,subrat acharya                 ,"'bisharad basnet', 'pramod agrahari', 'salon basnet', 'gaurav dhwaj khadka'",/title/tt7969202/,4
+422,jaalo,2018,thriller,araaj keshav giri                 ,"'muna gauchan', 'menuka pradhan', 'nirajan pradhan', 'neer bikram shah'",/title/tt12719798/,4
+423,kahi katai,2018,family,shabir shrestha                 ,"'dilip rayamajhi', 'sonam barphunga', 'shivani giri', 'kishor khatiwada'",/title/tt8665904/,4
+424,gaja baja,2018,"comedy, drama",ganesh dev panday                 ,"'sushil sitaula', 'anupam sharma', 'barsha siwakoti', 'amber subedi'",/title/tt7991418/,4
+425,happy days,2018,"action, drama, romance",milan chams                 ,"'sanjay gupta', 'ritesh chams', 'priyanka karki', 'monica gurung'",/title/tt10304250/,4
+426,kohalpur express,2018,comedy,bishal bhandari                 ,"'keki adhikari', 'narendra singh dhami', 'rabindra jha', 'priyanka karki'",/title/tt8212142/,4
+427,mr. virgin,2018,romance,bisharad basnet                 ,"'uma baniya', 'bijay baral', 'chhulthim dolma gurung', 'rabindra jha'",/title/tt7889930/,4
+428,ramkahani,2018,"comedy, horror, romance",sudarshan thapa                 ,"'aakash shrestha', 'pooja sharma', 'kedar ghimire', 'wilson bikram rai'",/title/tt7889902/,4
+429,vismrit: forgotten,2018,drama,animesh sapkota                 ,"'shankar karki', 'prakash bhujel', 'hasta kali thapa', 'raj kumar rai'",/title/tt6956922/,4
+430,bhor,2018,drama,yadav kumar bhattarai                 ,"'pramesh jha', 'anita rani mandal', 'madan thakur', 'ram narayan thakur'",/title/tt8386480/,4
+431,hari,2018,drama,"s:pratik gurung, safal k.c.                 ","'bipin karki', 'kamal mani nepal', 'sunita shrestha', 'thinley lhamo'",/title/tt8205082/,4
+432,timi sanga,2018,romance,shishir s.j.b. rana                 ,"'narendra singh dhami', 'najir hussain', 'shishir s.j.b. rana', 'samragyee rajya laxmi shah'",/title/tt8243058/,4
+433,lily bily,2018,"drama, romance",milan chams                 ,"'pradeep khadka', 'priyanka karki', 'jassita gurung', 'anoop bikram shahi'",/title/tt8013642/,4
+434,rudane,2018,"biography, drama","s:bikash dhakal, amit kishor subedi                 ","'divya dev', 'anubhav luintel', 'namrata shrestha', 'amber subedi'",/title/tt7659822/,4
+435,aamako man,2018,"drama, family",janak gurung                 ,"'yenserj gurung', 'bibek gurung', 'saraswati gurung', 'ram prasad gurung'",/title/tt9876994/,4
+436,chakkar,2018,crime,anuska ananda                 ,"'bholaraj sapkota', 'reecha sharma', 'srijana subba', 'arpan thapa'",/title/tt8682244/,4
+437,katha kathmandu,2018,"drama, romance",sangita shrestha                 ,"'prekshya adhikari', 'pramod agrahari', 'ayushman joshi', 'indira joshi'",/title/tt8673620/,4
+438,pandit bajeko lauri,2018,drama,dipak oli                 ,"'praween khatiwada', 'pramod agrahari', 'bijay baral', 'sandhya kc'",/title/tt8581484/,4
+439,tathastu,2018,action,shabir shrestha                 ,"'rekha thapa', 'subash thapa'",/title/tt16123128/,2
+440,kalu hima,2018,"adventure, drama, thriller",upali gamlath                 ,"'niroshan wijesinghe', 'subuddi lakmali', 'kavinga perera', 'tiran wickramasuriya'",/title/tt8103804/,4
+441,gaunki chhori,2018,drama,deepak acharya                 ,"'keki adhikari', 'palpasa dangol', 'rabi giri', 'gaurav pahari'",/title/tt7985588/,4
+442,saadhe 7,2018,thriller,samten bhutia                 ,"'satya raj acharya', 'menuka pradhan', 'sunil thapa'",/title/tt11091514/,3
+443,jai shree daam,2018,comedy,biplop upreti                 ,"'amrit dhungana', 'jebica karki'",/title/tt8620110/,2
+444,bandha mayale,2018,romance,shabir shrestha                 ,"'aaryan adhikari', 'shristi shrestha'",/title/tt8644380/,2
+445,changa,2018,comedy,kishor bhandari                 ,"'jiban bhattarai', 'ramesh k.c.', 'ankeet khadka', 'kamal mani nepal'",/title/tt9890312/,4
+446,panche baja,2018,drama,ghanshyam lamichhane                 ,"'deshbhakta khanal', 'saugat malla', 'karma shakya', 'jasmin shrestha'",/title/tt7814604/,4
+447,lamphoo,2018,drama,gopal chandra lamichhane                 ,"'salon basnet', 'sanjit bhandari', 'kabir khadka', 'mariska pokharel'",/title/tt8273182/,4
+448,baby i love you,2018,romance,janak pandey                 ,"'santosh khadgi', 'saroj khanal', 'nirmal sharma', 'pooja tiwari'",/title/tt27812209/,4
+449,butterfly (colors of love),2018,thriller,om pratik gurung                 ,"'aaryan adhikari', 'priyanka karki', 'sushma karki', 'rabindra khadka'",/title/tt8658134/,4
+450,tuin - the suspension bridge,2018,biography,utsav pratap thapaliya                 ,"'parikshit bickram rana', 'prisha shrestha', 'suraj thapa', 'chirag thapaliya'",/title/tt14940984/,4
+451,rajja rani,2018,romance,yam thapa                 ,"'najir hussain', 'keki adhikari', 'kameshwor chaurasiya', 'deepak chhetri'",/title/tt7819598/,4
+453,the karma,2018,action,dev kumar shrestha                 ,"'buddhi tamang', 'neeta dhungana', 'pramita rl rana', 'karan verma'",/title/tt8677038/,4
+454,kumva karan,2018,drama,dipak oli                 ,"'nisha adhikari', 'abhay baral', 'gaurav pahari', 'bholaraj sapkota'",/title/tt8736814/,4
+455,heroz,2018,drama,n.b. maharjan                 ,"'mukesh dhakal', 'shekhar lama', 'karishma manandhar'",/title/tt10534512/,3
+457,bulbul,2019,drama,binod paudel                 ,"'swastima khadka', 'mukunda bhusal', 'deepak chhetri', 'laxmi bardewa'",/title/tt8622286/,4
+458,stray dolls,2019,"crime, thriller",sonejuhi sinha                 ,"'cynthia nixon', 'olivia dejonge', 'robert aramayo', 'shiloh verrico'",/title/tt6690836/,4
+459,looking for a lady with fangs and a moustache,2019,"drama, mystery",khyentse norbu                 ,"'orgyen tobgyal rinpoche', 'tsering tashi gyalthang', 'tulku kungzang', 'tenzin kunsel'",/title/tt11165704/,4
+460,captain,2019,"drama, sport",diwakar bhattarai                 ,"'anmol k.c.', 'sunil thapa', 'priyanka mv', 'upasana singh thakuri'",/title/tt8387542/,4
+461,love station,2019,"drama, romance",ujwal ghimire                 ,"'siru bista', 'ramesh budathoki', 'rabi dangol', 'narendra singh dhami'",/title/tt9812236/,4
+462,kabaddi kabaddi kabaddi,2019,"comedy, drama, romance",ram babu gurung                 ,"'kabita ale', 'bijay baral', 'narendra singh dhami', 'manoj giri'",/title/tt10942220/,4
+463,jatrai jatra,2019,comedy,pradeep bhattarai                 ,"'bipin karki', 'barsha raut', 'rabindra singh baniya', 'rabindra jha'",/title/tt8881326/,4
+464,summer love,2019,romance,muskan dhakal                 ,"'shishir bhandari', 'rewati chetri', 'narendra singh dhami', 'saroj khanal'",/title/tt9382076/,4
+465,a mero hajur 3,2019,"drama, romance",jharana thapa                 ,"'anmol k.c.', 'suhana thapa', 'salon basnet', 'arpan thapa'",/title/tt8475990/,4
+466,yatra: a musical vlog,2019,"drama, romance",samrat shakya                 ,"'salin man bania', 'janwhi basnet', 'salon basnet', 'malika mahat'",/title/tt9878856/,4
+467,the break up,2019,"comedy, drama, romance",hem raj bc                 ,"'aashirman d.s. joshi', 'shilpa maskey', 'raymon das shrestha', 'saroj khanal'",/title/tt9247166/,4
+468,ranveer,2019,"action, comedy, drama",govind singh bhandari                 ,"'sushil sitaula', 'subeksha khadka', 'supushpa bhatta', 'prasant tamrakar'",/title/tt9430574/,4
+469,boyfriend,2019,drama,madan ghimire                 ,"'krishna khanal', 'saroj khanal', 'mohan niroula', 'puskar regmi'",/title/tt9892262/,4
+470,ghar,2019,horror,arpan thapa                 ,"'surakshya panta', 'arpan thapa', 'benisha hamal', 'asmita dhakal'",/title/tt13369480/,4
+471,nimtoh,2019,drama,saurav rai                 ,"'chandra dewan', 'pravesh gurung', 'sunil rai', 'teresa rai'",/title/tt11152286/,4
+472,saili,2019,"drama, romance",ram babu gurung                 ,"'dayahang rai', 'prakash ghimire', 'narendra singh dhami', 'menuka pradhan'",/title/tt7868256/,4
+473,gopi,2019,drama,dipendra lama                 ,"'ramesh adhikari', 'saroj aryal', 'narendra singh dhami', 'apoorva gautam'",/title/tt9333076/,4
+474,ghamad shere,2019,drama,hem raj bc                 ,"'nischal basnet', 'swastima khadka', 'gauri malla'",/title/tt12317310/,3
+475,poi paryo kale,2019,comedy,shishir rana                 ,"'dhakal gopal', 'binda khatiwada', 'jayananda lama', 'saugat malla'",/title/tt12320752/,4
+477,xira,2019,"action, crime",ashutosh raj shrestha                 ,"'namrata shrestha', 'pramod agrahari', 'samrat magar', 'srijana regmi'",/title/tt10623658/,4
+478,password,2019,crime,samrat basnet                 ,"'bikram joshi', 'pari rana', 'lisha sunuwar', 'sammy jonas heaney'",/title/tt8885872/,4
+479,cha cha hui,2019,"comedy, drama, romance",samten bhutia                 ,"'aaryan sigdel', 'miruna magar', 'bholaraj sapkota', 'maotse gurung'",/title/tt11088098/,4
+480,daal bhat tarkari,2019,comedy,sudan k.c.                 ,"'hari bansha acharya', 'basundhara bhusal', 'kiran k.c.', 'puspa khadka'",/title/tt8848374/,4
+481,chauka dau,2019,comedy,prunandu jha                 ,"'rabindra jha', 'barsha raut'",/title/tt10669626/,2
+482,na yeta na uta,2019,comedy,"s:bisharad basnet, miraz roshan                 ","'jiban bhattarai', 'sameer m. dixit', 'chhulthim dolma gurung', 'miraz roshan'",/title/tt8682178/,4
+483,jadugar 2,2019,comedy,mahadev tripathi                 ,"'resham firiri', 'surendra k.c.', 'simpal kharel', 'dipen shah'",/title/tt10003806/,4
+485,jani najani,2019,drama,basanta adhikari                 ,"'nirisha basnet', 'matrika ghimire', 'roshani k.c.', 'yogendra karki'",/title/tt9885892/,4
+486,hajar juni samma,2019,"drama, romance",bikash raj acharya                 ,"'salon basnet', 'priyanka karki', 'swastima khadka', 'sanchita luitel'",/title/tt17889444/,4
+487,subha love,2019,romance,santos babu lohani                 ,"'harihar adhikari', 'pradeep bastola', 'rabindra jha', 'saroj khanal'",/title/tt9878866/,4
+488,sarauto,2019,action,hari humagain                 ,"'sumi moktan', 'tank dhamala', 'vijay lama', 'amir gautam'",/title/tt11242502/,4
+489,adalat,2019,drama,dinesh lingden                 ,"'bhupindder bhoopii', 'sushma karki'",/title/tt10003792/,2
+490,bhaire,2019,"action, drama, romance",everest surya bohara                 ,"'dayahang rai', 'barsha siwakoti', 'bikrant basnet'",/title/tt12929406/,3
+491,cops,2019,drama,samrat sapkota                 ,"'anupama bhandari', 'ramraj chhetri', 'amit giri', 'sandipa limbu'",/title/tt9892220/,4
+492,baadshahjutt,2019,drama,johny sing rana                 ,"'amir gautam', 'sushil shrestha', 'robin tamang'",/title/tt13092442/,3
+493,purano bullet,2019,drama,bhisan rai                 ,"'kabita ale', 'barat limbu', 'mala limbu', 'krishna bhakta maharjan'",/title/tt9892234/,4
+494,thooli,2019,drama,everest surya bohara                 ,"'everest surya bohara', 'jiwan luitel', 'bishal pahari', 'garima panta'",/title/tt28212339/,4
+495,anaagat,2019,thriller,samten bhutia                 ,"'priyanka karki', 'arpan thapa'",/title/tt5743300/,2
+496,rato galbandi,2019,romance,anish thapa                 ,"'keki adhikari', 'koshish chhetri', 'buddhi tamang'",/title/tt10660402/,3
+497,fingerprint,2019,drama,nabin niraula                 ,"'ramesh budathoki', 'aayushma karki', 'raj kshitij', 'sarita lamichhane'",/title/tt9892272/,4
+498,kagaz patra,2019,"comedy, drama, romance",apil bista                 ,"'laxmi bardewa', 'jiban bhattarai', 'niraj singh bista', 'sarita giri'",/title/tt7810160/,4
+499,kirtipur - the legend of kirtilakshmi,2019,history,pradeep khadgi                 ,"'sraj garach', 'laxmi giri', 'hisila maharjan', 'anjala nakarmi'",/title/tt26084904/,4
+500,khaag,2019,drama,manoj pandit                 ,"'puskar gurung', 'praween khatiwada', 'deepa pant', 'ashant sharma'",/title/tt9892252/,4
+501,100 kada 10,2019,comedy,ramsharan pathak                 ,"'tank raj acharya', 'rashmi bhatta', 'rabi dangol', 'amrit dhungana'",/title/tt10021464/,4
+502,kina ma? 2019,2019,history,tamang sangraam                 ,"'moktan jayanti', 'rai bimal', 'thapa mahesh', 'limbu prashant'",/title/tt10475034/,4
+503,bir bikram 2,2019,"drama, romance",milan chams                 ,"'narendra singh dhami', 'najir hussain', 'manoj k.c.', 'deshbhakta khanal'",/title/tt12320574/,4
+504,rampyari,2019,action,shabir shrestha                 ,"'sabin shrestha', 'rekha thapa'",/title/tt16122834/,2
+505,bses slwl i: the musical journey,2019,biography,romi gurung                 ,"'sudarshan acharya', 'bishesh silwal'",/title/tt6321164/,2
+506,rumalai chha chino,2019,action,dinesh singh thakuri                 ,"'sushant karki', 'afsana thapa'",/title/tt9545316/,2
+508,markyu,2019,drama,dinesh gurung                 ,"'akash gurung', 'kamal gurung', 'khusi maya gurung', 'rabin gurung'",/title/tt10548758/,4
+509,tulashi,2019,drama,shankar ghimire                 ,"'bimles adhikari', 'richa ghimire', 'aayush rijal'",/title/tt10930058/,3
+510,premleela,2019,romance,janak pandey                 ,"'dipshikha khadka', 'mausam khadka', 'ali khan'",/title/tt9631938/,3
+511,mle kyu,2019,"comedy, drama",jassu gurung                 ,"'maotse gurung', 'riya gurung', 'yenserj gurung', 'bir maya gurung'",/title/tt10037834/,4
+512,ainaa jhyal ko putali,2020,drama,sujit bidari                 ,"'kanchan chimariya', 'dinesh khatri', 'siru bista', 'bisha chamling rai'",/title/tt9623736/,4
+513,senti virus,2020,drama,ram babu gurung                 ,"'sandip chhetri', 'narendra singh dhami', 'kunjana ghimire', 'sitaram kattel'",/title/tt12321124/,4
+514,halkara,2020,drama,bikram sapkota                 ,"'mahesh tripathi', 'binita thapa magar', 'umesh tamang', 'pashupati rai'",/title/tt10533360/,4
+515,come and go,2020,drama,kah-wai lim                 ,"'j.c. chee', 'seiji chihara', 'mousam gurung', 'jakujaku katsura'",/title/tt15106298/,4
+516,love diaries,2020,"comedy, romance",saurav chaudhary                 ,"'bishwojit rimal', 'sushil shrestha', 'rubeena thapa'",/title/tt11724834/,3
+517,fichyo,2020,drama,bikash ghale gurung                 ,"'kashi ghale -indra', 'beeshwas gurung', 'beshwas gurung', 'kalyan magar'",/title/tt17499240/,4
+519,selfie king,2020,drama,bishal sapkota                 ,"'bipin karki', 'laxmi bardewa', 'abhay baral', 'jiban bhattarai'",/title/tt10935014/,4
+520,mango pickle,2020,"crime, drama, thriller",ian scott clement                 ,"'bisan shrestha', 'ashok rijal', 'yog raj pandey', 'sarita giri'",/title/tt2714308/,4
+521,shirsuba[2020],2020,drama,maotse gurung                 ,"'sumit grg', 'aitaram gurung', 'beeshwas gurung', 'dhan bahadur gurung'",/title/tt16677274/,4
+522,jeeudo,2020,"drama, romance",aalmist subba                 ,"'prashant baraili', 'davina', 'pranisha gahatraj', 'pujan ghishing'",/title/tt11976170/,4
+523,bhumari,2020,drama,yogesh ghimire                 ,"'kushal thapa', 'rejina uprety'",/title/tt18304482/,2
+524,chini kam rang kada,2020,drama,bibek ghimire                 ,"'manav subedi', 'anu thapa', 'sushil sitaula', 'surya thapa'",/title/tt13986218/,4
+525,dhulo,2020,drama,pradhumna mishra                 ,"'laxmi bardewa', 'damodar gajurel', 'agraj k.c.', 'sudeep karki'",/title/tt11944088/,4
+526,taqatbar,2020,action,sunil bista gauli                 ,"'sabin shrestha', 'mahima silwal'",/title/tt21278536/,2
+527,dasdhunga chapter 2,2020,history,kumar bhattarai                 ,"'divya dev', 'saugat malla', 'surakshya panta', 'dayahang rai'",/title/tt10435560/,4
+528,aastha,2020,drama,naren limbu                 ,"'kusum gurung', 'naren limbu'",/title/tt9517300/,2
+529,kathaputali,2021,"horror, mystery, thriller",veemsen lama                 ,"'karma shakya', 'shilpa maskey', 'subarna thapa', 'gauri malla'",/title/tt9296106/,4
+530,numa,2021,drama,pritam gurung                 ,"'kashi ghale -indra', 'biswatma gurung', 'sanzeet gurung'",/title/tt17720518/,3
+531,one night in kathmandu,2021,drama,mohan rai                 ,"'karma', 'menuka pradhan', 'karma shakya'",/title/tt14563990/,3
+532,shree,2021,drama,everest surya bohara                 ,"'sandip chhetri', 'rabindra jha', 'rajaram poudel', 'barsha siwakoti'",/title/tt28185948/,4
+533,ko afno redux,2021,drama,anil thapa                 ,"'sulakshyan bharati', 'satyaraj chaulagain', 'sudam ck', 'prakash ghimire'",/title/tt14504590/,4
+534,teen jantu,2021,thriller,arpan thapa                 ,"'saugat malla', 'arpan thapa', 'shristi shrestha', 'robin tamang'",/title/tt12252930/,4
+535,tulki,2021,drama,dev jung thapa                 ,"'swostima karki', 'shekhar lama', 'som lama', 'naren moktan'",/title/tt15128260/,4
+536,timro hune kahile,2021,drama,raju giri                 ,"'prakash chand', 'mausami oli'",/title/tt16435840/,2
+537,premnath,2021,action,ganesh belbase                 ,"'ganesh belbase', 'rabin bhandan', 'gaurav bhatta', 'shamjhana bhetwal'",/title/tt9537148/,4
+538,kapti,2021,drama,bhupendra gurung                 ,"'smriti balami', 'sher bahadur gurung', 'umesh gurung', 'urmila gurung'",/title/tt14312344/,4
+541,overdoze,2021,crime,suman paudel                 ,"'pranishraj panta', 'sabin jung thapa', 'bina shrestha', 'allen bonilla'",/title/tt25393090/,4
+546,rilu tilu chasmu,2021,"adventure, drama",aseem banstola                 ,"'arya tripathi', 'tamanna tripathi', 'madhav tripathi'",/title/tt12900810/,3
+547,le otto montagne,2022,drama,"s:felix van groeningen, charlotte vandermeersch                 ","'lupo barbiero', 'cristiano sassella', 'elena lietti', 'chiara jorrioz'",/title/tt14641542/,4
+548,prakash,2022,drama,dinesh raut                 ,"'pradeep khadka', 'deeya maskey', 'renu yogi', 'prakash ghimire'",/title/tt14617248/,4
+549,कबड्डी ४,2022,comedy,ram babu gurung                 ,"'dayahang rai', 'saugat malla', 'miruna magar', 'sarada adhikari'",/title/tt16529002/,4
+550,प्रेम गीत ३,2022,"action, romance","s:chhetan gurung, santosh sen                 ","'pradeep khadka', 'kristina gurung', 'shiva shrestha', 'sunil thapa'",/title/tt21741272/,4
+551,mahapurush,2022,family,pradeep bhattarai                 ,"'hari bansha acharya', 'rabindra singh baniya', 'anjana baraili', 'arun chhetri'",/title/tt23135286/,4
+552,bihe pass,2022,comedy,prabesh poudel                 ,"'shishir bangdel', 'uma baniya', 'rabindra jha', 'bishal pahari'",/title/tt16492808/,4
+553,babari,2022,drama,surendra poudel                 ,"'aditi budhathoki', 'dhiraj magar', 'dhiraj nadkar', 'kamal mani nepal'",/title/tt21230106/,4
+554,ए मेरो हजुर ४,2022,romance,jharana thapa                 ,"'salon basnet', 'narendra singh dhami', 'laxmi giri', 'anmol k.c.'",/title/tt16607614/,4
+555,samhalinchha kahile mann,2022,"action, drama, romance",sudarshan thapa                 ,"'aakash shrestha', 'kumud pant', 'pooja sharma', 'sonam topden'",/title/tt9871454/,4
+556,michael adhikari,2022,drama,ranjeet gupta                 ,"'saugat malla', 'shristi shrestha'",/title/tt21113894/,2
+557,krishna leela,2022,"crime, drama, romance",dipak oli                 ,"'shraddha chhetri', 'puspa khadka', 'buddhi tamang'",/title/tt16436816/,3
+558,ke ghar ke dera,2022,comedy,dipendra k. khanal                 ,"'rabindra jha', 'bipin karki', 'surakshya panta', 'dayahang rai'",/title/tt23770332/,4
+559,lakhey,2022,"action, thriller",samrat basnet                 ,"'aaryan adhikari', 'rakshya budhathoki', 'saugat malla', 'nutan'",/title/tt22462224/,4
+560,premganj,2022,romance,parichhed sen                 ,"'tej giri', 'benisha hamal', 'surakshya panta', 'sanjog rasaili'",/title/tt18680228/,4
+561,the secrets of radha,2022,drama,subarna thapa                 ,"'nischal basnet', 'divya dev', 'pushkar gurung', 'khagendra lamichhane'",/title/tt23770642/,4
+562,hello jindagi,2022,drama,"s:everest surya bohara, elish adhikari                 ","'bikram joshi', 'kumud pant', 'deepika prasain', 'janaki pant'",/title/tt10188844/,4
+563,ma yesto geet gauchhu 2,2022,"drama, musical, romance",sudarshan thapa                 ,"'paul shah', 'pooja sharma', 'salon basnet'",/title/tt7889894/,3
+564,nalapani,2022,"drama, history",rimesh adhikari                 ,"'deshbhakta khanal', 'santosh pant', 'poozana pradhan', 'arjun jung shahi'",/title/tt26087954/,4
+565,karma (nepal bhasa movie),2022,family,ram krishna khadgi                 ,"'madan krishna shrestha', 'karma shakya', 'ashishma nakarmi', 'yaman shrestha'",/title/tt18689606/,4
+566,soul of the commando,2022,action,"s:yubaraj rai, kamraan mohammed                      star:raj kumar ra","'tors:\nyubaraj rai', 'kamraan mohammed\n                 | \n    star:\nraj kumar rai'",/title/tt21411734/,2
+567,lakka jawan,2022,comedy,shivahari poudel                 ,"'ansuya shrestha', 'dhruba onta', 'barsha siwakoti', 'shivahari poudel'",/title/tt23643170/,4
+569,dokh,2022,drama,anup baral                 ,"'maotse gurung', 'sajan thapa magar', 'deeya maskey', 'kulchandra neupane'",/title/tt6818560/,4
+570,lappan chappan 2,2022,action,mukunda bhatta                 ,"'saugat malla', 'arpan thapa', 'anoop bikram shahi', 'kishore bhatt'",/title/tt11224752/,4
+571,jhingedaau,2022,drama,gyanendra bahadur deuja                 ,"'keki adhikari', 'mukun bhusal', 'kushal bista', 'hiubala gautam'",/title/tt22037606/,4
+572,ram ram,2022,comedy,subarna thapa                 ,"'amit giri', 'saugat malla', 'nabin manandhar'",/title/tt12774442/,3
+573,paani photo,2022,drama,khagendra lamichhane                 ,"'anup baral', 'malika mahat', 'menuka pradhan'",/title/tt29005183/,3
+574,चिसो एस्ट्रे,2022,drama,dinesh palpali                 ,"'divya dev', 'nabin lamsal', 'sushil raj pandey', 'nikun shrestha'",/title/tt19713108/,4
+575,mantra,2022,drama,khil bahadur gurung                 ,"'saugat malla', 'deeya pun', 'buddhi tamang'",/title/tt20414216/,3
+576,shatkon,2022,mystery,milan de kapri                 ,"'suyasha adhikari', 'biraj kadariya', 'lokendra lekhak', 'bholaraj sapkota'",/title/tt13080910/,4
+577,ma rajesh hamal,2022,drama,zohn yonjan                 ,"'ashmita lamichhane', 'sanchita luitel', 'sanjog rasaili', 'aaryan sigdel'",/title/tt28526512/,4
+578,kausidd,2022,drama,kumar bhaskar                 ,"'bholaraj sapkota', 'reecha sharma', 'parikshit bickram rana', 'rupesh dahal'",/title/tt21275792/,4
+579,purpala,2022,horror,manoj adhikari                 ,"'pukar gautam', 'nikhila budhathoki', 'olga tamara', 'rozy pant'",/title/tt16538262/,4
+581,mah,2022,action,subarna thapa                 ,"'nisha adhikari', 'saroj khanal', 'sanjog rasaili', 'shristi shrestha'",/title/tt12599266/,4
+582,kaidi ko patra: a letter from prisoner,2022,"crime, drama, mystery",sanam kumar bairag                 ,"'kunal bishwa', 'carrie dodds', 'prithavi raj khatry', 'madison lazarus'",/title/tt21407962/,4
+584,gurkha warrior,2023,"action, history, war",milan chams                 ,"'ritesh chams', 'vijay lama', 'nutan'",/title/tt28664108/,3
+585,the red suitcase,2023,"drama, horror, mystery",fidel devkota                 ,"'b. bishowkarma', 'anju deuja', 'bipin karki', 'prabin khatiwada'",/title/tt28495418/,4
+586,ganapati,2023,drama,sabin adhikari                 ,"'anish adhikari', 'devendra bablu', 'mukunda bhusal', 'prakash ghimire'",/title/tt16882704/,4
+587,chhakka panja 4,2023,comedy,hem raj bc                 ,"'deepak raj giri', 'kedar ghimire', 'benisha hamal', 'deepa shree niraula'",/title/tt26934236/,4
+588,a road to a village,2023,drama,nabin subba                 ,"'dayahang rai', 'pashupati rai'",/title/tt21249176/,2
+589,jaari,2023,drama,upendra subba                 ,"'dayahang rai', 'miruna magar', 'bijay baral', 'prem subba'",/title/tt27513017/,4
+590,1915: legend of the gurkhas,2023,"drama, war",pradeep shahi                 ,"'olly bassi', 'barnaby chambers', 'jack cronin', 'robin friberg'",/title/tt11384790/,4
+591,fulbari,2023,drama,ram babu gurung                 ,"'bipin karki', 'aruna karki', 'dayahang rai', 'priyanka karki'",/title/tt25828590/,4
+592,chhadke 2.0,2023,"action, comedy, drama",nigam shrestha                 ,"'anmol k.c.', 'resha ale magar', 'santosh mizar', 'kamal mani nepal'",/title/tt26686370/,4
+593,prasad 2,2023,drama,sudarshan thapa                 ,"'keki adhikari', 'bipin karki', 'kamal mani nepal', 'arpan thapa'",/title/tt27169455/,4
+595,जय हो,2023,"action, comedy, drama",tek paurakhi rai                 ,"'keki adhikari', 'nisha adhikari', 'salon basnet', 'ganesh budhathoki'",/title/tt28867816/,4
+596,aincho paincho,2023,drama,krisha chaulagain                 ,"'mukun bhusal', 'ramesh budathoki', 'koshish chhetri', 'sarda giri'",/title/tt28549232/,4
+597,shakti,2023,drama,nani sahra walker                 ,"'shristi shrestha', 'prakash ghimire', 'menuka pradhan', 'jiban bhattarai'",/title/tt26598972/,4
+598,neerphool,2023,drama,phulman bal                 ,"'sarita giri', 'pushkar gurung', 'dayahang rai', 'buddhi tamang'",/title/tt11941288/,4
+599,nai nabhannu la 6,2023,romance,bikash raj acharya                 ,"'keki adhikari', 'ashirwad b chhetri', 'priyanka karki', 'avelina khadka'",/title/tt27459113/,4
+600,pashupati prasad 2 bhasme don,2023,"comedy, drama",dipendra k. khanal                 ,"'barsha siwakoti', 'bipin karki', 'saugat malla', 'swastima khadka'",/title/tt29005176/,4
+601,harry ki pyari,2023,romance,kapil rijal                 ,"'jitu nepal', 'samragyee rajya laxmi shah', 'bijay baral', 'ranjana bhattarai'",/title/tt26734125/,4
+602,jackie i am 21,2023,drama,renasha bantawa rai                 ,"'jassita gurung', 'dhiraj magar'",/title/tt26453046/,2
+603,chi musi chi - even dead desire belonging,2023,horror,"s:myrhna james, yash saini                 ","'gaurav bista', 'arun chakraborty', 'benisha hamal', 'rabindra jha'",/title/tt24059624/,4
+604,a sathi suna,2023,crime,ram raghav acharya                 ,"'ramesh baniya', 'bimala giri', 'subash shah', 'barsha siwakoti'",/title/tt27459157/,4
+605,prema,2023,romance,govind singh bhandari                 ,"'surendra basel', 'prakash basnet', 'sabin bastola', 'arun chettri'",/title/tt26695236/,4
+606,basenji,2023,"drama, horror, thriller",ian scott clement                 ,"'asim niroula', 'supreme rai', 'sarita giri', 'raj pangeni sharma'",/title/tt10504992/,4
+607,bahaab,2023,family,pramod kandel                 ,"'surakshya panta', 'kamal mani nepal', 'afraan ali', 'surya sharma bhatta'",/title/tt16121280/,4
+608,chaurasi puja,2023,"biography, drama, history",kumud pant                 ,"'bidhya bati pant', 'kumud pant', 'yuvraj pant', 'sharada pant'",/title/tt28501085/,4
+609,hookah,2023,"comedy, drama","s:sambhu thapa, meetho kampan                 ","'bhupendra dhakal', 'prakash ghimire', 'tej giri', 'pramila khanal'",/title/tt6487068/,4
+610,green blackberries,2023,drama,prithviraj das gupta                 ,"'iris rai', 'bipasna rai', 'boben', 'dhananjay das'",/title/tt11763190/,4
+611,lunga,2023,drama,kiran rai                 ,"'prakash dahal', 'bhim sherma limbu', 'bhuwan singh rai', 'sara rai'",/title/tt28283299/,4
+612,bulaki,2023,drama,laxman sunar                 ,"'topendra bista', 'naren khadka', 'surakshya panta'",/title/tt27989702/,3
+613,nabin: the rise,2023,action,santosh sen                 ,"'nabin luhagun', 'priyanka karki', 'najir hussain', 'pramod sitoula'",/title/tt25621878/,4
+615,timro mero sath,2023,"drama, romance",ramesh mk poudel                 ,"'sandip chhetri', 'dipisha kc', 'puspa khadka', 'saroj khanal'",/title/tt28229373/,4
+616,pradeshi 2,2023,"drama, family",narayan rayamajhi                 ,"'barsha siwakoti', 'keki adhikari', 'prakash saput'",/title/tt29100768/,3
+617,lau kumude hidyo hero banna,2024,drama,kumud pant                 ,"'kumud pant', 'janaki pant'",/title/tt28626549/,2
+618,lalteen,2017,"action, drama",dev kumar shrestha,"'keki adhikari', 'janak bartaula', 'shishir bhandari', 'ram keshari bogati'",/title/tt6695976/,4
