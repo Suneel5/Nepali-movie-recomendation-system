@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
 </head>
+
 <body>
     <div class="container">
         <h1>Movie Recommendation System</h1>
@@ -10,24 +12,35 @@
             <input type="text" name="movie_title" placeholder="Enter movie name">
             <input type="submit" value="Search">
         </form>
-        {% if movie_title %}
-            <h2>Movie Information</h2>
-            <p>{{ movie_title }}</p>
-            <!-- Display movie information here based on your DataFrame -->
+        <!-- Movie Information Section -->
+        {% if movie_information %}
+        
+        <div id="movie-info">
+            <img src="{{ movie_information.poster_url }}" alt="movie_img">
+            <div>
+                <h2>{{ movie_information.Title }}</h2>
+                <h4>Release Year: {{ movie_information.Year }}</h4>
+                <h4>Genres: {{ movie_information.Genre }}</h4>
+                <h4>Cast: {{ movie_information.Cast }}</h4>
+                <h4>Director: {{ movie_information.Director }}</h4>
+            </div>
+        </div>
         {% endif %}
         {% if recommended_movies.empty %}
-            <h2>No Recommendations Found</h2>
+        <h2>No Recommendations Found</h2>
         {% else %}
-            <h2>Recommended Movies</h2>
-            <ul>
-                {% for movie in recommended_movies %}
-                    <li>
-                        <img src="{{ url_for('static', filename=movie.image_filename) }}" alt="{{ movie.title }}">
-                        <p>{{ movie.title }}</p>
-                    </li>
-                {% endfor %}
-            </ul>
+        <ul>
+            <h2  class='recommend'>Recommended Movies</h2>
+            {% for movie in recommended_movies %}
+            <li>
+                
+                <img src="{{ movie.poster_url }}" alt="movie_img">
+                <a href="#">{{ movie.Title }}</a> <!-- Wrap the title in an <a> tag -->
+            </li>
+            {% endfor %}
+        </ul>
         {% endif %}
     </div>
 </body>
+
 </html>

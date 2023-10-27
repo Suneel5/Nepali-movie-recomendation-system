@@ -10,26 +10,38 @@ df = pd.read_csv('data/cleaned_data.csv')
 def index():
     movie_title = None
     recommended_movies = []
+    movie_information={}
 
     if request.method == 'POST':
         movie_title = request.form.get('movie_title')
 
         if movie_title:
-            recommended_movies = recommend_movies(movie_title, df)
-
-    return render_template('index.html', movie_title=movie_title, recommended_movies=recommended_movies)
+            recommended_movies,movie_information = recommend_movies(movie_title, df)
+            
+    return render_template('index.html', movie_information=movie_information, recommended_movies=recommended_movies)
 
 
 def recommend_movies(movie_title, df):
-    # return a list of recommended movies based on the input movie title
+
     cosine_sim = np.load('similarity_matrix.npy')
     idx = df[df["Title"] == movie_title].index[0]
     sim_scores = list(enumerate(cosine_sim[idx]))
     sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
     sim_scores = sim_scores[1:11]  # Top 10 similar movies (excluding itself)
     movie_indices = [i[0] for i in sim_scores]
-    recommended_movies=df["Title"].iloc[movie_indices]
-    return recommended_movies
+
+    recommended_movies_title=df["Title"].iloc[movie_indices].values
+    poster_urls=df['poster_url'].iloc[movie_indices].values
+
+    recommended_movies=[]
+    for title,poster_url in zip(recommended_movies_title,poster_urls):
+        recommended_movies.append({'Title':title,
+                            'poster_url':poster_url})
+
+    movie_information=df.iloc[idx].to_dict()
+    print(recommended_movies)
+    return recommended_movies,movie_information
+
 
 if __name__ == '__main__':
     

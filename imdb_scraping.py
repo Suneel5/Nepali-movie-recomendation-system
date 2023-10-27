@@ -7,6 +7,8 @@ url='https://www.imdb.com/search/title/?title_type=feature&languages=ne&sort=yea
 no=51
 columns=['Title','Year','Genre','Director','Cast','Movie_id']
 df=pd.DataFrame(columns=columns)
+#scraping each pages
+
 while no<701:
     response=requests.get(url)
     with open("output.html", "w", encoding="utf-8") as file:
@@ -19,7 +21,7 @@ while no<701:
         dictt={}
         movie_name=movie.find('a').text.strip()
         dictt[columns[0]]=movie_name
-
+        
         movie_id=movie.find('a').get('href')
 
         year=movie.find(class_='lister-item-year text-muted unbold').text.strip()
@@ -38,7 +40,7 @@ while no<701:
         
         director = dir_cast[director_start:stars_start-len("Stars:")].strip()
         stars = [star.strip() for star in dir_cast[stars_start:].split(',')]
-
+        
         dictt[columns[3]]=director
         dictt[columns[4]]=stars
         dictt[columns[5]]=movie_id
@@ -47,7 +49,7 @@ while no<701:
     url=f'https://www.imdb.com/search/title/?title_type=feature&languages=ne&sort=year,asc&start={no}&ref_=adv_nxt'
     no=no+50
 
-df.to_csv('data/imdb_scraped.csv')
+# df.to_csv('data/imdb_scraped.csv')
 
     
   
