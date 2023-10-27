@@ -1,10 +1,43 @@
-/* Styling for Movie Information */
+
+h1{
+    text-align: center;
+    color:#550101;
+
+}
+
+.search-input {
+    width: 250px; /* Adjust the width as needed */
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 540px;
+}
+
+.search-button {
+    padding: 10px 20px;
+    background-color: #E50914;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.search-button:hover {
+    background-color: #ff5050;
+}
+
 #movie-info {
     display: flex;
     align-items: center;
-    justify-content: center; /* Center the content horizontally */
+    justify-content: center;
     margin: 20px 0;
-    flex-wrap: wrap; /* Allow content to wrap to the next line if needed */
+    flex-wrap: wrap;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 #movie-info img {
@@ -12,11 +45,33 @@
     height: 150px;
     max-width: 200px;
     margin-right: 20px;
+    
+}
+
+#movie-info p {
+    color: #550101; 
 }
 
 h2 {
     font-size: 20px;
     margin-top: 0;
+    color: #550101; 
+
+}
+
+h2.not-found {
+    text-align: center;
+    margin-top:30px;
+
+
+
+}
+
+h2.recommend {
+    font-size: 25px;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    text-align: center;
 }
 
 ul {
@@ -25,6 +80,9 @@ ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
 }
 
 li {
@@ -32,11 +90,18 @@ li {
     display: flex;
     flex-direction: column;
     align-items: center;
+    /* background-color: #fff;
+    border-radius: 10px; */
+    padding: 20px;
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
 }
+
 
 li a {
     text-decoration: none;
-    color: #333;
+    color: #550101;
     font-weight: bold;
     margin-top: 10px; /* Add margin at the top to create space */
 }
@@ -59,9 +124,3 @@ li img:hover {
     border-color: #E50914;
 }
 
-h2.recommend {
-    font-size: 16px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    text-align: center;
-}

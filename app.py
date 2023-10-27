@@ -9,16 +9,16 @@ df = pd.read_csv('data/cleaned_data.csv')
 @app.route('/', methods=['GET', 'POST'])
 def index():
     movie_title = None
+    movie_information=None
     recommended_movies = []
-    movie_information={}
-
+    
     if request.method == 'POST':
         movie_title = request.form.get('movie_title')
 
-        if movie_title:
+        if movie_title in df['Title'].values:
             recommended_movies,movie_information = recommend_movies(movie_title, df)
             
-    return render_template('index.html', movie_information=movie_information, recommended_movies=recommended_movies)
+    return render_template('index.html',movie_title=movie_title, movie_information=movie_information, recommended_movies=recommended_movies)
 
 
 def recommend_movies(movie_title, df):
@@ -39,7 +39,6 @@ def recommend_movies(movie_title, df):
                             'poster_url':poster_url})
 
     movie_information=df.iloc[idx].to_dict()
-    print(recommended_movies)
     return recommended_movies,movie_information
 
 
