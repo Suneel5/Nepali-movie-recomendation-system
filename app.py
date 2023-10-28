@@ -15,7 +15,7 @@ def index():
     if request.method == 'POST':
         movie_title = request.form.get('movie_title')
 
-        if movie_title in df['Title'].values:
+        if movie_title in df['Title'].str.lower().values:
             recommended_movies,movie_information = recommend_movies(movie_title, df)
             
     return render_template('index.html',movie_title=movie_title, movie_information=movie_information, recommended_movies=recommended_movies)
@@ -24,7 +24,8 @@ def index():
 def recommend_movies(movie_title, df):
 
     cosine_sim = np.load('similarity_matrix.npy')
-    idx = df[df["Title"] == movie_title].index[0]
+
+    idx = df[df["Title"].str.lower() == movie_title].index[0]
     sim_scores = list(enumerate(cosine_sim[idx]))
     sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
     sim_scores = sim_scores[1:11]  # Top 10 similar movies (excluding itself)
