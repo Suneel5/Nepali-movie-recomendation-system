@@ -4,7 +4,7 @@ link:
 
 ## Overview
 This is simple web app for nepali movie recommendaiton system. Recommendation system is based on content based filtering technique. 
-
+The system provides movie recommendations to users based on key features such as Title, Genres, Cast, and Director, all of which are scraped from IMDb.
 
 ## Dataset
 Data is scrapped from IMBD . Key features of movie like Title, Genres , Cast, Director are scrapped. 
