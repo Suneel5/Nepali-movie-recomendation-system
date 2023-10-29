@@ -8,7 +8,7 @@
         <h1>Nepali Movie Recommendation System</h1>
         <form action="/" method="post">
             <div class="form-container">
-                <input type="text" name="movie_title" class="search-input" placeholder="Enter movie name">
+                <input type="text" name="movie_title" class="search-input" placeholder="Enter movie name" value="{{ movie_title if movie_title is not none else '' }}">
                 <input type="submit" class="search-button" value="Search">
             </div>
         </form>
@@ -29,7 +29,7 @@
                 
                 {% for movie in recommended_movies %}
                 <li>
-                    <img src="{{ movie.poster_url }}" alt="movie_img">
+                    <a href="#"><img src="{{ movie.poster_url }}" alt="movie_img"></a>
                     <a href="#">{{ movie.Title }}</a> <!-- Wrap the title in an <a> tag -->
                 </li>
                 {% endfor %}
