@@ -1,6 +1,6 @@
 # Nepali Movie Recommendation System
 
-link:
+
 
 ## Overview
 This is simple web app for nepali movie recommendaiton system. Recommendation system is based on content based filtering technique. 
@@ -10,8 +10,11 @@ The system provides movie recommendations to users based on key features such as
 Data is scrapped from IMBD . Key features of movie like Title, Genres , Cast, Director are scrapped. 
 
 ## Objective
+<ul style="list-style-type: disc;">
+  <li>Implementing a content-based filtering recommendation system to suggest relevant Nepali movies to users.</li>
+  <li>Providing users with a simple and efficient way to discover Nepali movies that match their tastes and interests.</li>
+</ul>
 
-## Technical Aspect
 
 ## How to Use
 The Code is written in Python  3.10.12  If you don't have Python installed you can find it [here](https://www.python.org/downloads/).
