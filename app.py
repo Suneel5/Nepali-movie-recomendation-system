@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for
 import pandas as pd
-import numpy as np
+import numpy as npp
 
 app = Flask(__name__)
 # Load the cleaned movie data (adjust the path as needed)
