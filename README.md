@@ -1,6 +1,10 @@
 # Nepali Movie Recommendation System
 
-
+<p float="left">
+  <img src="static/dem1.png" width="46%"  height="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="static/dem2.png" width="46%"  height="250" />
+</p>
 
 ## Overview
 This is simple web app for nepali movie recommendaiton system. Recommendation system is based on content based filtering technique. 
