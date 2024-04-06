@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request, redirect, url_for,jsonify
 import pandas as pd
 import numpy as np
 
@@ -20,6 +20,13 @@ def index():
             
     return render_template('index.html',movie_title=movie_title, movie_information=movie_information, recommended_movies=recommended_movies)
 
+#when suggested movie is clicked
+@app.route('/recommend',methods=['POST','GET'])
+def recommend():
+    movie_title=request.args.get('movie_title')
+    print(movie_title)
+    recommended_movies,movie_information=recommend_movies(movie_title,df)
+    return render_template('index.html',movie_title=movie_title,movie_information=movie_information, recommended_movies=recommended_movies)
 
 def recommend_movies(movie_title, df):
 

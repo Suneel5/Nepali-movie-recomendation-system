@@ -29,8 +29,12 @@
                 
                 {% for movie in recommended_movies %}
                 <li>
-                    <a href="#"><img src="{{ movie.poster_url }}" alt="movie_img"></a>
-                    <a href="#">{{ movie.Title }}</a> <!-- Wrap the title in an <a> tag -->
+                    <a href="{{ url_for('recommend', movie_title=movie.Title) }}">
+                        <img src="{{ movie.poster_url }}" alt="movie_img">
+                    </a>
+                    
+                    <a href="{{ url_for('recommend', movie_title=movie.Title) }}">{{ movie.Title }}</a>
+                </li> <!-- Wrap the title in an <a> tag -->
                 </li>
                 {% endfor %}
             </ul>
