@@ -60,8 +60,8 @@ def name_suggestion(query):
     #return top 3 similar movie name suggestion(for auto complete while typing movie name)
     query=query.lower()
     df2=pd.DataFrame(df['Title'])
-    df2['sg']=df2['Title'].str.lower().apply(lambda x: fuzz.ratio(x,query))
-    suggestions=df2.sort_values(by='sg',ascending=False)[:3]['Title'].values   
+    df2['similarity']=df2['Title'].str.lower().apply(lambda x: fuzz.ratio(x,query))
+    suggestions=df2.sort_values(by='similarity',ascending=False)[:3]['Title'].values   
     return suggestions
 
 
