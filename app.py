@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for,jsonify
 import pandas as pd
 import numpy as np
+from fuzzywuzzy import fuzz
 
 app = Flask(__name__)
 # Load the cleaned movie data (adjust the path as needed)
@@ -16,7 +17,7 @@ def index():
         movie_title = request.form.get('movie_title')
 
         if movie_title.lower().strip() in df['Title'].str.lower().values:
-            recommended_movies,movie_information = recommend_movies(movie_title, df)
+            recommended_movies,movie_information = recommend_movies(movie_title)
             
     return render_template('index.html',movie_title=movie_title, movie_information=movie_information, recommended_movies=recommended_movies)
 
@@ -25,13 +26,17 @@ def index():
 def recommend():
     movie_title=request.args.get('movie_title')
     print(movie_title)
-    recommended_movies,movie_information=recommend_movies(movie_title,df)
+    recommended_movies,movie_information=recommend_movies(movie_title)
     return render_template('index.html',movie_title=movie_title,movie_information=movie_information, recommended_movies=recommended_movies)
 
-def recommend_movies(movie_title, df):
+@app.route('/search/',methods=['GET','POST'])
+def search():
+    query=request.args.get('query','')
+    suggestions=name_suggestion(query).tolist()
+    return jsonify({"suggestions":suggestions})
 
+def recommend_movies(movie_title):
     cosine_sim = np.load('similarity_matrix.npy')
-
     idx = df[df["Title"].str.lower() == movie_title.lower().strip()].index[0]
     sim_scores = list(enumerate(cosine_sim[idx]))
     sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
@@ -48,6 +53,16 @@ def recommend_movies(movie_title, df):
 
     movie_information=df.iloc[idx].to_dict()
     return recommended_movies,movie_information
+
+
+
+def name_suggestion(query):
+    #return top 3 similar movie name suggestion(for auto complete while typing movie name)
+    query=query.lower()
+    df2=pd.DataFrame(df['Title'])
+    df2['sg']=df2['Title'].str.lower().apply(lambda x: fuzz.ratio(x,query))
+    suggestions=df2.sort_values(by='sg',ascending=False)[:3]['Title'].values   
+    return suggestions
 
 
 if __name__ == '__main__':
