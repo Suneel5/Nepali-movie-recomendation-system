@@ -2,6 +2,8 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 </head>
 <body>
     <div class="container">
@@ -11,6 +13,28 @@
                 <input type="text" name="movie_title" class="search-input" placeholder="Enter movie name" value="{{ movie_title if movie_title is not none else '' }}">
                 <input type="submit" class="search-button" value="Search">
             </div>
+            <script>
+                $(document).ready(function() {
+                    $('.search-input').autocomplete({
+                        source: function(request, response) {
+                            $.ajax({
+                                url: '/search/',
+                                data: { query: request.term }, // Pass the search term as a query parameter
+                                dataType: 'json',
+                                success: function(data) {
+                                    response(data.suggestions);
+                                }
+                            });
+                        },
+                        minLength: 2, // Specify the minimum length of input before triggering autocomplete
+                        appendTo: 'body',
+                        open: function(event, ui) {
+        $('.ui-helper-hidden-accessible').hide(); // Hide the message when autocomplete dropdown is opened
+    }
+                    });
+                });
+            </script>
+            
         </form>
         {% if movie_title %}
             {% if movie_information %}
@@ -29,8 +53,12 @@
                 
                 {% for movie in recommended_movies %}
                 <li>
-                    <a href="#"><img src="{{ movie.poster_url }}" alt="movie_img"></a>
-                    <a href="#">{{ movie.Title }}</a> <!-- Wrap the title in an <a> tag -->
+                    <a href="{{ url_for('recommend', movie_title=movie.Title) }}">
+                        <img src="{{ movie.poster_url }}" alt="movie_img">
+                    </a>
+                    
+                    <a href="{{ url_for('recommend', movie_title=movie.Title) }}">{{ movie.Title }}</a>
+                </li> <!-- Wrap the title in an <a> tag -->
                 </li>
                 {% endfor %}
             </ul>
