@@ -31,7 +31,7 @@ pip install -r requirements.txt
   ```
 2. Run the app using the following command:
  ```bash
- python app.py
+ flask --app app run
    ```
 3. The app will open in your default web browser. Enter the text you want to analyze in the provided input field and click the "Analyze" button.
 
