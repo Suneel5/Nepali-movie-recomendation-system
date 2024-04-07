@@ -6,7 +6,9 @@
   <img src="static/dem2.png" width="46%"  height="250" />
 </p>
 
-url: https://nepali-movie-recomendation-system.onrender.com/
+url: https://nepali-movie-recomendation-system.onrender.com/ <br>
+It will take few seconds to load at first.
+
 ## Overview
 This is simple web app for nepali movie recommendaiton system. Recommendation system is based on content based filtering technique. 
 The system provides movie recommendations to users based on key features such as Title, Genres, Cast, and Director, all of which are scraped from IMDb.
