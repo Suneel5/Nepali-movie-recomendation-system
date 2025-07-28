@@ -1,73 +1,187 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nepali Movie Recommendation System</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 </head>
 <body>
     <div class="container">
-        <h1>Nepali Movie Recommendation System</h1>
-        <form action="/" method="post">
-            <div class="form-container">
-                <input type="text" name="movie_title" class="search-input" placeholder="Enter movie name" value="{{ movie_title if movie_title is not none else '' }}">
-                <input type="submit" class="search-button" value="Search">
-            </div>
-            <script>
-                $(document).ready(function() {
-                    $('.search-input').autocomplete({
-                        source: function(request, response) {
-                            $.ajax({
-                                url: '/search/',
-                                data: { query: request.term }, // Pass the search term as a query parameter
-                                dataType: 'json',
-                                success: function(data) {
-                                    response(data.suggestions);
-                                }
-                            });
-                        },
-                        minLength: 2, // Specify the minimum length of input before triggering autocomplete
-                        appendTo: 'body',
-                        open: function(event, ui) {
-        $('.ui-helper-hidden-accessible').hide(); // Hide the message when autocomplete dropdown is opened
-    }
-                    });
-                });
-            </script>
-            
-        </form>
-        {% if movie_title %}
-            {% if movie_information %}
-            <div id="movie-info">
-                <img src="{{ movie_information.poster_url }}" alt="movie_img">
-                <div>
-                    <h2>{{ movie_information.Title }}</h2>
-                    <p>Release Year: {{ movie_information.Year }}</p>
-                    <p>Genres: {{ movie_information.Genre }}</p>
-                    <p>Cast: {{ movie_information.Cast }}</p>
-                    <p>Director: {{ movie_information.Director }}</p>
+        <header>
+            <h1>Nepali Movie Recommendation System</h1>
+            <p class="subtitle">Discover amazing Nepali movies tailored to your taste</p>
+        </header>
+        
+        <main>
+            <form action="/" method="post" class="search-form">
+                <div class="form-container">
+                    <div class="search-wrapper">
+                        <input type="text" 
+                               name="movie_title" 
+                               class="search-input" 
+                               placeholder="Enter movie name..." 
+                               value="{{ movie_title if movie_title else '' }}"
+                               autocomplete="off">
+                        <button type="submit" class="search-button">
+                            <span>Search</span>
+                        </button>
+                    </div>
                 </div>
+            </form>
+            <!-- Error Message -->
+            {% if error_message %}
+            <div class="error-message">
+                <p>{{ error_message }}</p>
             </div>
-            <h2 class='recommend'>Recommended Movies</h2>
-            <ul>
-                
-                {% for movie in recommended_movies %}
-                <li>
-                    <a href="{{ url_for('recommend', movie_title=movie.Title) }}">
-                        <img src="{{ movie.poster_url }}" alt="movie_img">
-                    </a>
-                    
-                    <a href="{{ url_for('recommend', movie_title=movie.Title) }}">{{ movie.Title }}</a>
-                </li> <!-- Wrap the title in an <a> tag -->
-                </li>
-                {% endfor %}
-            </ul>
-            {% else %}
-            <h2 class="not-found">Movie Not Found. Please check if you spelled it right!</h2>
             {% endif %}
-            
-        {% endif %}
-    </div>
-</body>
 
+            <!-- Movie Information and Recommendations -->
+            {% if movie_title and movie_information and not error_message %}
+            <section class="movie-details">
+                <div class="movie-info">
+                    <div class="movie-poster">
+                        <img src="{{ movie_information.poster_url }}" 
+                             alt="{{ movie_information.Title }} poster"
+                             onerror="this.src='/static/no-image.png'">
+                    </div>
+                    <div class="movie-meta">
+                        <h2>{{ movie_information.Title }}</h2>
+                        <div class="movie-details-grid">
+                            <div class="detail-item">
+                                <span class="label">Release Year:</span>
+                                <span class="value">{{ movie_information.Year }}</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="label">Genres:</span>
+                                <span class="value">{{ movie_information.Genre }}</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="label">Cast:</span>
+                                <span class="value">{{ movie_information.Cast }}</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="label">Director:</span>
+                                <span class="value">{{ movie_information.Director }}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="recommendations">
+                <h2 class="recommendations-title">Recommended Movies</h2>
+                <div class="movies-grid">
+                    {% for movie in recommended_movies %}
+                    <div class="movie-card">
+                        <a href="{{ url_for('recommend', movie_title=movie.Title) }}" class="movie-link">
+                            <div class="movie-poster-container">
+                                <img src="{{ movie.poster_url }}" 
+                                     alt="{{ movie.Title }} poster"
+                                     class="movie-poster-small"
+                                     onerror="this.src='/static/no-image.png'">
+                            </div>
+                            <div class="movie-title">{{ movie.Title }}</div>
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </section>
+            {% endif %}
+        </main>
+    </div>
+    <!-- JavaScript for enhanced interactivity -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Basic autocomplete functionality with vanilla JavaScript
+            const searchInput = document.querySelector('.search-input');
+            const searchForm = document.querySelector('.search-form');
+            
+            if (searchInput) {
+                let timeoutId;
+                
+                searchInput.addEventListener('input', function() {
+                    clearTimeout(timeoutId);
+                    const query = this.value.trim();
+                    
+                    if (query.length >= 2) {
+                        timeoutId = setTimeout(() => {
+                            fetchSuggestions(query);
+                        }, 300);
+                    } else {
+                        removeSuggestions();
+                    }
+                });
+                
+                searchInput.addEventListener('blur', function() {
+                    // Remove suggestions after a short delay to allow for clicks
+                    setTimeout(removeSuggestions, 200);
+                });
+            }
+            
+            // Add loading state to search button
+            if (searchForm) {
+                searchForm.addEventListener('submit', function() {
+                    const button = document.querySelector('.search-button span');
+                    if (button) {
+                        button.textContent = 'Searching...';
+                    }
+                });
+            }
+            
+            // Smooth scroll to recommendations if present
+            const recommendations = document.querySelector('.recommendations');
+            if (recommendations) {
+                setTimeout(() => {
+                    recommendations.scrollIntoView({ 
+                        behavior: 'smooth', 
+                        block: 'start' 
+                    });
+                }, 500);
+            }
+        });
+        
+        function fetchSuggestions(query) {
+            fetch(`/search/?query=${encodeURIComponent(query)}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.suggestions && data.suggestions.length > 0) {
+                        showSuggestions(data.suggestions);
+                    } else {
+                        removeSuggestions();
+                    }
+                })
+                .catch(() => removeSuggestions());
+        }
+        
+        function showSuggestions(suggestions) {
+            removeSuggestions();
+            
+            const searchWrapper = document.querySelector('.search-wrapper');
+            const suggestionBox = document.createElement('div');
+            suggestionBox.className = 'suggestion-box';
+            
+            suggestions.forEach(suggestion => {
+                const item = document.createElement('div');
+                item.className = 'suggestion-item';
+                item.textContent = suggestion;
+                item.addEventListener('click', function() {
+                    document.querySelector('.search-input').value = suggestion;
+                    removeSuggestions();
+                    document.querySelector('.search-form').submit();
+                });
+                suggestionBox.appendChild(item);
+            });
+            
+            searchWrapper.appendChild(suggestionBox);
+        }
+        
+        function removeSuggestions() {
+            const existing = document.querySelector('.suggestion-box');
+            if (existing) {
+                existing.remove();
+            }
+        }
+    </script>
+</body>
 </html>
